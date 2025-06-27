@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# How to Edit and Revise on the BOW Website {#sec-edit .unnumbered}
+# Cómo editar y revisar en la web de BOW {#sec-edit .unnumbered}
 
 ## Step 1: Creating an Account {#sec-edit-one}
 

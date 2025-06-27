@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix 1: Policies and Procedures Regarding the Revision, Authorship, and Citation of BOW Species Accounts {#sec-app1 .unnumbered}
+# Apéndice 1: Políticas y procedimientos relativos a la revisión, autoría y citación de las descripciones de especies de BOW {#sec-app1 .unnumbered}
 
 *Birds of the World* (BOW) species accounts are “living” and versioned documents that are intended to be regularly updated to incorporate new information and correct errors. BOW strives to enact account revisions and assign authorship as fairly and accurately as possible. This document (Appendix 1) is intended to define the policies and procedures of BOW content generation and the expectations of BOW contributors. To ensure fair and appropriate recognition of contributors and consistency over the years, BOW contributors and staff will adhere to the following guidelines to the maximum extent possible:
 

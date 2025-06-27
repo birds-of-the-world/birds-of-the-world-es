@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix 2: Standard Account Pages, Sections, and Subsections {#sec-app2 .unnumbered}
+# Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada {#sec-app2 .unnumbered}
 
 Shown below are the pages (purple), sections (blue), and subsections (black) that should appear in most or all accounts in the order in which they should occur. You can click on each section to view its detailed instructions in [Appendix 3](https://birds-of-the-world.github.io/birds-of-the-world/app3.html).
 

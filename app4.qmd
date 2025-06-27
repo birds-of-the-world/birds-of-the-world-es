@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix 4: Style and Formatting Conventions {#sec-app4 .unnumbered}
+# Apéndice 4: Convenciones de estilo y formato {#sec-app4 .unnumbered}
 
 *Birds of the World* (BOW) typically follows *The Chicago Manual of Style*, 18th edition. The stylistic conventions most relevant to BOW accounts (and any deviations from *The Chicago Manual of Style*) are explained below.
 

@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix 3: Descriptions of Account Pages, Sections, and Subsections {#sec-app3 .unnumbered}
+# Apéndice 3: Descripción de las páginas, secciones y subsecciones de la ficha {#sec-app3 .unnumbered}
 
 In general, when you cannot find information on a given topic, please fill in that section with “Information needed” or “Information is needed” (not with “No information,” “No data,” or “Nothing known”). Similarly, use statements like “Additional information needed” instead of “No other information.” If you did not search for literature for a section(s), you may note “This section was not evaluated.” For sections or subsections in which there might not ever be any relevant information for a species because the behavior does not apply (e.g., Nonbreeding Nests, Cooperative Breeding, or Brood Parasitism by Other Species), use “Not reported.”
 

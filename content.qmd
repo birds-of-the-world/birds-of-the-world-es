@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Account Content {#sec-content .unnumbered}
+# Contenido de la ficha {#sec-content .unnumbered}
 
 ## Overview {#sec-content-overview}
 

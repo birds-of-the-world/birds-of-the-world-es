@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix 6: Glossary {#sec-app6 .unnumbered}
+# Apéndice 6. Glosario {#sec-app6 .unnumbered}
 
 -   **Abdomen:** The flattish posterior region on the underside of the trunk, approximately from the posterior end of the sternum to the vent.
 

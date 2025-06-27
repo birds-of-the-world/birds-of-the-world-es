@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix 7: Media Policies and Procedures {#sec-app7 .unnumbered}
+# Apéndice 7: Políticas y procedimientos relativos a los medios de comunicación {#sec-app7 .unnumbered}
 
 Media galleries will be added to your revision by *Birds of the World* (BOW) staff. We suggest that you look over some examples of recently published BOW accounts to get a good sense of how media galleries, titles, and captions are typically composed.
 

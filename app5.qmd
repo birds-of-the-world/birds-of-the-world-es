@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix 5: Format for References {#sec-app5 .unnumbered}
+# Apéndice 5: Formato de las referencias {#sec-app5 .unnumbered}
 
 Reference format generally follows that used by *Ornithology*, *Ornithological Applications*, and *Studies in Avian Biology*.
 

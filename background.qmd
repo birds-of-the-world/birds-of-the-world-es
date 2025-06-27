@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Background Information {#sec-background .unnumbered}
+# Información general {#sec-background .unnumbered}
 
 **Please review [Appendix 1](https://birds-of-the-world.github.io/birds-of-the-world/app1.html)** for all policies regarding authorship, conduct, and content. It is assumed that contributors have read and will abide by these policies and have signed the BOW [**Contributor Agreement**](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) before beginning their revision.
 

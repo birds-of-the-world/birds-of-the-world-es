@@ -28,6 +28,7 @@ format:
   html:
     theme: cosmo
     toc: true
+    toc-title: Índice
     toc-depth: 3
 
 editor: visual
