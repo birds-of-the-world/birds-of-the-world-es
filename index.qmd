@@ -1,0 +1,19 @@
+*Version 15: Updated May 2025*
+
+# Overview {.unnumbered}
+
+Thank you for volunteering to work on a *Birds of the World* (BOW) species account! We aim to make BOW the singular source for the collected biology of all birds of the world. This dynamic platform is made possible by merging two of the Cornell Lab’s flagship publications, *Birds of North America* (BNA) and *Neotropical Birds* (NB), with content from the renowned *Handbook of the Birds of the World* (HBW Alive) and *Bird Families of the World*, originally published by Lynx Edicions. BOW is supported with real-time data from [eBird](https://ebird.org/home) and multimedia from the [Macaulay Library](https://www.macaulaylibrary.org/) (which now has incorporated considerable material originally archived in the Internet Bird Collection).
+
+Our ultimate goal is to generate authoritative and comprehensive species accounts for each of the roughly 11,145 species of birds in the world. This guide will review the basics of revising a species account, with guidance on content, style, and format. All account revisions are expected to follow these guidelines closely for consistency, clarity, and efficiency.
+
+**To be involved with the BOW project, you must review and abide by the policies for authorship, conduct, and content outlined in [**Appendix 1**](app1.qmd). You will also need to complete a Contributor Information Form ([**English**](https://forms.gle/C3MySs5DtQZ1NR6b8), [**Spanish**](https://forms.gle/EZes93EWtmtrvtXi7)). You should aim to resubmit this form every two years to maintain your status as an active contributor.**
+
+In a typical revision, BOW staff will grant you “author access” to a draft account that you will be able to revise on the BOW website without your changes becoming publicly viewable. This draft will contain whatever was present in the most recent version of the account. You and/or your team should combine, edit, or remove this content as you add your own new content to the account.
+
+When you have completed your revision, please fill out the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)). BOW staff will then review the account and may request clarification, formatting, additions, or other changes. BOW staff will also add media (images, sounds, and figures and associated captions) and will fully edit and format the account as necessary. Once that is done, you will have a defined Author Review period to make any final changes to the account before it is considered ready to be published. Please endeavor to provide any final feedback you might have within this time period; once it has elapsed, the account may be published whether or not BOW staff have final confirmation from you.
+
+Details about every step of the process are included in this document. Thank you for your efforts to make BOW an authoritative and dynamic resource!
+
+Lead Editorial Team: Shawn Billerman ([smb223\@cornell.edu](mailto:smb223@cornell.edu)), Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)), Fernando Medrano ([fm458\@cornell.edu](mailto:fm458@cornell.edu)), Nicholas Sly ([nds22\@cornell.edu](mailto:nds22@cornell.edu)), Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu))
+
+The Cornell Lab of Ornithology (<http://www.birds.cornell.edu/>) sponsors the BOW series and holds the copyright.

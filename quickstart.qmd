@@ -1,0 +1,59 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# QuickStart Guide for BOW Editing and Reviewing {.unnumbered}
+
+To edit or review an account, you will be working with a draft account for your species that is not visible to the general public. The steps below are a quick guide to help you access and edit (if applicable) the draft for your account:
+
+-   <div>
+
+    Navigate to <https://birdsoftheworld.org/bow/home> and sign into your Cornell Lab account (if prompted). You can verify that you are signed in if you see a black silhouette of a person in the upper right of the page followed by your name and username in parentheses. **Note, this should be your individual username, NOT an institutional or group name/login.**
+
+    </div>
+
+-   <div>
+
+    Once signed in, use the species search field or the taxonomic list to navigate to the species account you will be working on. The initial “Introduction” page you see when you search for your account is the “live” version of the account. The live version is not editable. You will need to access the “draft” version of the account to see or make changes.
+
+    </div>
+
+-   <div>
+
+    **To open the draft of the account** to review or edit, click the orange button that reads “Version: Live - X.Y” at the top of the screen (the version number depends on how many times the account’s citable content has been updated). Select the **“Draft”** option from the drop-down menu.
+
+    </div>
+
+-   <div>
+
+    You should see an orange bar across the top of the screen that says “REVISION.” That indicates that you are looking at the draft.
+
+    </div>
+
+-   <div>
+
+    **To review an account:** You can navigate between pages in draft mode by using the index of articles on the left-hand side of the page or the navigation buttons at the bottom of each page. Typically, only the lead author(s) of a revision can edit the text during review; other reviewers are asked to submit their feedback as a Word document or email to the BOW staff member coordinating the review.
+
+    </div>
+
+-   <div>
+
+    **To edit an account:** Click the orange button that reads “Edit Revision” that appears at the upper right of the text that you would like to edit. This will open up an online editor window. Once you open the online editor, the editing tools will be displayed in a menu bar near the top of the screen in your browser. You can hover over any of the buttons for a brief description of their functionality.
+
+    </div>
+
+-   <div>
+
+    The white text box below the editor menu bar will show the draft version of the text. You can modify this text as necessary without affecting what people see in the live online version of the account on BOW. You can verify that you are editing the draft of the account by checking that there is an orange oval beneath the species name in the upper left corner of the editor window that says “REVISION.” **Be sure to save your work using the buttons at the upper right of the screen.**
+
+    </div>
+
+-   <div>
+
+    Once you start editing and saving your changes, the live site (what the public sees) will still show the old version of the account and its associated media, but the draft pages will show your updated text.
+
+    </div>
+
+Please consult the full author instructions for additional details about accessing the system, formatting, style, and anything else relevant to revising or reviewing an account. If you need further help, or have any questions, please contact Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) or Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).

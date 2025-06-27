@@ -1,0 +1,70 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Background Information {#sec-background .unnumbered}
+
+**Please review [Appendix 1](https://birds-of-the-world.github.io/birds-of-the-world/app1.html)** for all policies regarding authorship, conduct, and content. It is assumed that contributors have read and will abide by these policies and have signed the BOW [**Contributor Agreement**](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) before beginning their revision.
+
+BOW contributors do not receive financial compensation for their work, although they do receive *gratis* access to BOW. 
+
+For an initial BOW revision, you will be given access to a draft account that contains text derived from the most recent BOW, *Birds of North America* (BNA), *Neotropical Birds* (NB), and/or *Handbook of the Birds of the World* (HBW) species account (depending on your species’ geographic distribution). You can expect the following type of coverage from each original source:
+
+-   BNA: In-depth, comprehensive coverage of (nearly) all species that breed in North America. Accounts were written with an emphasis on North America, and there may or may not be coverage of publications/biology beyond this geographic area. 
+-   NB: The depth of accounts varied from fully realized accounts on par with BNA’s coverage to brief accounts with only introductory text. Accounts were written with an emphasis on Neotropical biology.
+-   HBW: Broad coverage of every species of bird in the world, focusing on major aspects of natural history, including breeding biology, food and feeding, and local and regional movement. Accounts were written to capture the variation in a species across its global distribution at a broad scale and may lack the level of detail found in BNA (and some) NB accounts.
+
+You may edit, combine, or remove any or all of the existing text as you see fit as you populate new text and references into the account in the course of your revision. 
+
+If your account is for a species that was never covered by BNA or NB, the original HBW text will have been imported into the more comprehensive BNA/NB structure. When HBW text is present, it will have been imported into the first section of the page to which it correlates. Some of this text will likely be more appropriate in other sections or subsections, so we ask that you parse out whatever you choose to use into the most germane sections and subsections throughout the account (see [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html)). The HBW text may also include hyperlinks to images or other media originally from the Internet Bird Collection (or elsewhere). If these links are still functional, you may leave them in or remove them as you see fit. Please remove any broken links.
+
+Please note, **primary sources (i.e., the original published sources of information, often academic journal articles) are always preferred**, and contributors should review original literature on the species to expand on, or replace, text from the above secondary sources (i.e., sources that contain information originally published elsewhere) to attain the appropriate level of detail in the account. Text originally derived from the HBW source project frequently did not contain references within the text. You should review the references (including the Additional References, which will contain HBW citations that are not referenced in the text) on the References page and, when possible and useful, ensure that those references are cited throughout the account’s text. See [Account Content](https://birds-of-the-world.github.io/birds-of-the-world/content.html) for further details on sources.
+
+## Full and Partial Revisions {#sec-background-full}
+
+A **full revision** will involve assessment of the entire account with updates across as many sections as appropriate, commensurate with the available publications on the species’ biology.
+
+-   Contributors should aim to do an exhaustive literature search and populate text and references into as many of the pages, sections, and subsections as possible.
+
+A **partial revision** will involve a change to some of the citable content of an account without a comprehensive update to as many sections as possible. Some examples of partial revisions include an update of systematics/taxonomy, the addition of information from one or a few publications, and/or a revision of one or more sections by a specialist or BOW editor.
+
+-   Contributors may choose to do multiple partial revisions and thus build toward a full revision through several intermediate partial revisions. When such an approach is taken, the first partial revision should give priority to the most outdated content and/or the author’s area of special expertise.
+
+## Timeline for a Revision {#sec-background-timeline}
+
+Revisions go through four stages before they are published:
+
+-   [**Draft:**]{style="color:red;"} Contributors revise and add content.
+-   [**Editor Review:**]{style="color:orange;"} BOW editors review the completed draft and add media.
+-   [**Author Review:**]{style="color:lightskyblue;"} Contributors respond to BOW editors’ comments and review the completed account with all media.
+-   [**Final:**]{style="color:blue;"} BOW staff look over the author’s final changes and then publish the account.
+
+Typically, BOW urges contributors to complete the draft stage of their revision in one month (for partial revisions) or three months (for full revisions); however, the revision timeline will also reflect the constraints faced by the contributors and BOW staff, as well as the nature of the revision. In some cases, completing a full revision for a well-studied species may take six months or more.
+
+If a revision will exceed the suggested timeline, contributors should communicate with BOW staff early and often. BOW endeavors to provide flexibility when it comes to the timing of revisions; however, in some cases (e.g., time-sensitive taxonomic updates, if the progress on a revision is overly slow, and/or if BOW staff are not able to communicate with the relevant contributors), the revision may be completed by BOW staff or others.
+
+## Authorship and Contributions to a Revision {#sec-background-authorship}
+
+See [Appendix 1](https://birds-of-the-world.github.io/birds-of-the-world/app1.html) for full details on authorship and contributions.
+
+Before beginning a BOW species account revision, all relevant contributors should reach an agreement in advance on the following (if applicable):
+
+1.  which contributor will take the lead on coordinating the revision effort, 
+2.  what each contributor will contribute to the revision, and
+3.  the order of authorship.
+
+Normally, the sequence of authors should reflect the relative cumulative contribution of each author to that version of the account, although a different sequence can be suggested by the authors if they agree among themselves. 
+
+Since each BOW account is derived from one or more source publications, the original authors associated with each source account will be retained in the BOW citation inasmuch as the content they authored is still included in that version of the BOW account and justifies coauthorship.
+
+Several subject-matter experts are employed by BOW to supplement and standardize some of the most technical sections of an account (e.g., Plumages, Molts, Systematics, and Sounds and Vocal Behavior). Contributors will be asked on the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) if they would like to use these experts’ services in their account. The work of these subject-matter experts may merit authorship, as per typical authorship policies, unless by prior agreement.
+
+BOW staff and contributors will be involved with the preparation of several elements of an account, which contributors will have the opportunity to review. Some elements that BOW staff frequently cover include: 
+
+-   Photo galleries and captions 
+-   Video galleries and captions (when applicable) 
+-   Plumages, Molts, and Bare Parts
+
+It is expected that contributors will review all contributions to the account prior to publication. In the event of any disagreements or conflicts, contributors should communicate with BOW staff to try and reach a mutually satisfactory resolution. If a resolution cannot be reached, contributors may choose to defer to BOW staff or end their participation in the project.

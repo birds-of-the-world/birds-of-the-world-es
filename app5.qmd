@@ -1,0 +1,78 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Appendix 5: Format for References {#sec-app5 .unnumbered}
+
+Reference format generally follows that used by *Ornithology*, *Ornithological Applications*, and *Studies in Avian Biology*.
+
+**Note:** Please use an en dash (–) and not a hyphen for a range of page numbers (e.g., “71:296–308”). To insert an en dash, use the Option and hyphen keys on a Mac or the Control and hyphen keys on a PC.
+
+## Journal Article {#sec-app5-journal}
+
+-   Sillett, T. S., and R. T. Holmes (2002). Variation in survivorship of a migratory songbird throughout its annual cycle. Journal of Animal Ecology 71:296–308.
+-   Sandercock, B. K., D. B. Lank, R. B. Lanctot, B. Kempenaers, and F. Cooke (2000). Ecological correlates of mate fidelity in two Arctic-breeding sandpipers. Canadian Journal of Zoology 78(11):1948–1958.
+-   Bird, K. L., C. L. Aldridge, J. E. Carpenter, C. A. Paszkowski , M. S. Boyce, and D. W. Coltman (2013). The secret sex lives of sage-grouse: Multiple paternity and intraspecific nest parasitism revealed through genetic analysis. Behavioral Ecology 24:29–38.
+-   Adreani, N. M., M. Valcu, Citizen Scientists, and L. Mentesana (2022). Asymmetric architecture is non-random and repeatable in bird’s nests. Current Biology 32:R412–R413.
+-   Note that issue numbers are optional.
+
+## Book {#sec-app5-book}
+
+-   Marks, J. S., P. Hendricks, and D. Casey (2016). The Birds of Montana. Buteo Books, Arrington, VA, USA.
+-   Peck, G. K., and R. D. James (1983). Breeding Birds of Ontario: Nidiology and Distribution. Volume 1: Nonpasserines. Royal Ontario Museum, Toronto, ON, Canada.
+-   Dickinson, E. C., and J. V. Remsen Jr. (2013). The Howard and Moore Complete Checklist of the Birds of the World. 4th edition. Aves Press, Eastbourne, UK.
+-   Pyle, P. (2022). Identification Guide to North American Birds. Part I. 2nd edition. Slate Creek Press, Forest Knolls, CA, USA.
+
+## Book Chapter {#sec-app5-chapter}
+
+-   Rogers, C. A., R. J. Robertson, and B. J. Stutchbury (1991). Patterns and effects of parasitism by *Protocalliphora sialia* on Tree Swallow nestlings. In Bird–Parasite Interactions: Ecology, Evolution and Behaviour (J. E. Loye and M. Zuk, Editors). Oxford University Press, Oxford, UK. pp. 123–139.
+-   James, R. D. (2007). Blue-headed Vireo (*Vireo solitarius*). In The Atlas of the Breeding Birds of Ontario, 2001–2005 (M. D. Cadman, D. A. Sutherland, G. G. Beck, D. Lepage, and A. R. Couturier, Editors). Bird Studies Canada, Environment Canada, Ontario Field Ornithologists, Ontario Ministry of Natural Resources, and Ontario Nature, Toronto, ON, Canada. pp. 368–369.
+-   If a volume/part and/or edition for the book is needed, place this after the book title and before the list of editors (as a new “sentence,” as it would be in the book examples above). Example:
+    -   Kemp, A. C. (2001). Family Bucerotidae (hornbills). In Handbook of the Birds of the World. Volume 6: Mousebirds to Hornbills (J. del Hoyo, A. Elliott, and J. Sargatal, Editors). Lynx Edicions, Barcelona, Spain. pp. 436–523.
+
+## Government Report {#sec-app5-government}
+
+-   Matthews, S. N., R. J. O’Connor, L. R. Iverson, and A. M. Prasad (2004). Atlas of climate change effects in 150 bird species of the eastern United States. USDA Forest Service General Technical Report NE-GTR-318. 
+-   Balda, R. P., and N. Masters (1980). Avian communities in the pinyon-juniper woodland: A descriptive analysis. In Workshop Proceedings: Management of Western Forests and Grasslands for Nongame Birds (R. M. DeGraaf and K. E. Evans, Editors). U.S. Department of Agriculture Forest Service Intermountain Forest and Range Experiment Station General Technical Report INT-86. pp. 146–149.
+
+## Thesis or Dissertation {#sec-app5-thesis}
+
+-   Robbins, C. S. (1950). Ecological distribution of the breeding Parulidae of Maryland. M.S. thesis, George Washington University, Washington, DC, USA. 
+-   Brown, C. R. (1985). The costs and benefits of coloniality in the Cliff Swallow. Ph.D. dissertation, Princeton University, Princeton, NJ, USA.
+
+## Online Resource {#sec-app5-online}
+
+-   BirdLife International (2018). Species factsheet: Red-winged Blackbird Agelaius phoeniceus. <https://datazone.birdlife.org/species/factsheet/red-winged-blackbird-agelaius-phoeniceus>
+-   NatureServe (2017). NatureServe Explorer: An Online Encyclopedia of Life. Version 7.1. NatureServe, Arlington, VA, USA. <http://explorer.natureserve.org/>
+-   **Note that the URL/DOI should not be included in the “Full reference” field**, only in the URL or DOI field at the bottom of the form for creating a new reference (see @sec-edit-five).
+
+## *Birds of North America* or *Birds of the World* Species Account {#sec-app5-BNA}
+
+-   Power, H. W., and M. P. Lombardo (1996). Mountain Bluebird (*Sialia currucoides*). In The Birds of North America, No. 222 (A. Poole and F. Gill, Editors). The Academy of Natural Sciences, Philadelphia, PA, USA, and The American Ornithologists’ Union, Washington, DC, USA. <https://doi.org/10.2173/tbna.222.p>
+-   Greenlaw, J. S., C. S. Elphick, W. Post, and J. D. Rising (2018). Saltmarsh Sparrow (*Ammospiza caudacuta*), version 2.0. In The Birds of North America (P. G. Rodewald, Editor). Cornell Lab of Ornithology, Ithaca, NY, USA. <https://doi.org/10.2173/bna.sstspa.02>
+-   Pantoja-Maggi, V., and C. E. Muñoz-Varela (2024). Magellanic Tapaculo (*Scytalopus magellanicus*), version 2.1. In Birds of the World (S. M. Billerman, Editor). Cornell Lab of Ornithology, Ithaca, NY, USA. <https://doi.org/10.2173/bow.magtap1.02.1>
+
+## Work with Editor(s) Instead of Author(s) {#sec-app5-editor}
+
+-   Use “, Editor” or “, Editors” between the list of names and the year:
+    -   Davidson, P. J. A., R. J. Cannings, A. R. Couturier, D. Lepage, and C. M. Di Corrado, Editors (2015). The Atlas of the Breeding Birds of British Columbia, 2008–2012. Bird Studies Canada, Delta, BC, Canada.
+
+## Author with Suffix {#sec-app5-suffix}
+
+-   Buckelew, A. R., Jr. and G. A. Hall (1994). The West Virginia Breeding Bird Atlas. University of Pittsburgh Press, Pittsburgh, PA, USA.
+-   Dunning, J. B., Jr., R. K. Bowers Jr., S. J. Suter, and C. E. Bock (2020). Cassin's Sparrow (*Peucaea cassinii*), version 1.0. In Birds of the World (P. G. Rodewald, Editor). Cornell Lab of Ornithology, Ithaca, NY, USA. <https://doi.org/10.2173/bow.casspa.01>
+-   Kinsella, J. M., L. T. Hon, and P. B. Reed Jr. (1973). A comparison of the helminth parasites of the Common Gallinule (*Gallinula chloropus cachinnans*) and the Purple Gallinule (*Porphyrula martinica*) in Florida. American Midland Naturalist 89:467–473.
+-   Telfair, R. C., II (2024). Western Cattle-Egret (*Ardea ibis*), version 1.1. In Birds of the World (P. G. Rodewald, B. K. Keeney, S. M. Billerman, and M. A. Bridwell, Editors). Cornell Lab of Ornithology, Ithaca, NY, USA. <https://doi.org/10.2173/bow.categr1.01.1>
+
+## Notes {#sec-app5-notes}
+
+-   Capitalization of titles in English:
+    -   For titles of journal articles and technical reports, capitalize only the first word of the title, the first word after a colon or dash, proper nouns, and common names of birds (except words after a hyphen) (including names not recognized by the eBird/Clements checklist).
+    -   Note that all parts of common name should be capitalized when listing multiple bird species (e.g., use “Magnolia and Black-throated Blue Warblers” instead of “Magnolia and Black-throated Blue warblers”).
+    -   For book titles, follow the title case rules outlined in @sec-app4-headings.
+-   Unlike in the main text of BOW species accounts, the reference list abbreviates U.S. state names using two-letter postal abbreviations, uses “USA” instead of “U.S.,” and uses “Washington, DC” instead of “Washington, D.C.”
+    -   For states, provinces, or territories in countries other than the U.S., use the analogous abbreviation if available (e.g., “Vancouver, BC, Canada,” “Sydney, NSW, Australia”).
+-   Ensure that the full name of a journal is used (e.g., use “The Auk” and not “Auk”).
+-   List up to 12 authors; if there are more than 12 authors, list the first 11 authors, followed by “et al.”

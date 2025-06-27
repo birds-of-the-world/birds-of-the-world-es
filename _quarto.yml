@@ -1,0 +1,51 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "<em>Birds of the World</em> Contributor Guidelines"
+  chapters:
+    - index.qmd
+    - quickstart.qmd
+    - checklist.qmd
+    - background.qmd
+    - content.qmd
+    - edit.qmd
+    - app1.qmd
+    - app2.qmd
+    - app3.qmd
+    - app4.qmd
+    - app5.qmd
+    - app6.qmd
+    - app7.qmd
+
+  page-footer:
+    left: "<em>Birds of the World</em> Contributor Guidelines (v. 15)"
+  site-url: https://birds-of-the-world.github.io/birds-of-the-world/
+  repo-branch: main
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+
+editor: visual
+
+knitr:
+  opts_chunk:
+    comment: "#>"
+    collapse: true
+    cache: false
+    warning: false
+    error: false
+    message: false
+    out.width: "\\textwidth"
+    fig.align: "center"
+    fig.show: "hold"
+    cache.path: "cache/"
+    R.options:
+      digits: 3
+      knitr.kable.NA: ""
+      dplyr.print_min: 6
+      dplyr.print_max: 6

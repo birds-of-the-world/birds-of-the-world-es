@@ -1,0 +1,655 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Appendix 3: Descriptions of Account Pages, Sections, and Subsections {#sec-app3 .unnumbered}
+
+In general, when you cannot find information on a given topic, please fill in that section with “Information needed” or “Information is needed” (not with “No information,” “No data,” or “Nothing known”). Similarly, use statements like “Additional information needed” instead of “No other information.” If you did not search for literature for a section(s), you may note “This section was not evaluated.” For sections or subsections in which there might not ever be any relevant information for a species because the behavior does not apply (e.g., Nonbreeding Nests, Cooperative Breeding, or Brood Parasitism by Other Species), use “Not reported.”
+
+Please avoid using the words “recent” or “recently” in accounts. These are relative terms, and some accounts are updated more frequently than others, which can lead to misleading statements in some cases. Please try to provide the relevant year (or range of years) whenever possible.
+
+## [INTRODUCTION]{style="color:purple;"} {#sec-app3-intro}
+
+All accounts should include a concise introduction of 1–5 paragraphs. Introduce your species to the reader, emphasizing aspects that make it unique, including (as appropriate) systematics, appearance, distribution, migration, habitat, foraging, breeding, population size, and conservation. The best introductions are not simply a summary of factual details but strive for readability while still reflecting the science within the account. Descriptions of appearance should be concise and are generally not the focus of the Introduction. Descriptions of range should be general (e.g., "occurs in montane forests of Tanzania and Kenya, typically from 2,600–3,400 m"). Introductions generally do not include cited references unless a quote is included or information that is not cited elsewhere in the account is presented. Some accounts have summarized aspects of the species that are well studied, providing citations, especially at the end of the Introduction.
+
+## [FIELD IDENTIFICATION]{style="color:purple;"} {#sec-app3-id}
+
+### [Field Identification (introduction)]{style="color:blue;"} {#sec-app3-id-intro}
+
+If the Identification article is particularly long, summarize the most important aspects of the identification of the species, including the essential field marks. A bulleted list may be appropriate here. Avoid citations in this section.
+
+### [Identification]{style="color:blue;"} {#sec-app3-id-id}
+
+Provide a general summary description of the major points of identification for adults and juveniles by sex (when age and sex can be determined). The terms “adults” or “first-cycle birds” can be used here, but be sure to include the plumage(s) in parentheses following the terms, as listed under Plumages. “Juveniles” can be used for birds in Juvenile Plumage without the need for the extra term. Include separate descriptions for adults in Definitive Basic and Definitive Alternate Plumages if they differ (or state that they are similar if an alternate plumage occurs and is similar in appearance to basic plumage). After adults of each sex and plumage are described, briefly describe Juvenile, Formative (usually), and all other predefinitive plumages in about one sentence each. When appropriate, discussion of subspecies, notable morphs or color variants, or otherwise unique populations can be briefly included.
+
+The diagnosis should be scientific rather than that of a field guide, but it should also be easy to read and digest by novices. Stress features of size, shape, color, or structure that can be recognized on birds in the field. Give the overall (general) length and mass of live birds, accompanied by a statement of relative size compared to related species if useful for identification (e.g., "a medium-sized hummingbird"). Report any differences in length, mass, or plumage between males and females. Keep this section succinct. Detailed descriptions of size, color, etc., will be called for in other sections. No subsections are needed for this section.
+
+### [Similar Species Summary]{style="color:blue;"} {#sec-app3-id-sssum}
+
+If the Similar Species section is of substantial length (5+ paragraphs), please use the Similar Species Summary to briefly summarize the key issues. Avoid too much repetition with Similar Species, however.
+
+### [Similar Species]{style="color:blue;"} {#sec-app3-id-ss}
+
+Summarize the major points of identification that distinguish your species from any closely related or otherwise similar species. Cite any recent papers that thoroughly discuss how to distinguish your species from similar species in the field, but do not include references to standard field guides. Identification among subspecies (or morphs, variants, etc.) may also be briefly included here, although any detailed description of subspecies appearance should be included in the Subspecies section on the Systematics page. Keep this section succinct. Detailed descriptions of size, color, etc., will be called for in other sections. No subsections are needed for this section.
+
+## [PLUMAGES, MOLTS, AND STRUCTURE]{style="color:purple;"} {#sec-app3-plumages}
+
+### [Plumages]{style="color:blue;"} {#sec-app3-plumages-plumages}
+
+Details of each plumage by age and season are described here. Base your description on a designated subspecies, usually the nominate subspecies, or the most widespread subspecies if there is not sufficient information for the nominate. Variation among subspecies should be confined to the Geographic Variation section on the Systematics page. Indicate if the plumage descriptions apply to all populations (e.g., for monotypic species or those in which subspecies do not vary much in plumage appearances). Include a discussion of different morphs if relevant. Include the following sentence in all accounts: “See Molts for molt and plumage terminology.”
+
+Begin each section with any fundamental information on structure, including the number of primaries, secondaries, and rectrices in the species; flight-feather numbering; whether the bird is diastataxic; and any special ways in which a standard bird morphology is modified in this species (e.g., “wings are rounded, with p6 the longest primary”). Refer to other revised BOW accounts for feather numbering and how to describe it. Include a sentence on whether sexes differ (within each plumage if appropriate) and in what plumage or plumages definitive appearance is attained.
+
+Molt and plumage terminology typically follows Humphrey and Parkes (1959), as modified by Howell et al. (2003). Describe each of the plumages that occur in the order in which they occur developmentally, i.e., from Natal Down to Definitive Basic (and Alternate, if any) Plumages. Subsections include Natal Down, Juvenile (First Basic) Plumage, Formative Plumage (present in many species), First Alternate Plumage (if present), Definitive Basic Plumage, and Definitive Alternate Plumage (if present). The heading “First and Definitive Alternate Plumages” can be used if they are similar to each other or to Formative and Definitive Basic Plumages; if this is used, indicate that aging criteria are listed under Formative and Definitive Basic Plumages. Subheadings that will be needed for some but not all species include Second Basic Plumage, Second Alternate Plumage, Third Basic Plumage, etc., up to Fourth or Fifth Basic Plumages for some gulls and eagles and up to Eight or Ninth Basic Plumages for some albatrosses and frigatebirds. Headings such as “Second and Definitive Basic Plumages” or “Fourth through Sixth Basic Plumages” can be used when some but not all birds can be identified or there is overlap in the plumage in which definitive appearance is reached. Please note that the term “First Basic Plumage” should generally be avoided in the text; “Juvenile Plumage” should be used instead. First Basic is used in headings only for clarity. See Molts (below) for other rarely used plumages, such as Supplemental and Auxiliary Formative Plumages. Headings include “**Female**” and “**Male**” (in this order) in bold if these plumages differ substantially in appearance. If they differ only subtly or on average, the difference can be summarized in a sentence, without the need for headings by sex.
+
+List references with detailed descriptions (if any) on which plumages and age determination are based. Generally, these can either be listed once at the beginning of the account or following detail under each plumage.
+
+Terms such as “nestling,” “fledgling,” “immature,” and “adult” plumage should be avoided. We recognize, however, that use of these descriptors may be appropriate in some situations, especially when there is delayed plumage maturation. Likewise, use of banding terms/abbreviations such as “hatch year/HY,” “after-hatch-year/AHY,” or “third-year” to refer to plumages should also be avoided. We no longer use the term “Juvenal”—please use “Juvenile” as both a noun and an adjective. 
+
+The most complete plumage descriptions should be those of Definitive Basic Plumage (male and female separately or just one description if sexes similar). Then compare other plumages to Definitive Basic Plumage. In some cases, just a few differences are all that need to be noted, whereas in other cases (often Juvenile Plumage for body feathers), fuller descriptions may be needed when appearance differs substantially from Definitive Basic Plumage. Differences in wing and tail feathers are often slight and often can be conveyed comparatively. Give representative dates, if possible, for each plumage in the text. Month ranges can be given to cover a plumage from fresh to worn, e.g., “Definitive Basic Plumage occurs primarily in September to August.”
+
+For each plumage, describe the overall color and pattern of the feathering and then any significant details of color, pattern, or texture in individual feathers. Proceed in the following sequence: upperparts (including head, nape, back, rump, and tail); facial features (including lores, supercilium, eyeline, auriculars, and side of head); upperwings, generally in the order upperwing coverts (lesser, median, and greater as needed), tertials, secondaries, and primaries; and underparts (including chin, throat, breast, abdomen, ventral region, undertail coverts, and underwing coverts). Briefly describe head patterning, including subauricular and malar stripes if present. In some cases, a different order can be followed, e.g., if the sides of the head, the neck, and the throat are all one color. Follow the terminology in the Glossary ([Appendix 6](https://birds-of-the-world.github.io/birds-of-the-world/app6.html)). Distinguish between regions and tracts if it is necessary to discuss feathers according to where they arise on the body. For the names of feather tracts, in passerines and nonpasserines with similar pterylosis follow Clench (1970); in other nonpasserines follow Lucas and Stettenheim (1972). 
+
+Try to use simple and widely used color terms, such as “grayish brown” (include a hyphen if used before the noun it modifies, e.g., “grayish-brown upperparts” but “upperparts are grayish brown”). When possible, use color terms in a comparative sense to describe differences between plumages.
+
+The Macaulay Library can be extensively used to describe plumages, especially when no other descriptions exist (e.g., for many non–North American species). Filters can be set for “Juvenile,” “Immature,” and months of the year to describe basic and alternate plumages, and to “flying” to search for images of the open upperwing and underwing coverts and flight feathers. Generally, it is best to order images by “Best Quality” to find the best images to base descriptions upon.
+
+### [Molts]{style="color:blue;"} {#sec-app3-plumages-molts}
+
+You should briefly summarize any relevant variation in molt strategies within the species. Begin each section with a paragraph describing the molt strategy and terminology used. Include the sentence: “Molt and plumage terminology follows Humphrey and Parkes (reference link), as modified by Howell et al. (reference link)”; see example accounts for references. Then indicate what molt strategy is followed with a sentence such as “XXX exhibits a Complex Alternate Strategy (cf. reference links), including complete prebasic molts, a partial to incomplete Preformative Molt, and absent to limited prealternate molts in both age groups (links to specific citations on molt and to the molt chart diagram).” Again, see examples for different wording. Indicate here if there is any geographic variation in molt strategies. Generally, strategies will not differ, but timing and extent of molts may differ, especially for species with wide latitudinal occurrence (e.g., north temperate, tropical, and south temperate populations). Indicate is there is any sex-specific variation in molts; this is rare but occurs in some species, such as waterfowl with alternate plumages.
+
+Subsections follow those presented in Plumages and include (in the same developmental order) Prejuvenile (First Prebasic) Molt, Preformative Molt (present in many species), First and Definitive Prealternate Molts (if present), and Definitive Prebasic Molt. Other headings following this format can be used for species with delayed plumage maturation or more complex strategies, as described under Plumages. Generally, First and Definitive Prealternate Molts are similar within a species and should be combined here, more so than in Plumages, which can differ between ages. A few species have three molts and plumages within a cycle and will need headings for First and/or Definitive Presupplemental Molts or Auxiliary Preformative Molt (which was formerly referred to as a first presupplemental molt). In some cases, separate headings under Plumages will be needed to describe appearance following these molts. The plumages/molts editor can help decide how to present such molts and plumages in BOW accounts. Often, it is unclear if certain molts occur in a species or not, and this uncertainty can be expressed in the top paragraph under molts.
+
+Under each heading, describe the extent of the molt as one or more of the following: “absent” if no feathers can be replaced in some individuals; “limited”  if some but not all body feathers are replaced; “partial” if most or all body feathers, some to all upperwing coverts, and often 1–3 tertials and/or 1–2 central rectrices are replaced; “incomplete” if some but not all primaries, secondaries other than tertials, and/or rectrices other than the central pair are replaced; or “complete” if all feathers are replaced. More than one category often is needed to describe molts, e.g., prealternate molts that are “absent to limited,” Preformative Molts that are “partial to incomplete,” or prebasic molts that are “incomplete to complete” (e.g., for species with Staffelmauser patterns). Then, indicate timing (if known) and give detail on variation in extent, including how many wing coverts or flight feathers can be replaced (again, if known). For species outside North American or Europe, reference to Macaulay Library images can often help ascertain this when molt extents are not described in the literature. Under Definitive Prebasic Molt, describe the sequence in which flight feathers are replaced, often something like “Primaries are replaced distally from p1 to p10, secondaries bilaterally from the second tertial and proximally from s1, and rectrices generally distally on each side of the tail, although exceptions can occur.” These sequences tend to be very fixed within families of birds and can be assumed to follow for species in which they are unknown. Do not use the terms “descendant,” “ascendant,” “centrifugal,” or “centripetal” to describe molt sequences. Summarize the timing and extent of the molts on the annual cycle diagram (let BOW staff know if you would like to make changes to this figure).
+
+### [Bare Parts]{style="color:blue;"} {#sec-app3-plumages-bare}
+
+Describe the coloring, size, and shape of these parts from nestling to adult, relating the changes to age. Generally, it is best to describe age in terms of months as opposed to plumages since plumage change is independent of bare-part color change. Describe the progressive or seasonal development of structures such as the eye combs of certain grouse and the bill plates of procellariiforms and puffins. Give the colors of live or freshly dead birds, either from direct observation or notes on specimen labels. Do not necessarily trust museum skins or color photographs for subtleties of color.
+
+### [Measurements]{style="color:blue;"} {#sec-app3-plumages-measurements}
+
+Use metric units wherever possible, and convert any values that do not use metric units. Follow instructions on statistics (see [Appendix 4](https://birds-of-the-world.github.io/birds-of-the-world/app4.html)). In limited situations, imperial units may be included along with metric units when it would be useful. For both linear measurements and masses, list measurements of females before those of males. Variation by age, subspecies, or geographic region may also be presented. Discuss clinal variation if possible or refer to a paper in which the subject is treated.
+
+If taking measurements yourself, be sure to do so according to the standardized guidance below so that they are repeatable. Classify your data by sex, age, population/subspecies, or geographic range when possible. Provide the mean, SD or SE, and range when possible. Avoid using measurements from field guides because they are likely to be secondary or inaccurate. If the normal method of measuring your species differs from the diagnoses below, follow the method normally used, **but specify what it is**. If a source does not specify how a measurement was taken, indicate that the method used was “unspecified.”
+
+**Linear Measurements**
+
+Group measurements (in mm) under the following headings. In most cases, you should use bolded, inline headings like those used below (for an example, see [Cassin’s Kingbird](https://birdsoftheworld.org/bow/species/caskin/cur/appearance#meas)). However, if multiple paragraphs are needed under each heading, use the Heading 2 text style (for an example, see [Rufous-banded Miner](https://birdsoftheworld.org/bow/species/rubmin1/cur/appearance#meas)).
+
+**Total Length.** From the bill tip to the tail tip. Usually measured from a museum specimen.
+
+**Wing Length.** From the carpal joint to the tip of the longest primary on a wing folded in its natural position. From a museum specimen or live bird. Specify whether the unflattened wing length or flattened wing length is given.
+
+**Tail Length.** From the point between the central pair of rectrices where they emerge from the skin to the tip of the longest rectrix.
+
+**Bill Length.** Several bill measurements are commonly used, so please specify which measurement is being reported (or indicate that this is unspecified in the original source). If taking measurements yourself, exposed culmen (the chord from the edge of the forehead feathers to the tip of the mandible) is preferred by BOW. Other common bill measurements include the chord from the anterior edge of the nostril, from the naso-frontal hinge of the skull, or from the edge of the cere to the tip of the mandible.
+
+**Tarsus Length.** A diagonal from the middle of the ankle joint (behind) to the middle of the joint between the tarsus and the middle toe (in front).
+
+Report (or give references for) other external or internal measurements that may be available, especially those of potential use for identification of species, age, or sex, e.g., wingspan, wing width, tip of folded wing to tip of tail, tip of folded wing to tip of undertail coverts, or tip of folded wing to tips of secondary remiges. Insert such additional measurements in a logical order among the headings above (e.g, place “Head Length” before “Bill Length”).
+
+**Mass**
+
+Give the total mass (in g), classified when possible by sex, age, time of year, breeding, migration, population, subspecies, etc. Report the locality plus basic statistics (mean, SD or SE, and range). Give references to published masses of internal organs when available.
+
+## [SYSTEMATICS]{style="color:purple;"} {#sec-app3-systematics}
+
+### [Systematics History]{style="color:blue;"} {#sec-app3-systematics-history}
+
+This section should aim to encompass the taxonomic history of the species, focusing principally on publications since the relevant volume of the Peters Checklist, including any relevant discussions of scientific name synonymies or debate on scientific name validity. This also is the section in which to discuss any data that might conflict with the current taxonomy of the species or of the genus, e.g., to highlight genetic or other research that may, in the future, lead to different arrangements. Mention, where relevant, taxonomic discrepancies at the species level between the four main world lists (differences in subspecific approach should be included under Subspecies, below). If the species has recently been split or lumped, this is also the section in which to briefly discuss what taxon/taxa it was split from, or what taxon/taxa it was lumped with, as well as any relevant data that led to the change.
+
+**For monotypic species**, this section is the place to record the original combination (i.e., original genus and species name when the taxon was first described), author, and year of publication, place (book/journal, including volume and page numbers) of publication, type locality, and information concerning type specimen(s) (collector, date of collection, museum, and reference to type catalogue). (**For polytypic species**, this information will go into the Subspecies section.) In cases in which the original description is available online at a potentially stable URL (e.g., Biodiversity Heritage Library), it is useful to link to this. Many museum type catalogs are available at Biodiversity Heritage Library, but not all, and some large institutions still lack such works, or they are only partly complete. For sample formats, see below. Where possible/appropriate, please also present the same information for any well-recognized synonyms. It is also useful to link to the Wikipedia page (or another reasonably permanent source) for the collector. Include the person’s years of life if known.
+
+Peters (<https://www.biodiversitylibrary.org/bibliography/14581>) serves as a good starting point for such data. The Richmond Index (<https://zoonomen.net/cit/RI/SP/RIspTotal.html>) can also be useful for identifying bibliographic details and sometimes whereabouts of type material.
+
+Mention proposed alternative generic arrangements for your species, but focus on recent modifications promoted by molecular sequencing data, rather than attempting to provide a complete generic history. Some overlap with content in Related Species may be inevitable as a result. Generic histories are often available via key catalogs such as Peters, Sharpe’s Catalogue of the Birds of the British Museum, and, for the Western Hemisphere alone, Cory and Hellmayr, Ridgway, etc., so you may wish to provide links to one or more of these works.
+
+**Note:** If you would like to include information on scientific names that is not provided in The Key to Scientific Names (available by clicking the “i” icon next to the species’ name at the top of the page), please add it to the Systematics History section.
+
+**Examples of how to cite names and type data:**
+
+**(1) Straightforward case (i)**
+
+***Dicaeum formosum*** [Ogilvie-Grant, 1912, Bulletin of the British Ornithologists’ Club](https://www.biodiversitylibrary.org/item/100931#page/139/mode/1up) 29:109.—Mt. Arizan, 7,000 ft, Taiwan.
+
+The holotype, an adult male collected by Walter Goodfellow in March 1912, is held at the Natural History Museum, Tring (NHMUK 1913.1.29.55) ([20](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF181256)).
+
+**(2) Straightforward case (ii) (how to add information not contained in the original description—enclose it within square brackets; in this example, to clarify the whereabouts of the type locality)**
+
+***Dicaeum ignipectus dolichorhynchum*** [Deignan, 1938, Proceedings of the Biology Society of Washington](https://www.biodiversitylibrary.org/item/107374#page/119/mode/1up) 51:97.—summit of Khao Nom Plu \[07°35′ N, 99°50′ E\], 3,000 ft., Trang Province, peninsular Thailand.
+
+The holotype, an adult male collected by [Dr. W. L. Abbott](https://en.wikipedia.org/wiki/William_Louis_Abbott) on 26 February 1897, is held at the National Museum of Natural History, Smithsonian Institution, Washington, D.C. (USNM 160382) ([32](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF15915)).
+
+**(3) Potential doubts over type material/dating**
+
+**(a) *Dryobates subcirris*** [Stejneger, 1886, Proceedings of the United States National Museum](https://www.biodiversitylibrary.org/item/32555#page/127/mode/1up) 9:113.—Sapporo, Hokkaido, Japan.
+
+The holotype, an adult male collected by [Thomas Wright Blakiston (1832–1891)](https://en.wikipedia.org/wiki/Thomas_Blakiston) in November 1881, is held at the National Museum of Natural History, Smithsonian Institution, Washington, D.C. (USNM 96000) ([54](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF15915), [38](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF206875)). Kuroda ([30](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF201848)) referred to another specimen (female, USNM 96001) in the same museum, also collected by Blakiston at Sapporo, on 12 October 1882, as a paratype, and both the latter and another female (considered juvenile by Stejneger but currently cataloged as an adult), collected by Pierre L. Jouy at Chinsenji Lake, on 31 August 1882, are indeed specifically referenced in the original description and thus validly considered to have such status.
+
+**(b) *Dryobates namiyei*** [Stejneger, 1886, Proceedings of the United States National Museum](https://www.biodiversitylibrary.org/item/32555#page/130/mode/1up) 9:116, [Plate 2](https://www.biodiversitylibrary.org/item/32555#page/735/mode/1up).—Yamato \[= Nara Prefecture\], southwest of Osaka, Honshu, Japan \[34.57° N, 135.77° E\].
+
+The holotype, an adult male collected by [Henry James Stovin Pryer (1850‒1888)](https://en.wikipedia.org/wiki/Henry_James_Stovin_Pryer) in September 1876, is held at the National Museum of Natural History, Smithsonian Institution, Washington, D.C. (USNM 370446) ([54](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF15915), [65](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF200509), [38](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF206875)). The type was originally at a museum in Tokyo (where Motoyoshi Namiye, 1854–1918, was employed as a zoologist) but was apparently retained in Washington by happenstance ([54](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF15915)). [C. W. Richmond](https://zoonomen.net/cit/RI/SP/Didu/didu00739b.JPG) believed that the plate depicting the new taxon was published as early as 8 July 1885, which given that the scientific name was made available on the depiction would mean that *namiyei* should be dated from one year earlier, if this could be confirmed.
+
+Synonyms:\
+*Dryobates leucotis* \[*sic*\] *intermedius* [Kuroda Sr., 1921, Auk](https://sora.unm.edu/sites/default/files/journals/auk/v038n04/p0575-p0582.pdf) 38:580.—Dorogawa, Yamato province \[= Nara Prefecture, 36.33° N, 138.57° E\], Honshu. The holotype was an adult female collected by N. Teraoka on 4 January 1913 but was almost certainly lost during World War II, and of 16 paratypes, 10 of them from Matsudaira’s collection, 9 were from Yamashiro province \[Kyoto Prefecture\], but no details were given that would permit their retrospective identification ([65](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF200509), [38](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF206875)). Somewhat intermediate between the subspecies *subcirris* and *namiyei*. (Name originally preoccupied by [*Dryobates villosus intermedius*](https://birdsoftheworld.org/bow/species/haiwoo/cur/systematics#subsp) Nelson, 1900.)\
+*Dryobates leucotos kurodae* Götz, 1925, Jahreshefte des Vereins für vaterländische Naturkunde in Württemberg 81:95. (New name for *D. I. intermedius* Kuroda, preoccupied; see previous entry.)\
+*Dryobates leucotos uchidai* [Momiyama, 1927, Annotationes Ornithologiae Orientalis](https://books.google.de/books?redir_esc=y&hl=de&id=Bc1FAAAAYAAJ&focus=searchwithinvolume&q=uchidai) 1:3 (nomen nudum), 62 (Japanese text), 96 (English text).—Nisimera-mura, Koyu-gun, Hiuga province \[= Miyazaki Prefecture, 32.25° N, 131.48° E\], Kyushu. The holotype is an adult male collected by Tomogorô Tanaka in mid-March 1927 (not 1917 as stated in the original description) and held at the Yamashina Institute for Ornithology, Abiko ([YIO 00117](https://decochan.net/index.php?p=2&o=ssp&id=22512)) ([65](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF200509), [38](https://birdsoftheworld.org/bow/species/whbwoo1/cur/references#REF206875)).\
+*Dryobates leucotos tookaidonis* [Momiyama, 1927, Annotationes Ornithologiae Orientalis](https://books.google.de/books?redir_esc=y&hl=de&id=Bc1FAAAAYAAJ&focus=searchwithinvolume&q=tookaidonis) 1:66. (New name for northern form in Kuroda’s *D. I. intermedius*, and type details are the same as for the latter; see above.)
+
+**(4) Missing/lost type material**
+
+**(a) *Myzanthe ignipectus*** [Blyth (ex Hodgson MS), 1843, Journal of the Asiatic Society of Bengal](https://www.biodiversitylibrary.org/item/123810#page/499/mode/1up) 12:983.—Nepal and Bhutan.
+
+Blyth evidently had at least two males and a female available to him, and one of these syntypes, a male collected by [Brian Houghton Hodgson (1800/01–1894)](https://en.wikipedia.org/wiki/Brian_Houghton_Hodgson) in Nepal in 1842, is in the collection of the Zoological Survey of India, Kolkata (ZSI 35576) ([17](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF185628); Gopinathan Maheswaran in litt. to G. M. Kirwan, April 2022); the whereabouts of the other two specimens, if they still exist, are unknown, but they are not at the Natural History Museum, Tring ([18](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF201546)).
+
+Synonyms:\
+*Dicaeum ignipectus pulchellum* Koelz, 1954, Contributions from the Institute for Regional Exploration 1:21.—Sangau, Lushai Hills, Assam, India. The holotype is a female collected on 24 February 1953 by Walter Norman Koelz and held at the University of Michigan Museum of Zoology, Ann Arbor, Michigan, U.S. (UMMZ 147881) ([19](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF106891)). Described apparently on account of males being darker, although Salomonsen ([11](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF175742)) failed to distinguish differences.\
+*Dicaeum cyanonotum* [Styan, 1893, Ibis](https://www.biodiversitylibrary.org/item/85192#page/500/mode/1up) (6)5:470.—Ichang, upper Yangtse Valley, Hubei, China. Styan mentioned having three specimens in front of him (two males and a female), and Salomonsen ([11](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF175742)) reported having examined them at the Natural History Museum, Tring, UK (NHMUK), but they are not listed in the relevant type catalog ([20](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF181256)); however, a search by H. van Grouw (in litt. to G. M. Kirwan, February 2022) revealed the presence of NHMUK 1914.8.15.56, a male (which Styan evidently considered to be “the type”) and the female, NHMUK 1914.8.15.58, both collected in June 1890. (The whereabouts of Styan’s material is not always clear, but most seems to be held at either NHMUK \[[21](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF128324), [22](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF121324)\] or at the American Museum of Natural History, New York, NY, U.S. \[[23](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF142159)\]). Described on the basis of having the sheen on the upperparts of the male more blue, less green, with greenish lesser coverts and rump, and a more orange color on the breast, Salomonsen ([11](https://birdsoftheworld.org/bow/species/fibflo1/cur/references#REF175742)) considered these purported differences to be reflective of individual, not geographical, variation, having examined specimens with some or all of these features from as far apart as western Sichuan and southern Vietnam.
+
+**(b) *Anas Fabalis*** [Latham, 1787, General Synopsis of Birds, Supplement](https://www.biodiversitylibrary.org/item/103199#page/335/mode/1up), p. 297.—Great Britain.
+
+Latham’s original specimens are very rare in collections ([31](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF200779)), and the original specimen of this species is not known to be extant. Some sources have considered that Latham’s name matched the [Pink-footed Goose (*Anser brachyrhynchus*)](https://birdsoftheworld.org/bow/species/pifgoo/cur/) better than a bean goose (e.g., [32](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF6716), [33](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF201590)), but as noted by Bourne ([34](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF166350)) the ambiguous original description of this bird in Pennant is accompanied by an unambiguous [figure](https://www.biodiversitylibrary.org/item/127014#page/234/mode/1up) depicting a Taiga Bean Goose.
+
+### [Geographic Variation]{style="color:blue;"} {#sec-app3-systematics-geographic}
+
+Briefly summarize trends in size, color, vocalizations, or any other traits that are important within your species. Keep this section succinct, but this is probably the best place to discuss any geographic component to polymorphism. Detailed descriptions of size, color, etc., will be called for in other sections. In addition to variation in physical traits, discussion of intraspecific genetic variation, especially variation not strictly related to divergence among subspecies, is appropriate for this section. Examples include discussion of studies of gene flow among different populations across the range of a species, genetic structure not linked to known subspecies breaks (e.g., important biogeographic barriers that could suggest cryptic diversity), and metapopulations. In summarizing trends in physical and genetic characteristics, mention especially any notable clinal trends across a species’ range. Also note trends in geographic variation that do not map onto recognized subspecies, or cases in which trends in one trait run counter to those in other traits. In cases in which there is extensive material to discuss, it may be helpful to subdivide it via the subsections “Phenotypic Variation” and “Genetic Variation.”
+
+### [Subspecies]{style="color:blue;"} {#sec-app3-systematics-subspecies}
+
+List the subspecies currently recognized. Include the same information (original combination, authority, type specimens, etc.) as listed for monotypic species (see above) in the Systematics History subsection for each subspecies. Also, include the same details for synonyms, where appropriate. Describe ranges and general distinguishing characteristics. The Identification Summary subsection should focus either on differences from the nominate subspecies or from geographically proximate taxa, but in some cases, a mix of these approaches, or even a different one entirely, might prove appropriate. In any case, the aim is to succinctly elucidate those characters that make the taxon unique. In some cases, it may prove necessary to check original descriptions for information, but keep in mind that older descriptions (especially from the 1800s and early 1900s) were often based on very few specimens (including of comparison taxa), and authors were more inclined to recognize relatively trivial variation, which could make the characters used in such cases worthy of caveat. Note discrepancies and offer opinions on subspecies validity, if alternative treatments may be more appropriate. In such cases, please also inform Pamela Rasmussen ([pcr44\@cornell.edu](mailto:pcr44@cornell.edu)) of your findings so that the eBird/Clements Checklist team can consider revising our treatment.
+
+### [Related Species]{style="color:blue;"} {#sec-app3-systematics-related}
+
+Focus on studies based on genetic data, given that most widely recognized species have been sampled, and only the most closely related species to your focal species. Comment briefly on how robust inferred relationships are (e.g., number of samples or loci screened) and any uncertainty in the analyses about those inferred relationships. In some cases, it may be interesting to contrast, briefly, current knowledge based on genetics with morphology-based classifications, where these differ especially dramatically or where the genetic data may not be particularly robust. Generally, though, the focus should be on recent studies that incorporate genetic data when available. In general, it is not necessary to provide a wider discussion of family-level or even genus-level relationships, especially for comparatively large (more speciose) groupings. However, for monospecific genera or families, a brief exposition of closest known relatives in other genera or families may be relevant, but keep in mind that our family-level texts already serve this purpose. In a few cases, it may be necessary to discuss relationships without the benefit of molecular data (e.g., “12 species of *Accipiter* remain unscreened genetically”). Even in cases in which a particular species has not been sampled genetically, it may be presumed to be very closely related to a species that has been sampled; in this case, it is appropriate to mention the genetic relationships of the species that have been sampled and to indicate that it is presumed that the present species is part of this group as well.
+
+### [Hybridization]{style="color:blue;"} {#sec-app3-systematics-hybrid}
+
+Discuss the extent of any hybridization with other species, if known. If hybridization with other species is frequent, or if the species forms a hybrid zone with another species, cite any relevant studies that discuss this hybridization, as well as relevant field marks that identify hybrids.
+
+### [Fossils]{style="color:blue;"} {#sec-app3-systematics-fossils}
+
+While this section may be blank or brief for some species, it should be included wherever possible to show that most birds do have an important fossil history. In many instances, there is no fossil history for a particular species, but there may be fossil data for closely related extinct taxa that may represent an extinct ancestor of the present species, or even taxa whose identities are ambiguous due to incomplete material; this is also fine to include in this section. Please be clear whether you are referring to a fossil of the present species or a species like the present species. When describing the fossil, please include where the fossil was discovered, and from what time period it was from (including both the name of the period and approximate date range).
+
+## [DISTRIBUTION]{style="color:purple;"} {#sec-app3-distribution}
+
+Do not simply refer the reader to your distribution map but outline the current geographic distribution of your species in terms of state, provincial, and country boundaries. Discuss any significant details that are not readily apparent on the distribution map, particularly regarding the breeding range (e.g., “within the breeding range, the species occurs only at elevations above…”). Please refer to [Appendix 4](https://birds-of-the-world.github.io/birds-of-the-world/app4.html) for guidance on the capitalization of geographic regions.
+
+### [Distribution (introduction)]{style="color:blue;"} {#sec-app3-distribution-intro}
+
+Use the Breeding Range and Nonbreeding Range subsections if relevant to your species. If not, simply cover the relevant information without using a subsection or add different subsections that would be useful.
+
+**For all subsections**, the following terminology on occurrence may be helpful. **Be sure to give the relevant range of months if discussing seasons (i.e., spring, summer, fall, winter):**
+
+-   **Resident.** Year-round presence in an area, including breeding, although different populations may occur from season to season.
+-   **(Summer) Breeder.** Leaves the area during the nonbreeding season; some birds on a summering ground may actually be birds in passage, not yet on their own breeding grounds.
+-   **Summer visitor.** Visits area during spring and summer but breeds elsewhere.
+-   **Fall visitor.** Visits in late summer, fall, or early winter; generally postbreeding wanderers.
+-   **Winter visitor.** Resides in the area during the nonbreeding season.
+-   **Migrant.** A bird of passage, staying briefly while en route between its summer and winter homes.
+-   **Accidental.** The species has been recorded once or twice (rarely more) within a designated area and, on the grounds of reasonable probability, is unlikely to occur there regularly.
+-   **Casual.** The species has been recorded a few times within a designated area, not enough to constitute regular occurrence but enough to suggest that subsequent records are not improbable.
+
+**Breeding Range/Nonbreeding Range**
+
+These sections should provide the best approximation of the species’ distribution throughout its range and throughout the relevant season (i.e., breeding or nonbreeding). You may want to provide a list of detailed descriptions by county or state (or other relevant subdivision), or you may prefer to summarize this information. Either approach is appropriate. 
+
+Your text will be accompanied by a (purple) map of the species’ overall range via eBird. If eBird data products are available (e.g., map showing abundance throughout the year), they will also be included. You may want to link out to eBird distributions for specific areas or specific time periods throughout the text.
+
+Refer to Breeding Bird Atlases or other standardized distributional projects whenever possible. These references contain excellent information on current breeding status as well as historic changes in distribution. When applicable, the Christmas Bird Count may be useful for nonbreeding ranges and abundance. If you wish to include a link to these atlases, please use hyperlinked text, as opposed to listing a URL in the text.
+
+**Elevational Range**
+
+Provide the elevations (in m above sea level) at which the species can be found. Include geographic and/or seasonal variation in the elevational range if relevant.
+
+**Introduced Range**
+
+Discuss the history and distribution of species introductions where populations have become established.
+
+**Extralimital Records**
+
+Report genuine records (with references) of occurrence beyond the normal range. You are encouraged to link out to documentation via eBird or the Macaulay Library, when possible.
+
+### [Historical Changes to the Distribution]{style="color:blue;"} {#sec-app3-distribution-historical}
+
+Summarize any significant range expansions or contractions and causal factors thereof.
+
+## [HABITAT]{style="color:purple;"} {#sec-app3-habitat}
+
+### [Habitat (introduction)]{style="color:blue;"} {#sec-app3-habitat-intro}
+
+A general summation of the species’ habitat and brief mention of any points of special note. Avoid citations in this section.
+
+**Habitat Keywords**
+
+As possible, list the habitat categories and subcategories used by the species, as defined by Campbell et al. (2021) in the book *Habitats of the World* or other books in that series (described under @sec-app3-habitat-categories below), from most to least important. List the category followed by a colon and any applicable subcategories. Please do not include any other text in this section. The use of such categories will inform a forthcoming BOW data product containing key information on all bird species that will be useful for large-scale analyses. For example:
+
+Conifer forests: taiga (boreal forest), temperate conifer forest
+
+Temperate deciduous forests: temperate deciduous forest, temperate moist mixed forest
+
+### [General Habitat]{style="color:blue;"} {#sec-app3-habitat-general}
+
+**For resident species**, start with a general description of its habitat, and then cover more specific details as needed. You may wish to use the habitat categories and subcategories defined by Campbell et al. (2021) in the book *Habitats of the World* (described under @sec-app3-habitat-categories below). If you have access to a copy of this book or any of its companion books for specific continents, the finer-scale habitat categories discussed might also be useful, but please note that consulting these books is by no means required. Characterize the habitat in terms of its latitudinal and elevational range and climatic limits, and describe the topography, substrate, and vegetation (including stages of growth and/or plant succession, dominant species and status, and spacing). Note, you may feel free to elaborate beyond the categories below.
+
+Note any habitat differences in different parts of the geographic range. Distinguish between habitats where the species occurs usually and those where it is uncommon. Do not use the phrases “habitat selection” or “habitat preference” unless there are direct studies of those specific phenomena. Compare habitats between your species and close relatives, particularly where they are sympatric.
+
+Details of functional microhabitats, i.e., places used for particular activities, should be given on subsequent pages when discussing foraging, roosting, nesting, etc.
+
+**Leave this section blank for migratory species** (unless there are nonmigratory populations, which could be discussed here).
+
+### [Habitat in Breeding Range]{style="color:blue;"} {#sec-app3-habitat-breeding}
+
+**For migratory species**, treat the habitat(s) as directed above under General Habitat, according to the species’ seasonal range. Leave this section blank for resident species.
+
+### [Habitat in Migration]{style="color:blue;"} {#sec-app3-habitat-migration}
+
+**For migratory species**, treat the habitat(s) as directed above under General Habitat, according to the species’ seasonal range. Leave this section blank for resident species.
+
+### [Habitat in Nonbreeding Range]{style="color:blue;"} {#sec-app3-habitat-nonbreeding}
+
+**For migratory species**, treat the habitat(s) as directed above under General Habitat, according to the species’ seasonal range. Leave this section blank for resident species.
+
+### [Habitat Categories]{style="color:blue;"} {#sec-app3-habitat-categories}
+
+Habitat categories and subcategories defined by Campbell et al. (2021) in the book *Habitats of the World*, with definitions adapted from the book:
+
+-   **Conifer forests:** forests dominated by coniferous trees (which typically do not lose their leaves)
+    -   **Taiga (boreal forest):** spruce and fir forest in the Far North
+    -   **Temperate conifer forest:** humid coniferous forest in temperate areas (including mountains)
+    -   **Dry conifer forest:** conifer-dominated forest/woodland in dry temperate and tropical areas
+-   **Deserts and arid scrubs:** arid habitats characterized by little plant growth
+    -   **Barren desolate desert:** harsh desert with rock, sand dunes, and very little plant growth
+    -   **Hot desert:** tropical or subtropical desert with hot summers and cool/warm winters
+    -   **Cold desert:** temperate desert with hot/warm summers and cold winters
+    -   **Desert and semidesert shrubland:** open arid area characterized by small shrubs (typically with small leaves); may contain cacti or euphorbias
+    -   **Desert steppe:** very arid area with sparse and ephemeral grass growth
+    -   **Desert and semidesert thornscrub:** arid area characterized by thickets of tall thorn bushes and little grass
+    -   **Arctic polar desert:** extremely cold and dry area with virtually no plant growth
+-   **Temperate deciduous forests:** forest with either entirely broadleaf deciduous trees or a mix of deciduous trees and evergreen trees
+    -   **Temperate deciduous forest:** temperate broadleaf deciduous forest in which most trees lose their leaves in winter
+    -   **Temperate moist mixed forest:** temperate forest with a mix of broadleaf deciduous trees and evergreen trees (broadleaf trees and/or conifers)
+-   **Tropical humid forests:** warm and wet rainforest-type habitats
+    -   **Lowland rainforest:** tall, wet evergreen forest with a thick canopy and open understory
+    -   **Semievergreen forest:** generally humid forest with a nearly complete canopy; only some trees lose their leaves
+    -   **Montane/subtropical evergreen forest:** warm, wet forest with a nearly complete canopy composed of evergreen or partially deciduous trees
+-   **Dry deciduous forests:** warm forests characterized by trees that lose most of their leaves during dry periods
+    -   **Closed deciduous forest:** fire-intolerant, dry deciduous forest with a closed canopy; trees are lush in summer, but most lose their leaves in winter
+    -   **Open deciduous forest:** fire-intolerant deciduous forest with an open canopy and an understory of small-leaved shrubs, cacti, and/or euphorbias; trees can lose their leaves during dry periods
+-   **Savannas and seasonally moist shrublands:** habitats with an open canopy and an abundance of grass and/or shrubs; strongly seasonal, typically with wet summers and dry winters, and heavily affected by fire
+    -   **Open broadleaf woodland:** fire-tolerant woodland characterized by tall, broadleaf trees and an open canopy; many deciduous trees may be present
+    -   **Thorn savanna:** open woodland with abundant grass cover and tall or short trees (often acacias), many of which have spines
+    -   **Broadleaf sclerophyllous savanna:** fire-tolerant low shrubland or forest that can be thickly vegetated and that has less grass than other savannas; plants have thick, leathery leaves and thick bark
+    -   **Mixed shrub savanna:** fire-tolerant thicket or dry forest with a low canopy; characterized by grass cover and a mix of coniferous, sclerophyllous, and broadleaf shrubs or trees
+-   **Grasslands and steppes:** fire-dependent habitats dominated by grasses; may or may not contain shrubs and flowers and have few to no trees
+    -   **Temperate grassland:** fire-tolerant grassland with moderate or warm summers and cold winters; growth is restricted to the warmer spring and summer months; precipitation can include snow in winter and rain in summer
+    -   **Tropical grassland:** fire-tolerant grassland with hot summers and moderate winters; growth of grasses can occur throughout the year with sufficient rainfall
+    -   **Montane grassland:** fire-tolerant, highland grassland that often receives orographic rainfall (i.e., caused by proximity to a mountain range)
+    -   **Flooded grassland:** grassland that becomes a huge wetland during the wet season
+-   **Mediterranean forests, woodlands, and shrublands:** habitats characterized by thick scrub and with dry, hot summers and wet, cold winters
+    -   **Maquis, chaparral, and matorral:** low shrubland that is either closed or open and is dominated by fire and grazing; the plants present are often similar to those in nearby forests
+    -   **Mediterranean heathland:** fire-dependent low heathland with nearly complete ground cover consisting of sclerophyllous bushes and forbs
+-   **Sclerophyllous forests and woodlands:** forests and woodlands in which most canopy trees are eucalypts and/or have small, leathery leaves
+    -   **Wet sclerophyll forest:** forest with tall, straight-trunked trees whose canopy branches touch each other and a lush, wet understory; canopy trees are fire tolerant, but the understory is fire intolerant
+    -   **Dry sclerophyll forest:** fire-tolerant forest with tall, straight-trunked trees that are too widely spaced to form a closed canopy (although trees may sometimes touch each other) and an understory dominated by grass and shrubs not found in nearby rainforests
+    -   **Eucalypt woodland:** open woodland with a thin canopy; characterized by eucalypts with short, crooked trunks
+    -   **Australasian acacia woodlands:** open woodland or shrubland, often with a thick canopy; characterized by short acacias
+-   **Tundras:** habitats characterized by very low vegetation dominated by mosses and lichens; at extreme latitudes or elevations where tree growth is prohibited due to temperature, snow cover, and/or exposure to wind
+-   **Freshwater habitats:** habitats inundated with freshwater
+    -   **Swamp forest:** seasonally or permanently inundated forest
+    -   **Freshwater wetland:** seasonally or permanently flooded nonforested habitat
+-   **Salt-dominated habitats:** habitats with high salt levels in the water or soil
+    -   **Saltpan:** habitat in which evaporation or volcanic activity has produced extremely high salt levels in the soil; mostly unvegetated, but algae grows quickly after floods
+    -   **Mangrove:** a specialized forest of mangroves in tidally flooded coastal areas
+    -   **Saltmarsh:** habitat characterized by salt-tolerant marsh vegetation and found in sheltered coastal areas that are periodically flooded with seawater
+    -   **Tidal mudflat:** a nutrient-rich area of mud that is frequently flooded with seawater; usually occurs in estuaries
+    -   **Rocky coastline and sandy beach:** nutrient-poor rocky or sandy beach, cliff, or other coastline habitat
+    -   **Pelagic waters:** marine habitat with deep water
+    -   **Offshore islands:** small islands that are well offshore and support low grass and/or shrubs
+-   **Anthropogenic habitats:** habitats shaped primarily by human presence
+    -   **Grazing lands:** areas heavily grazed by domestic animals
+    -   **Cultivated lands:** areas in which humans produce crops
+    -   **Human habitation:** areas directly inhabited by humans
+
+## [MOVEMENTS AND MIGRATION]{style="color:purple;"} {#sec-app3-movements}
+
+### [Movements and Migration (introduction)]{style="color:blue;"} {#sec-app3-movements-intro}
+
+A brief, general statement of the species’ annual movements (or lack thereof) and any points of special note.
+
+### [Dispersal and Site Fidelity]{style="color:blue;"} {#sec-app3-movements-dispersal}
+
+Report any data available on the tendency of a bird to be either site faithful or dispersive. Subsections are self-explanatory (see [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html)). Any discussion of territory size or home range size should be included in the Population Spatial Metrics section.
+
+### [Nonmigratory Movements]{style="color:blue;"} {#sec-app3-movements-nomigratory}
+
+Discuss any movements made by the species that do not qualify as migration or dispersal away from the breeding grounds (e.g., nomadic movements or daily movements for foraging and roosting).  Subheadings with special relevance to your species (e.g., “Movements to and from a Communal Roost”) can be included.
+
+### [Migration Overview]{style="color:blue;"} {#sec-app3-movements-overview}
+
+Characterize the seasonal movements of individuals between geographic areas and habitats. Provide an overview of differential migratory behavior of age and sex classes in time and space (you should provide details in Timing and Routes of Migration, below). Note any variation among populations of your species.
+
+### [Timing and Routes of Migration]{style="color:blue;"} {#sec-app3-movements-timing}
+
+Describe the timing and routes of migration on a broad geographic scale but point out known differences among populations. Give references to regional works for details and representative dates.
+
+### [Migratory Behavior]{style="color:blue;"} {#sec-app3-movements-behavior}
+
+The preceding section dealt with the “where” and “when” of migration; this section and the next concern the “how” of migration. These sections will vary widely among accounts, reflecting differences in knowledge of species’ migratory behavior. Include information and references on such topics as the usual time of day, altitude, and speed of migration; method(s) of orientation; responses to weather; and degree of flocking and flight formations. If any of these topics have been studied intensively in your species, summarize the major findings and provide references to the literature.
+
+### [Control and Physiology of Migration]{style="color:blue;"} {#sec-app3-movements-control}
+
+Topics to be discussed if they have been studied in your species include migratory restlessness, hyperphagia and fat deposition, response to photoperiod, and roles of hormones. Mention known variation among populations, sex, or age classes, but refer to the literature for details. Include any information indicating that migratory behavior is learned, e.g., from parents, or largely innate.
+
+## [DIET AND FORAGING]{style="color:purple;"} {#sec-app3-diet}
+
+Usually treat a species as a whole, but point out known variation according to sex, age, season, or locality. For migratory species, make a special effort to provide information on food habits in the nonbreeding range as well as the better-known habits in the breeding range. If populations/subspecies are widely separated or occupy markedly different environments, it may be best to treat them separately. Focus this section on the food habits of adults, leaving those of young birds (including items delivered to young birds by adults) for the relevant sections in Breeding.
+
+### [Diet and Foraging (introduction)]{style="color:blue;"} {#sec-app3-diet-intro}
+
+A general summation of the species’ biology relating to feeding and brief mention of any points of special note. Avoid citations in this section.
+
+### [Feeding]{style="color:blue;"} {#sec-app3-diet-feeding}
+
+**Microhabitat for Foraging**
+
+This subsection covers where foraging occurs, including substrates that food is obtained from (e.g., specific plant species or plant types and position within the vegetation, foraging height, substrate type, wetland types, distance from shore, or depth of water).
+
+**Food Capture and Consumption**
+
+This subsection covers how food is obtained and consumed. In addition to the behavior itself, report the following if known and appropriate: time of day for foraging, percentage of time devoted to each foraging tactic during feeding, any specific anatomical or physiological adaptations for feeding, feeding-related interactions (e.g., cooperative hunting by pairs or flocks, commensalism, or piracy), and ability to exploit unusual opportunities for feeding.
+
+### [Diet]{style="color:blue;"} {#sec-app3-diet-diet}
+
+**Major Food Items**
+
+Include a summary of general food types taken (add order, family, or scientific name, as appropriate). For example, “Diet mostly insects, especially grasshoppers and crickets (Orthoptera), ants (Hymenoptera: Formicidae), leafhoppers (Homoptera), bugs (Hemiptera), beetles (Coleoptera), as well as spiders (Araneae).” If information is taken from the literature, cite the names as originally published, and put any necessary corrections or revisions in square brackets. Give the size range (length or mass) of the items.
+
+**Quantitative Analysis**
+
+Summarize detailed quantitative studies to show the proportions of different kinds of food in the diet. State the nature of the data analyzed (e.g., observations of feeding, contents of esophagus or gizzard, or pellets) and the sample size. Guard against bias caused by differential digestibility of food items or postmortem digestion and bacterial action. Identify the method(s) used for expressing the amounts of food items (e.g., percentage of either volume, frequency of occurrence, or mass \[wet or dry\] of total food eaten). Bearing in mind these variables of methodology, report published differences in dietary composition, but be cautious in comparing them.
+
+### [Food Selection and Storage]{style="color:blue;"} {#sec-app3-diet-storage}
+
+Briefly report any information on the senses of taste and smell, recognition and choice of food items, or caching and retrieval. Cite references for details. You may put this material into the Food Capture and Consumption subsection (under Feeding) if that will make the writing easier.
+
+### [Nutrition and Energetics]{style="color:blue;"} {#sec-app3-diet-nutrition}
+
+The nutritional needs of wild birds have been studied in only a few species, but this section is included as a reminder of a topic that deserves attention. Report, when possible, the daily food intake and the nutritional and caloric values of foods. Express the relative importance of different foods in terms of the metabolic energy they provide.
+
+### [Metabolism and Temperature Regulation]{style="color:blue;"} {#sec-app3-diet-metabolism}
+
+Summarize literature relevant to metabolic rate and temperature regulation by sex, season, age, and population when possible.
+
+### [Drinking, Pellet Casting, and Defecation]{style="color:blue;"} {#sec-app3-diet-drinking}
+
+Include a description of any unusual aspects or quantitative studies of these habits.
+
+## [SOUNDS AND VOCAL BEHAVIOR]{style="color:purple;"} {#sec-app3-sounds}
+
+Use bioacoustic terms as they are defined in the Glossary ([Appendix 6](https://birds-of-the-world.github.io/birds-of-the-world/app6.html)) so as to avoid confusion and errors. Do not use terms such as “phone,” “phrase,” or “syllable” unless absolutely necessary, in which case define them. The simplest way to explain what you mean is to label features on a spectrogram.
+
+### [Sounds and Vocal Behavior (introduction)]{style="color:blue;"} {#sec-app3-sounds-intro}
+
+A general summation of the species’ biology relating to sounds and brief mention of any points of special note. Avoid citations in this section.
+
+### [Vocalizations]{style="color:blue;"} {#sec-app3-sounds-vocalizations}
+
+**Vocal Development**
+
+Provide measurements, sound spectrograms, and references to document age-related changes and vocal learning, if possible.
+
+**Vocal Array**
+
+Describe important vocalization types verbally (phonetic English rendering) and provide measurements (duration, rates of repetition, and cadence) and spectrograms if possible. If your species has a large vocal repertoire, do not present it all, but choose the most frequent and behaviorally significant sounds and cite references. 
+
+This section will vary considerably among species, reflecting differences in acoustic signals of birds and our knowledge of them. With respect to your particular species, keep this section brief if little is known but amplify it, including references, in relation to the information available.
+
+If there are no distinctions between songs and calls in your species, mention any ambiguities in the use of “song” when discussing the vocalizations.
+
+**Geographic Variation**
+
+Describe variation (or lack thereof) in vocalizations and/or in response to vocalizations by geographic area.
+
+**Phenology**
+
+Identify seasons of the greatest and least amount of vocalizing, including any activity during migration and on the nonbreeding grounds. If possible, mention any variation in the pattern according to season (including range of months) or social context. If possible, mention any variation in the number of song types per individual according to age, individual, season, or geographic area.
+
+**Daily Pattern of Vocalizing**
+
+Summarize the pattern of vocalization from morning to night.
+
+**Places of Vocalizing**
+
+Characterize the vocalization site(s) (e.g., on the ground, from an elevated perch, or in flight) and compare with sites used for feeding or nesting. Summarize the daily pattern of vocal activity.
+
+**Sex Differences**
+
+Describe any differences in the vocalizations of males and females of your species. In a list of songs and calls, consider classifying them by sex. Note the sex of the singers (if known) on any spectrograms you present.
+
+**Repertoire and Delivery of Songs**
+
+Discuss the song repertoire size of individual birds. Discuss the pattern(s) in which the elements of the song are delivered. For example, does the bird deliver a series of different song types without repetition, or is the same song type repeated multiple times before the bird switches to a new song type?
+
+**Social Context and Presumed Functions of Vocalizations**
+
+For each song/call, give its social context (presence, status, and activity of other individuals of the same or opposite sex or another species) and its presumed functions, plus any other evidence for that function. A bird’s habitat, behavior, and social context often provide clues to the functions of its sound signals. Brief generalizations about these conditions are therefore desirable when they can reasonably be made. Much information of this kind can be found in the field notes accompanying sound recordings.
+
+Avoid functional interpretation and names (e.g., “courtship call”) for sounds without considering the quality of the evidence, and cite that evidence. In particular, do not assume without evidence that a given sound is involved in either mate attraction, territorial defense, or both. Point out any intriguing problems for research on the acoustic signals of your species.
+
+### [Nonvocal Sounds]{style="color:blue;"} {#sec-app3-sounds-nonvocal}
+
+Sounds produced by the bill, feet, wings, or tail should be treated in the same general way as vocalizations, as appropriate and as information exists.
+
+## [BEHAVIOR]{style="color:purple;"} {#sec-app3-behavior}
+
+This page is organized as a compromise between the traditional series of separate subsections and the comprehensive treatment that a behaviorist would prefer. It covers a bird’s manner of moving about, taking care of itself, and interacting with other individuals of the same or different species. Other aspects of behavior are treated in the pages on Migration, Diet and Foraging, Sounds, Breeding, and Demography and Populations. For all sections, aim to progress from action patterns to higher levels of behavioral patterns.
+
+### [Behavior (introduction)]{style="color:blue;"} {#sec-app3-behavior-intro}
+
+A general summation of the species’ biology relating to behavior and brief mention of any points of special note. Avoid citations in this section.
+
+### [Locomotion]{style="color:blue;"} {#sec-app3-behavior-locomotion}
+
+Describe the physical movements, including posture and frequent movements like tail bobbing. Mention any specific anatomical or physiological adaptations for locomotion, and give any measurements of performance (e.g., speed of travel, number of wingbeats per second, altitude of flight, or depth and duration of dive). Attempt to relate these actions to their context or controlling factors and presumed functions. Point out known forms of variation, whether age related, sexual, seasonal, or geographic.
+
+### [Self-Maintenance]{style="color:blue;"} {#sec-app3-behavior-self}
+
+Describe what is known in terms of how the species maintains its condition. See list of subsections in [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html). Use the terminology as defined in the Glossary ([Appendix 6](https://birds-of-the-world.github.io/birds-of-the-world/app6.html)). If the situation in your species does not fit any of these categories, describe it instead of relying on labels.
+
+### [Agonistic Behavior]{style="color:blue;"} {#sec-app3-behavior-agonistic}
+
+Describe a species’ antagonistic behaviors toward conspecifics in the context of physical interactions, communicative interactions, or territorial interactions. Text regarding territorial interactions should emphasize seasonal and spatial use of territory, as well as how territories are advertised (details of singing, drumming, etc., are covered in Sounds and Vocal Behavior). Contributors should include subsections describing behaviors in both the breeding and nonbreeding periods, when possible.
+
+### [Sexual Behavior]{style="color:blue;"} {#sec-app3-behavior-sexual}
+
+For all subsections listed in [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html), use the terminology for mating systems as defined in the Glossary ([Appendix 6](https://birds-of-the-world.github.io/birds-of-the-world/app6.html)). If the situation in your species does not fit any of these categories, describe it instead of relying on labels. Avoid the terms “polygamy”—because it is useless—and “promiscuous”—because it is ambiguous. Note whether the mating system is influenced by habitat in particular populations.
+
+### [Social and Interspecific Behavior]{style="color:blue;"} {#sec-app3-behavior-social}
+
+Review all subsections listed in [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html). Place your species on a continuum from solitary to highly gregarious, noting seasonal fluctuations, the approximate size of aggregations, and the activity of such groups or flocks.
+
+### [Predation]{style="color:blue;"} {#sec-app3-behavior-predation}
+
+Write this section from the standpoint of your species as prey, not predator. The latter subject will have been covered on the Diet and Foraging page.
+
+## [BREEDING]{style="color:purple;"} {#sec-app3-breeding}
+
+For each subsection, describe first the typical condition, i.e., that shown by experienced breeders in the best-known population. Then, report any variation among individuals, in younger breeders, or in other populations. If, however, subspecies of your species differ in at least several major aspects of their breeding, it may be more sensible to treat them in separate, comprehensive sections.
+
+### [Breeding (introduction)]{style="color:blue;"} {#sec-app3-breeding-intro}
+
+A general summation of the species’ breeding biology and brief mention of any points of special note. Avoid citations in this section.
+
+### [Phenology]{style="color:blue;"} {#sec-app3-breeding-phenology}
+
+Use the suggested subsections only if sufficient information is available for each stage of the breeding cycle. This section should provide representative dates and other information, where possible, while the annual cycle diagram shows the seasonal pattern of breeding in relation to migration and molting. The timing of pair formation and nest building should be given in the text but generally omitted from the diagram because it cannot be recorded as precisely as that of subsequent breeding events. For some species, even the latter are so poorly known that it would be pointless to try to include them in the diagram.
+
+Mention what is known about the factors that control the timing of breeding in your species. Indicate how weather conditions affect vegetation growth and the availability of food and nest sites. Guard against drawing correlations, however, from studies that span only a few years because the situation may be more complex than it seems at first.
+
+### [Nest Site]{style="color:blue;"} {#sec-app3-breeding-site}
+
+Subsections include Selection Process (only rarely known) and Site Characteristics. For the latter, define the setting used for nesting, including the dominant plant species present, their size (height or diameter and breast height), and spacing. Include details on the specific location of the nest itself (e.g., nest height, plant species for nest placement, and specific location), and indicate nest locations that are atypical.
+
+### [Nest]{style="color:blue;"} {#sec-app3-breeding-nest}
+
+Begin by describing the type and shape of the nest. Describe how the nest is constructed, including how long it takes, where nest material is gathered from, and who builds the nest. If a cavity-nesting species, describe both the size and shape of the entrance hole and/or tunnel and whether an additional nest is built in the cavity. When discussing materials used for nest construction, include different materials used for different parts of the nest, as well as sizes of materials if relevant/known. Dimensions may include (but are not necessarily limited to) outer and inner dimensions of a nest, height, and mass.
+
+### [Eggs]{style="color:blue;"} {#sec-app3-breeding-eggs}
+
+Discuss any adaptations of, or variation in, egg shape. If you include data on egg size/mass or clutches, report the extremes of normal variation as well as mode(s), if possible. Mention any known patterns of variation associated with the age of the female, the seasonal timing of the clutch, or the position of the egg in the clutch. Geographic or subspecific variation should be noted, as before. If you are able to give measurements of eggshell thickness, include, if possible, the years when the eggs were laid in case they were thinned by environmental pollutants. For clutch size, give mean, SD or SE, and range, remembering that clutch size will be discussed in greater detail under Demography and Populations.
+
+### [Incubation]{style="color:blue;"} {#sec-app3-breeding-incubation}
+
+The incubation period is usually measured as the time in days (or in hours, when possible) from the laying of the last egg until the hatching of the last egg in the clutch. Indicate if your data are measured differently. Give the normal range and note any pattern of variation.
+
+### [Hatching]{style="color:blue;"} {#sec-app3-breeding-hatching}
+
+This section covers the period just before to just after hatching of the eggs. Discuss any behaviors or vocalizations (of the chicks or parents) that occur prior to hatching, the process of breaking the shell and emerging from the egg, whether eggs tend to hatch synchronously or asynchronously (and over how long a period), and whether the parents provide any assistance with hatching or dispose of the eggshells.
+
+### [Young Birds]{style="color:blue;"} {#sec-app3-breeding-young}
+
+This section covers the history of young birds from hatching until juvenile flight feathers are fully grown (“fledging”; see [Appendix 6](https://birds-of-the-world.github.io/birds-of-the-world/app6.html)), at which stage the birds are able to fly. Treatment will necessarily vary because species differ in three major respects: amount of downy feathering at hatching (psilopaedic/ptilopaedic), length of stay in nest (nidicolous/nidifugous), and ability to move about and find one’s food soon after hatching (altricial/precocial). The conditions along these axes agree approximately, but numerous exceptions exist among nonpasserines. Owing to these discrepancies, do not rely on terms; instead, describe the conditions in your species. For nidifugous chicks, add the subsection Departure from the Nest (listed under Fledgling Stage in [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html)) in this section directly after Condition at Hatching. In describing the appearance of young birds, use the same terminology for plumages, body parts, and pterylosis as for older birds. Is the color pattern of the Natal Down or Juvenile Plumage cryptic?
+
+### [Parental Care]{style="color:blue;"} {#sec-app3-breeding-parental}
+
+Adjust this section according to whether the young birds are nidicolous or nidifugous. Note any daily or seasonal variation as well as geographic variation in the activities.
+
+### [Cooperative Breeding]{style="color:blue;"} {#sec-app3-breeding-cooperative}
+
+If the species breeds cooperatively (i.e., more than two individuals participate in parental care), address this behavior here. Describe the group members that help with offspring care, including their relatedness to the parents of the offspring being raised (e.g., previous offspring of one or both parents, other relatives of the parents, or nonkin), their ages, and the types of care they provide (e.g., nest building, incubation, or nestling feeding). Provide the frequency of cooperative breeding in various populations (e.g., percentage of pairs that have helpers) if known. Communal nesting (in which more than one pair reproduces using the same nest) should be considered a type of cooperative breeding.
+
+### [Brood Parasitism]{style="color:blue;"} {#sec-app3-breeding-parasitism}
+
+Many species of birds are subject to brood parasitism, and some are brood parasites themselves. If applicable, discuss the focal species’ parasitism of conspecifics and other species in the relevant subsections. The subsection Brood Parasitism by Other Species should discuss the species that parasitize the focal species (i.e., discuss situations in which the focal species is the host). What are the major parasites of this host, how does the host react to the parasite, and how is the host affected by brood parasitism? For the subsection Success of Parasite with this Host, try to give the percentage of parasitic young that leave the nest.
+
+### [Fledgling Stage]{style="color:blue;"} {#sec-app3-breeding-fledgling}
+
+This section covers the period from acquisition of flight feathers and flying ability until independence from parents (and until the first breeding attempt if such information is available). Treatment will vary according to whether young birds of your species are nidifugous or nidicolous (e.g., the subsection Departure from the Nest should instead be reported under Young Birds, not here, for nidifugous species). Omit the following topics because they have been or will be included elsewhere: plumages and molts, food habits, vocalizations, and dispersal from the natal site. The final subsection, Behavior After Independence, covers the behavior of birds in that neglected yet critical period from the gaining of independence until the first attempt at breeding. Report, if possible, daily habits and time budget during this period. Descriptions of immature appearance should go in Plumages. Survivorship of these birds should be treated on the Demography and Populations page under Life Span and Survivorship.
+
+## [DEMOGRAPHY AND POPULATIONS]{style="color:purple;"} {#sec-app3-demography}
+
+### [Demography and Populations (introduction)]{style="color:blue;"} {#sec-app3-demography-intro}
+
+A general summation of demographic information about the species and brief mention of any points of special note. Avoid citations in this section.
+
+### [Measures of Breeding Activity]{style="color:blue;"} {#sec-app3-demography-measures}
+
+Many measures of reproductive success have been poorly defined in the literature. Therefore, if you report such data, you are urged to follow the terms in the Glossary ([Appendix 6](https://birds-of-the-world.github.io/birds-of-the-world/app6.html)): hatching success, fledging success, nest success, and annual reproductive success. If you want to use other terms, particularly “breeding success” and “nesting success,” please define them. One measure of reproductive success that seems to be important, yet is seldom reported, is the probability that a female will rear one or more broods to independence or nest leaving during a breeding season. This value can be calculated by dividing the number of successful (as defined above) females in a population sample by the total number of breeding females in the sample. If you are able to calculate this value, provide, if possible, an estimate of variance.
+
+### [Life Span and Survivorship]{style="color:blue;"} {#sec-app3-demography-life}
+
+Ensure that you report only sound measures of survivorship (e.g., mark–recapture or band recapture, resighting, or recovery). With rare exceptions (e.g., species like the Florida Scrub-Jay in which the precise fate of every individual of the population is known), survival estimates based on any methods that do not incorporate these statistical procedures are not valid because they do not differentiate sighting probabilities from mortality probabilities and do not consider annual variation in survival.
+
+As a minimum, a contributor should indicate how survival rates were calculated, but it would be better to exclude invalid data; no data are always better than wrong data. Even with sound statistics, some estimates have their limitations. For example, mark–recapture data always confound emigration with mortality. Thus, it is always necessary to indicate how the rates were calculated.
+
+### [Pathogens and Parasites]{style="color:blue;"} {#sec-app3-demography-pathogens}
+
+**Pathogens**
+
+Describe and discuss pathogens (i.e., disease-causing agents) known to affect the species. Include a discussion of both the pathogen itself and the disease associated with it. Provide data on the incidence of the infection if possible. Include pathogenic parasites under this subsection rather than the Parasites subsection. Also discuss vectors of disease if relevant.
+
+**Parasites**
+
+Describe and discuss internal and external parasites of the species, including their effects on the host, if known. Provide data on the incidence of parasites if possible.
+
+### [Causes of Mortality]{style="color:blue;"} {#sec-app3-demography-mortality}
+
+Discuss natural causes of mortality for adults and young, but do not repeat information covered in other sections—simply refer the reader to those sections.
+
+### [Population Spatial Metrics]{style="color:blue;"} {#sec-app3-demography-spatial}
+
+This section should discuss metrics of spacing, including individual distance, territory size, home range size, and population density. Individual distance can include nest spacing, distance between territories, distance between birds roosting or within foraging flocks, etc. See definitions in [Appendix 6](https://birds-of-the-world.github.io/birds-of-the-world/app6.html) for differences between territory and home range. Territorial *behaviors* should be included on the Behavior page under Agonistic Behavior. Density can include measures like the number of birds per hectare, number of birds per net-hour, etc.
+
+### [Population Status]{style="color:blue;"} {#sec-app3-demography-status}
+
+With the exception of poorly known species that lack data on population size and trends, this section should include the subsections Numbers and Trends. For Numbers, provide the most recent published global population estimate (with confidence interval and years of estimate) in the first sentence, followed by estimates for countries, regions, or ecoregions with significant populations (ecological regions are preferred over smaller areas defined by political boundaries). For North American species, check the [Rocky Mountain Bird Observatory (Partners in Flight) population estimates](https://pif.birdconservancy.org/population-estimates-database/). After that, add information on densities or relative abundance within habitats, remembering to indicate the measure of density used (e.g., number of singing males or number of individuals). Present data from breeding-period surveys before data from nonbreeding periods. Under the Trends subsection, provide published estimates of population change over time, including the trend estimate, time frame (years), and confidence interval (if available). Focus trend results on areas with larger populations and the most reliable data.
+
+### [Population Regulation]{style="color:blue;"} {#sec-app3-demography-regulation}
+
+Discuss here the impact of physical factors, competition, or predation on populations, noting geographic variation when known.
+
+## [CONSERVATION AND MANAGEMENT]{style="color:purple;"} {#sec-app3-conservation}
+
+### [Conservation Status]{style="color:blue;"} {#sec-app3-conservation-status}
+
+Divide information in this section into Global Assessment (i.e., by the IUCN Red List) and Regional Assessments (i.e., by countries, states, provinces, etc.). Include the species’ conservation status and a summation of the species’ population status and trends (refer the reader to the Population Status section on the Demography and Populations page for further details). When possible, include a justification of the species’ conservation status. Write official conservation statuses (e.g., from the IUCN Red List) with each word capitalized (e.g., Critically Endangered, Least Concern), and do not use quotation marks.
+
+### [Effects of Human Activity]{style="color:blue;"} {#sec-app3-conservation-effects}
+
+Most of the subsections in this section (see [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html)) are self-explanatory. If there are population-level effects of human hunting pressure, discuss those under Hunting, Trapping, and Bycatch. The economic aspects and drivers of hunting by humans, as well as hunting on a small enough scale that it does not impact populations, should be discussed under Economic and Utilitarian Significance on the Relationship with Humans page. “Collisions” includes birds striking lighthouses and other tall buildings, electrical wires, TV towers, and windows, as well as being hit by cars, planes, boats, etc. 
+
+For each appropriate subsection for which there is information, describe the locations and times of year and manner in which the mortality occurs, and the number of individuals killed, if known. If a subsection has been discussed in another section, refer the reader there and briefly summarize, but do not repeat, all of the information here.
+
+### [Management]{style="color:blue;"} {#sec-app3-conservation-management}
+
+Most of the subsections (see [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html)) in this section are self-explanatory. For Conservation Areas, list and discuss the protected areas used by the species. If there are too many areas to list them all, focus on the largest, most important, or otherwise most relevant areas. You may also wish to discuss areas inhabited by the species that have not yet been protected but would benefit from protection.
+
+## [RELATIONSHIP WITH HUMANS]{style="color:purple;"} {#sec-app3-humans}
+
+### [Relationship with Humans (introduction)]{style="color:blue;"} {#sec-app3-humans-intro}
+
+A general summation of the species’ relationship with humans and brief mention of any points of special note. Avoid citations in this section.
+
+### [Vernacular Names]{style="color:blue;"} {#sec-app3-humans-vernacular}
+
+List vernacular names for a given species that are used within its range, ordered alphabetically by language, and discuss their etymology and usage. [Avibase](https://avibase.bsc-eoc.org/avibase.jsp?lang=EN) is an excellent starting place to look for such names. Also mention other regularly/widely used common names for either the same taxonomic arrangement or other widely recognized arrangements, e.g., in regional field guides and other major checklists. One of the main aims should be to eliminate confusion in the minds of readers that is promoted by using different vernacular names.
+
+**Note:** It is not necessary to provide information concerning the etymology of the scientific names, as information from James Jobling’s *Dictionary of Scientific Bird Names* is available by clicking the “i” icon next to the species’ name at the top of the page. If you would like to include information on scientific names that is not provided by Jobling, please add it to the @sec-app3-systematics-history section.
+
+Note that a generic list of common names in other languages is provided in the account as a pop-up on the Introduction page (under “Names” next to the species’ conservation status); however, it is not comprehensive, nor is it necessarily representative of all the relevant names and languages within the species’ range. This list is maintained by eBird, and any proposed additions or changes should be referred to that project.
+
+### [Cultural, Symbolic, and Aesthetic Significance]{style="color:blue;"} {#sec-app3-humans-cultural}
+
+**Early History**
+
+Describe how the species has been recorded in human history, including archaeological evidence of the species interacting with humans before recorded history.
+
+**Presence in Folklore, Religion, and Symbolism**
+
+Discuss appearances of the species in different cultures’ religions and folklore and any symbolic uses of the species (such as designation as a national bird or use on a flag).
+
+**Depictions in Media**
+
+Mention depictions of the species in media, art, literature, stamps, etc., and the social impact of those depictions.
+
+**Public Perception**
+
+Discuss the general public perception of the species by the communities in which it occurs.
+
+### [Economic and Utilitarian Significance]{style="color:blue;"} {#sec-app3-humans-economic}
+
+**Use by Humans**
+
+Examples of use by humans, including both those that generally have a negative impact on the focal species (e.g., harvest, egging, or the feather trade) and those that may have a mixed or more positive impact (e.g., tourism, bird feeders, or webcams). Focus on brief descriptions on the nature of and history of use, including relevant regulations, economic value of that use, and the social context and perception of that use. Discuss the relative positive or negative impacts of that use on the focal species. Substantial population-level impacts of use can be discussed here but, if negative, are better discussed on the Conservation and Management page under Effects of Human Activity.
+
+**Harm Inflicted by Focal Species**
+
+Discuss any negative social, environmental, or economic impacts caused by the focal species, e.g., as a crop pest, through collisions with aircraft, or as an invasive species. Discuss preventive measures taken against such effects and their ecological and economic impacts.
+
+**Aviculture and Domestication**
+
+Discuss the presence of this species in aviculture, including its history, the numbers kept, the regions where it is kept, source populations, and whether captive breeding is established. If domesticated, give a brief overview of the source and timing of domestication and the uses of domestic birds. Discussion of husbandry details should *not* be included.
+
+**Use as a Research Model**
+
+Discuss the importance of this species to scientific research beyond the study of the focal species itself.
+
+## [PRIORITIES FOR FUTURE RESEARCH]{style="color:purple;"} {#sec-app3-priorities}
+
+Given what you know about your species, summarize those aspects of its biology that need further study. Try for a broad perspective here rather than limiting your discussion to areas where your own research has been focused. Geographically, are there populations of this species that have been neglected? Ecologically, are there data that would help to manage it better? What key aspects of this species’ biology have been ignored? Try to limit your discussion to 2–3 paragraphs, keeping in mind that previous sections may have pointed out areas in which data were lacking. This section gives you the chance to summarize and discuss those gaps, pointing out areas where future researchers should concentrate their efforts.
+
+## [OTHER]{style="color:purple;"} {#sec-app3-other}
+
+Discuss here any aspects of your species that do not conveniently fit elsewhere yet add to our total knowledge of the species.
+
+## [ACKNOWLEDGMENTS]{style="color:purple;"} {#sec-app3-acknowledgments}
+
+Please acknowledge in one paragraph the individuals or institutions who gave unpublished data, loan of specimens, references, field or laboratory assistance, special facilities, or financial support. If you borrowed specimens or received service from an institution, credit the institution as well as the person who handled it for you.
+
+**Note:** If needed, please add a separate paragraph for each version of the account and label as “**Revised Account (year).**”
+
+## [ABOUT THE AUTHOR(S)]{style="color:purple;"} {#sec-app3-authors}
+
+Write a short (one-paragraph) biography of each author listed in the citation. The biography should be in the third person. Include an email address at the end when possible. Postal addresses are not necessary but can be used if email is not available. Please endeavor to update biographies for ALL authors listed on the citation, even those who may not have contributed to the most recent version of the account or may be deceased. You may need to contact the original authors or BOW staff to update some biographies. Refer to recently published BOW accounts for examples.

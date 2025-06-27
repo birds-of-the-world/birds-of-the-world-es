@@ -1,0 +1,465 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Appendix 4: Style and Formatting Conventions {#sec-app4 .unnumbered}
+
+*Birds of the World* (BOW) typically follows *The Chicago Manual of Style*, 18th edition. The stylistic conventions most relevant to BOW accounts (and any deviations from *The Chicago Manual of Style*) are explained below.
+
+## General {#sec-app4-general}
+
+-   Do not indent paragraphs.
+-   A single space after a period is standard.
+-   Include a single space between initials, e.g., “J. L. Smith.”
+
+## Language {#sec-app4-language}
+
+-   Please use American English spellings (e.g., “gray” instead of “grey,” “color” instead of “colour,” “story” instead of “storey,” and “signaling” instead of “signalling”) and conventions (e.g., double quotation marks with periods and commas *inside* the quotation marks, not outside).
+
+## Headings {#sec-app4-headings}
+
+-   Subsections should be “Heading 1,” unbolded (applying the Heading 1 style automatically makes the text bold).
+    -   Headings within a subsection should be “Heading 2,” unbolded. These should be reserved for several paragraphs of text. For only one paragraph of text, please use the format below for headings within sub-subsections.
+        -   Headings within the sub-subsections should appear as inline, bolded text, followed by a bolded period (e.g., “**Female.** Upperparts are gray with pale edgings…”). See also examples under @sec-app3-plumages-measurements. Capitalize this heading as in a title (see below). The “Normal” style should be applied to this text.
+-   Capitalization of titles:
+    -   The only words that should be lowercase are coordinating conjunctions (e.g., “and” or “but”), articles (e.g., “a,” “an,” or “the”), and prepositions (e.g., “to,” “of,” or “for”) **with four or fewer letters**.
+    -   All words with five or more letters should be capitalized (e.g., “Against”).
+    -   All verbs and pronouns should be capitalized regardless of their length (e.g., “Is,” “Are,” “Be,” “His,” or “Her”).
+    -   “This” and “That” should always be capitalized.
+    -   Capitalize the first word after a colon in a title, no matter what it is.
+    -   Second and later elements of hyphenated terms should be lowercase.
+
+## Referring to Species {#sec-app4-species}
+
+-   Any bird species mentioned in an account should be included using the Species Name button (or “species tag”).
+    -   The default species is the species whose account you are editing. To include the name of any other species, type the name into the search bar.
+-   Add both common and scientific names (and check the “HTML Link to Account” button) at **the first mention of a bird species per section** (select “Both” from the “Display Name As” dropdown in the Species Name window) when referring to species **other than the focal species of the account**. For subsequent mentions of such a nonfocal species in the same section, neither the scientific name nor a link to the account is needed. For short pages, you may use the scientific name and link to the account only the first time the species is named on the page. When referring to the focal species, the scientific name is not typically used except in certain discussions on the Systematics page in which it is helpful to use it.
+    -   The Species Name button tags a name such that the common name can be changed based on a user’s settings and a name can be automatically updated in case of changes in taxonomy or nomenclature. If there are cases in which you want to use a name and you do not want it to ever change (with either language or taxonomy), **do not** use the species tag. This may be useful if discussing the history of a name or taxon or mentioning local names of species.
+-   The Species Name button does not include subspecies, standalone genera (i.e., without a species name), or families and should **not** be used in those situations.
+    -   A genus, or a species name plus a subspecies, should be italicized using the “Sci Name” tag (and linked to the corresponding URL if a genus; see @sec-edit-three). For example, “[*Zosterops*](https://birdsoftheworld.org/bow/species/zoster2/cur/species#genusZosterops),” “*Zosterops c. conspicillatus.*”
+-   **Bird species should be referred to in the singular**, e.g., “The Red-tailed Hawk occurs in a wide variety of habitats.”
+    -   The species tag is singular for common names, and we encourage structuring your sentences this way. Please do not use an *s* or *‘s* as plain text directly after the gray species tag, as this will not translate properly. To refer to the plural of a species, we recommend simply using the singular species tag if the sentence cannot be restructured (e.g., “Three Red-tailed Hawk were observed”).
+-   When discussing species, try to use the singular (e.g., “the male,” or “it eats”) instead of the plural (e.g., “males,” or “they eat”) whenever possible.
+-   Please avoid the use of general terms like “hummingbirds” or “rails” to refer to the focal species. Always use the species tag for the focal species when possible. If you are referring to a general group of birds, please use the genus or family name whenever possible and link to the appropriate genus or family page on BOW (see @sec-edit-three). This will help to avoid ambiguity when translating species accounts.
+-   Ensure that the focal species is mentioned (using its common name and the species tag) at the beginning of each page. Avoid beginning a page with “It,” as it should first be made clear that “it” refers to the focal species.
+-   Use quotation marks around old bird names no longer recognized by the eBird/Clements Checklist, including old taxonomic concepts even if the current name still exists.
+-   When referring to a vernacular name for a species in a language other than English, use the capitalization conventions consistent with the language of origin. Enclose the name in double quotation marks, ensuring that periods and commas go *inside* the quotation marks.
+-   In tables, references, and media/figure captions, where species tags are not supported, please ensure that bird common names are capitalized and punctuated according to the eBird/Clements Checklist (<http://www.birds.cornell.edu/clementschecklist/>).
+-   Do not capitalize names of mammals, plants, insects, or species in any other taxon, unless they include a proper noun.
+    -   We generally follow the criteria used by iNaturalist as a standard for nonbird scientific names. You can search their species database (<https://www.inaturalist.org/observations>) and see their Curator Guide (<https://www.inaturalist.org/pages/curator+guide#authorities>) for details on the taxonomic authorities that they use.
+    -   For species not available in iNaturalist, it may be helpful to consult the Global Biodiversity Information Facility (<https://www.gbif.org/>) or, for marine species, the World Register of Marine Species (<https://www.marinespecies.org/>).
+    -   If a species’ scientific name has changed since the publication of a source that you are citing, please indicate the new name in square brackets to allow the reader to understand the relevant species when referring to both the cited literature and current literature. For example, water hyacinth (*Eichhornia* \[*Pontederia*\] *crassipes*).
+
+## Describing Vocalizations {#sec-app4-vocalizations}
+
+-   When spelling out onomatopoeic vocalizations, use the “Vocalization” tag (see @sec-edit-three) to italicize them (e.g., “*Chuk* call”). **Do not** use quotation marks around such descriptions of vocalizations.
+-   Do not italicize or apply the Vocalization tag to descriptive vocalizations like “Alarm Call.”
+
+## Referring to Geographic Locations {#sec-app4-geographic}
+
+-   Use accepted anglicized spellings but retain diacritical marks if the name is from a Latin alphabet. If a location is transliterated from a non-Latin alphabet, diacritical marks are generally not used. Use accents for indigenous languages if written in the Latin alphabet. Retain glottal stops in Hawaiian terms, although note that no glottal stop is used in the state name (Hawaii), but one is used in the island name (Hawai’i). Non-Latin scripts may not have direct English equivalents; consult an accepted transliteration system or regional authority when necessary.
+-   For locations with multiple names, prioritize the name used in the local language when possible and give the English name in parentheses afterward.
+-   Spell out names of states and provinces, counties, and countries (e.g., North Dakota, British Columbia, Maricopa County). However, “U.S.” should generally be used for the United States (although note exception in references) and “UK” may be used for the United Kingdom, but this is not required.
+-   Use “Washington, D.C.” (although note exception in references).
+-   The first time a location is mentioned in a given section of the account, specify the place, state/province/department/region, country (e.g., “Ithaca, New York, U.S.). For subsequent mentions of the location in the same section, you can simply use the place (e.g., “Ithaca”). If the page is short, you may instead provide this information only the first time the location is used on the page.
+-   In contrast to what was done in the original, printed accounts, when referring to specific areas within states, provinces, countries, etc., spell out directional references such as “northern” or “northeastern,” e.g., “northern Wyoming,” “northeastern Mexico,” or “southwestern Ontario.” Also, use “south-central,” “north-central,” etc. Note that these terms **are not capitalized** except when referring to a few specific formal regions with well-known English names.
+-   Follow the list below, which typically follows The Chicago Manual of Style (18th edition):
+    -   Central America
+    -   central Asia
+    -   central Europe
+    -   the East (in the U.S.)
+    -   East Africa
+    -   the East Coast (in the U.S.)
+    -   the Eastern Hemisphere
+    -   eastern Europe
+    -   the equator
+    -   equatorial
+    -   Falkland Islands/Islas Malvinas
+    -   the Far North
+    -   the Great Plains
+    -   the Middle East
+    -   the Midwest (in the U.S.)
+    -   Neotropical
+    -   the Neotropics
+    -   New York State (official name; to distinguish it from New York City)
+    -   North Africa
+    -   North America
+    -   the North Atlantic
+    -   the North Pole
+    -   the Northeast (in the U.S.)
+    -   the Northern Hemisphere
+    -   the Northwest (in the U.S.)
+    -   prairie pothole region (of the U.S.)
+    -   the South (in the U.S.)
+    -   South America
+    -   the South Pole
+    -   the Southeast (in the U.S.)
+    -   Southeast Asia
+    -   southern Africa
+    -   the Southern Hemisphere
+    -   the Southwest (in the U.S.)
+    -   the subtropics
+    -   transequatorial
+    -   the tropics
+    -   the Upper Peninsula (of Michigan, U.S.)
+    -   upstate New York
+    -   Washington state
+    -   the West (in the U.S.)
+    -   West Africa
+    -   the West Coast (in the U.S.)
+    -   western Europe
+    -   the Western Hemisphere
+    -   the Western Palearctic
+-   Geographic regions with formal names in languages other than English: Do not capitalize translated English terms like “state” or “department” that are applied to the names of such regions. For example, when discussing regions in South America, use terms like “the department of Antioquia,” “Antioquia department,” “the state of Falcón,” “Arica region,” etc.
+-   Use a space between coordinates and N, W, S, or E but not between the degree or prime symbols and the following numbers (e.g., 19°29′59″ N, 107°45′36″ W).
+-   When referring to multiple named geographic features, capitalize the plural terms following them, including “Rivers” and “Valleys.” For example, capitalize “Rivers” in “the Mississippi and Missouri Rivers.”
+
+## Referring to Measures of Time {#sec-app4-time}
+
+-   Designate clock time in the 24-hour system (e.g., “0930 h” or “1645 h”).
+-   Spell out names of months. Write dates in the following format: 1 January 2009.
+-   Use abbreviations for time (ms, s, min, h, d, wk, mo, yr) when something has been measured (e.g., “This display lasts, on average, 10.5 s”). Spell out time references when no measurement has been made or when referring to a broader period of time, and spell out numbers less than 10 in such cases (e.g., “Fledglings are typically independent by the time they reach 30 days of age,” “They breed when they are two years old or older,” and “Primary feathers begin to emerge on day 11”).
+
+## Referring to Age {#sec-app4-age}
+
+-   Individuals can be referred to as “second-year,” “after-second-year,” “after-third-year” individuals. Standard abbreviations for such age classifications, e.g.,”'SY,” “ASY,” or “ATY,” can be used in situations in which the terms are going to be used repeatedly in a short span of text; otherwise, do not abbreviate. However, because these terms and associated abbreviations are easily misinterpreted, contributors should define what is meant by these terms the first time that they are used. For example, “Second-year individuals (i.e., those in their first full calendar year)…”
+-   When referring to a particular day of a particular stage in the breeding cycle, use the format “day 13” rather than “13th day,” as in “Researchers measured wing length on day 13 of the nestling stage.” Use numerals, even if the number is less than 10 (e.g., “on day 2 of the nestling stage”).
+
+## Numbering and Associated Issues {#sec-app4-numbering}
+
+-   Use numerals for data (including sample sizes, methods, counts, and measurements with standardized units like m or g). 
+-   Use a space between a numeral and units of measurement (e.g., “4 m,” “100 ha,” or “50 mL”). However, one exception is for temperature; do not use a space between the number and the degree symbol (e.g., “43°C”).
+-   Use “mL” instead of “ml” to abbreviate milliliters.
+-   When abbreviated units are used, never use a hyphen between the number and the unit, as these are already understood to go together. However, a hyphen should be used for clarity in an adjectival form when units are spelled out (e.g., “an approximately 10-year period” but “a 14 yr study or a 20 cm wide nest”).
+-   Spell out any number at the beginning of a sentence.
+-   Spell out numbers one through nine when not referring to specific measurements, but use numerals for numbers greater than nine. Do use numerals for a value less than 10 when it is preceded or followed by =, \>, \<, ≤, or ≥ or is followed by standardized units. Also use numerals for all numbers in a sentence if some of those numbers are ≥ 10.
+-   Use the symbols =, \>, \<, ≤, and ≥, adding spaces before and after the symbol.
+-   Use an en dash (–) for a range of numbers (e.g., “29–35 mm,” “from 1–20 July,” or “3–4 eggs”). To insert an en dash, use the Option and hyphen keys on a Mac or the Control and hyphen keys on a PC. For more information, see @sec-app4-statistics.
+-   Write out the full year for both years in a range (e.g., “1940–1950” instead of “1940–50”).
+-   Add a comma(s) for numbers larger than 999 (e.g., “1,000” or “10,000,000”).
+-   For an approximation, use “\~” with no space after it (e.g., “\~25 mm”).
+
+## Describing Plumages and Molts {#sec-app4-plumages}
+
+-   Note that some specific technical terms used to describe molts and plumages should be capitalized but only when used in their entirety. Please see the list below:
+    -   alternate plumage (lowercase if it lacks a descriptor before it)
+    -   basic plumage (lowercase if it lacks a descriptor before it)
+    -   Complex Alternate Strategy
+    -   Complex Basic Strategy
+    -   definitive alternate female/male
+    -   Definitive Alternate Plumage
+    -   definitive basic female/male
+    -   Definitive Basic Plumage
+    -   Definitive Prealternate Molt
+    -   First Alternate Plumage
+    -   formative female/male
+    -   Formative Plumage
+    -   Juvenile Plumage
+    -   juvenile female/male
+    -   Natal Down
+    -   prealternate molt (lowercase if it lacks a descriptor before it)
+    -   prebasic molt (lowercase if it lacks a descriptor before it)
+    -   Preformative Molt
+    -   Prejuvenile Molt
+    -   Presupplemental Molt
+    -   Simple Alternate Strategy
+    -   Simple Basic Strategy
+    -   Supplemental Plumage
+    -   supplemental female/male
+
+## Hyphens {#sec-app4-hyphens}
+
+-   Generally, hyphenate two or more words when they come before a noun they modify and act as a single idea, i.e., when they form a compound adjective, e.g., “later-nesting pairs” or “high-elevation populations.” When a compound adjective follows a noun, however, a hyphen should not be used, e.g., “In montane areas, individuals typically nest at high elevation.”
+    -   Some exceptions include words listed as hyphenated adjectives in *Merriam-Webster* (e.g., “year-round”); these should always be hyphenated, regardless of where they appear in the sentence. However, do not hyphenate terms including “well” when they appear after a noun, even if *Merriam-Webster* lists them as hyphenated (e.g., use “the species is well known”).
+-   **Do not** use hyphens with prefixes like “pre-,” “post-,” “extra-,” “non-,” or “semi-” unless the second element is capitalized, is a year, or starts with the same letter as the last letter of the first element (e.g., “non-native”).
+-   Hyphenate colors according to *The Chicago Manual of Style* (18th edition): before but not after a noun. Examples:
+    -   “red-orange feathers” but “the feathers are red orange”
+    -   “reddish-brown legs” but “the legs are reddish brown”
+    -   “jet-black back” but “the back is jet black”
+    -   “black-and-white feathers” but “the feathers are black and white”
+-   Adverbs ending in “ly” should not be hyphenated, e.g., write “Males produce structurally complex song in hour before dawn” rather than “Males produce a structurally-complex song…” 
+-   Use hyphens when describing ages. For example, “15-day-old nestlings.” The exception is when the period of time in question (e.g., years, months, weeks, or days) is written in plural form, e.g., “…when nestlings are 15 days old.”
+-   When spelling out numbers that appear at the start of sentences, hyphenate all compound numbers from twenty-one through ninety-nine. For example, “Thirty-one nests were assigned to the control group.” 
+-   Spell out fractional numbers \< 1, with hyphenation, e.g., “More than one-third of the young with radio transmitters were found dead within a week after leaving the nest.” When fractions are part of numbers \> 1, use the numerical form, e.g., “After many years, the width of the nest can be more than 1½ m wide.”
+
+## Commas {#sec-app4-commas}
+
+-   Use a comma after “e.g.” and “i.e.”
+-   Use a comma between elements in a series of three or more, before the conjunction joining the last two elements in a series (the "Oxford" comma), between independent clauses unless the clauses are unusually short, and to set off individual elements in dates, addresses, and place names. Examples:
+    -   Oxford comma:
+        -   “This species is found in Chile, Argentina, and Bolivia.”
+    -   To join two independent clauses (each of which could be a sentence on its own):
+        -   “This species often occurs in mixed-species flocks, and it consumes both fruit and insects.” (Note the comma before “and” since “it” is the subject of the second clause.)
+    -   **Do not** use a comma between parts of a sentence that do not have a new subject (unless the first part of the sentence is very long or a comma is needed to prevent misinterpretation).
+        -   “This species often occurs in mixed-species flocks and consumes both fruits and insects.” (Note the lack of a comma before “and” since there is there is only one subject in this sentence: “species.”)
+    -   To set off individual elements:
+        -   “Birds in Ithaca, New York, were observed…”
+-   Use commas (not semicolons) to separate a list of citations (e.g., Bush 1990, Smith 2018).
+
+## Abbreviations {#sec-app4-abbreviations}
+
+-   See also @sec-app4-time.
+-   Write “U.S.” instead of “U. S.” or “U.S.A.”
+-   Write “versus” instead of “vs.” unless using the term repeatedly in a short span of text.
+-   Write “first” instead of “1st,” “eighth” instead of “8th,” etc., unless using it repeatedly in a short span of text.
+-   When numbering feathers (i.e., remiges and rectrices), use “p8,” “p9,” “s4,” “s6,” “r5,” “r6,” etc. Note that the letters should be lowercase. 
+-   When referring to centuries, write, for example, “1700s” instead of “18th century.” 
+-   Write “ca.” rather than “circa.” 
+-   Spell out the phrases/words “personal communication,” “unpublished data,” “personal observation,” “Figure,” “County,” “Island(s),” “Mountain(s),” “River,” and “Saint.”
+-   Use abbreviations for length/distance (mm, cm, m, km), area (cm2, m2, km2, ha), and mass (g, kg). 
+-   Spell out “above sea level” when indicating elevations (do not use the abbreviation a.s.l.).
+-   Use “km/h” instead of “kph.”
+-   To denote population density, use “individuals/ha” instead of “ind/ha.”
+-   Spell out “million years ago” instead of using “mya.”
+-   On occasion, contributors will want to use abbreviations that are likely not widely known or that are specific to their species or account. Contributors may also want to use certain abbreviations when they need to use the same lengthy word or phrase repeatedly. In any case, please redefine the abbreviations when first used in each section (or, for short pages, the first time they are used on the page). The reason for this is that most users of these accounts do not read them through in their entirety from the beginning. Rather, they typically read a certain page or section while looking for specific information.
+
+## Quotations {#sec-app4-quotations}
+
+-   Contributors are welcome to open a section with a quote. When doing so, use quotation marks and provide the author, reference tag, and page number. An example that starts off the Introduction in the [Mountain Bluebird](https://species.birds.cornell.edu/bow/species/moublu/cur/introduction) account is as follows: “These exquisites, in their quadruple-extract-of-azure garb, are justly ranked the topmost twig of the American ornithological tree.” —William L. Dawson ([Dawson 1897](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF26966): 181)
+-   When quoting material directly from other sources within the main body/text of a section, indicate the page number from which the quote was taken. For example: Criddle ([Criddle 1927](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF45926): 41) wrote that song “...is commenced soon after the first suffusion of light indicates a returning day and is at its height as the rising sun appears over the eastern landscape.” Note the space after the colon.
+-   Avoid structure such as the following when inserting direct quotes: Wheelock, in her 1904 publication, *Birds of California*, described the song as “a sweet, clear ‘*trually, tru-al-ly*’” (p. 507). Such structure makes it difficult to add a reference tag. The preferred structure would be along these lines: In her book, *Birds of California*, Wheelock ([Wheelock 1904](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF72947): 507) described the song as “a sweet, clear ‘*trually, tru-al-ly*.’”
+-   Regarding punctuation following quotes: Following standard U.S. English, place a period or comma inside the quotation marks, e.g., Johnson (1990) referred to this as the “copulation request display.” However, a semicolon or colon should go outside the quotation marks. Question marks and exclamation points go inside the quotation marks if part of the quotation but outside if not.
+
+## Referring to Sections Elsewhere in the Account {#sec-app4-sections}
+
+-   When referencing other sections of the BOW account, please indicate the entire string of page and section (capitalized), separated by a colon (e.g., “see [Field Identification: Similar Species](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)” or “see [Breeding: Young Birds](https://species.birds.cornell.edu/bow/species/kitmur/cur/breeding#young)”). **Do not include subsections.**
+    -   Sections within an account should be linked via the chain link icon (see @sec-edit-three).
+-   In contrast to what was done with the original, printed accounts, DO NOT include directional terms like “above” and “below” (do not use, e.g., “see [Field Identification: Similar Species](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies) (above)” or “see below”).
+
+## Statistics {#sec-app4-statistics}
+
+-   Statistics should include, wherever possible, the mean, standard deviation (SD), standard error (SE), coefficient of variation (CV), range (lowest–highest), sample size (*n*), and source of the data. It is fine to report test statistics, a confidence interval (CI), and a p value (*p*), but these are not used heavily in BOW accounts, with the exception being when contributors report unpublished data and analyses.
+-   Provide the SD/SE following a ± symbol, without its own units, e.g., “84.8 mL ± 7.0 SD.” SD or SE can be added parenthetically, e.g., “84.8 mL (± 7.0 SD),”but generally do not do so unless added at end of sentence with other statistics.
+-   When naming and reporting a mean, median, range, etc., do not use a colon or equals sign; e.g., use “Mean nest weight 13.7 g ± 0.11 SE (range 6.7–30.0, *n* = 71).” Note that the units do not need to be repeated for the range.
+-   No colon should be used after a descriptor such as length, width, height, or weight that is immediately followed by a number, e.g., “From a sample of 71 nests in Arkansas: outside length 15.0 cm ± 0.41 SE (range 9.0–27.0); outside width 12.8 cm ± 0.24 SE (range 8.5–18.5)…”
+-   Use an en dash (–) for a range of numbers (e.g., “29–35 mm,” “from 1–20 July,” or “3–4 eggs”). To insert an en dash, use the Option and hyphen keys on a Mac or the Control and hyphen keys on a PC. These symbols can be used in the find and replace function (see @sec-edit-three) if one needs to replace a large number of hyphens with en dashes.
+-   When reporting multiple descriptive statistics, separate each by commas, not semicolons, e.g., “Parents made, on average, 16.4 trips/h to the nest to feed young (± 8.8 SD, range 6–25, *n* = 53 nests).” 
+-   When reporting results of statistical tests, report the test statistic first, the *p* value second, and the sample size last, e.g., “The number of days young spent in the nest was inversely related to mean brood wing length on day 13 of the nestling stage (*r* = −0.61, *p* = 0.03, *n* = 45 broods).”
+-   Use a minus sign (−), not a hyphen, to denote negative numbers.
+
+## Other {#sec-app4-other}
+
+-   Avoid Caucasian-centric descriptors like “flesh-colored” or “skin-colored.” 
+-   Use “subspecies” instead of “race.”
+-   When discussing birds, avoid gendered pronouns when possible (i.e., use “it” instead of “he” or “she”).
+-   When discussing birds, avoid the terms “mother” and “father” (consider “female,” “male,” or “parent,” depending on context).
+-   Use “mean” instead of “average.”
+-   Use “mass” instead of “weight.”
+-   When discussing ranges, “between” is paired with “and,” while “from” is paired with “to” (or an en dash) (e.g., “between 100 and 200 m” but “from 100–200 m”).
+-   Commonly used Latin terms like “et al.,” “cf.,” and “sensu” should **not** be italicized.
+-   In addition to denoting ranges, an en dash should be used to join the names of two or more people acting as a compound modifier of a noun (e.g. “Humphrey–Parkes terminology”) or two or more entities of equal importance in a descriptor (e.g., “the Zimbabwe–Mozambique border”).
+-   When using a dash to set off information within a sentence, use an **em dash (—) with no spaces around it**. To type an em dash, use Option, Shift, and hyphen on a Mac or Control, Alt, and hyphen on a PC.
+
+## Useful Symbols {#sec-app4-symbols}
+
+To copy and paste into the text editor:
+
+En dash
+
+–
+
+Em dash
+
+—
+
+Minus sign
+
+−
+
+Plus/minus sign
+
+±
+
+Multiplication sign
+
+×
+
+Degree symbol
+
+°
+
+Prime (for coordinates)
+
+′
+
+Double prime (for coordinates)
+
+″
+
+## Commonly Used Terms {#sec-app4-terms}
+
+The list below indicates the spelling, capitalization, and hyphenation (or lack thereof) of terms commonly used in BOW accounts. See also @sec-app4-geographic, @sec-app4-plumages, and @sec-app4-hyphens.
+
+-   accipiter (can use lowercase if referring to the general group and you do not mean to use the genus name)
+-   aging (not ageing, which is the UK spelling)
+-   allopreen
+-   altiplano
+-   among (not amongst)
+-   antipredator
+-   backcross
+-   banding (not ringing)
+-   biparental
+-   breast band
+-   broodmate
+-   buteo (can use lowercase if referring to the general group and you do not mean to use the genus name)
+-   Caatinga (capitalized)
+-   caged bird (as in caged bird trade)
+-   Cerrado (capitalized)
+-   Chaco
+-   cloud forest
+-   coexist
+-   copyeditor
+-   copyediting
+-   countersing
+-   crown stripe
+-   dorsoventral
+-   downslurred
+-   dust bathing
+-   ear coverts
+-   eggshell
+-   email
+-   extrapair
+-   eye crescent
+-   eye stripe
+-   eyeline
+-   eyering
+-   facial disk (not facial disc)
+-   flank stripe
+-   flight feathers
+-   flycatching
+-   foreneck
+-   freshwater
+-   game bird
+-   geographic (not geographical)
+-   hawkwatch
+-   hind claw
+-   hindcollar
+-   hindneck
+-   human-made (instead of man-made)
+-   interyear
+-   intrapair
+-   landbirds
+-   left-hand
+-   life cycle
+-   life span
+-   longline fishery
+-   marsh bird
+-   metapopulation
+-   mid- (should be hyphenated in nearly all uses except midday)
+-   mist net
+-   mollusk
+-   molt migration (no hyphen)
+-   mountaintop
+-   nest box
+-   nestmate
+-   nonbreeding
+-   nonmigratory
+-   non-native
+-   nonvocal
+-   ochre (not ocher)
+-   offshore
+-   off-white (always hyphenated)
+-   online
+-   overharvest
+-   overslurred
+-   *p* value (lowercase *p*, no hyphen)
+-   pair bond
+-   pampas
+-   paramo
+-   PhD (no periods)
+-   pine cone
+-   pinfeathers
+-   playback
+-   postbreeding
+-   postfledging
+-   postocular
+-   powerline
+-   prebreeding
+-   puna
+-   radio-tagged
+-   radio-telemetry
+-   radio-tracking
+-   radio transmitter
+-   rainforest
+-   re-form (to avoid confusion with reform, meaning to change)
+-   re-pair (to avoid confusion with repair, meaning to fix)
+-   reevaluate
+-   remate
+-   renest
+-   resight
+-   reuse
+-   revisor
+-   ridgeline
+-   right-hand
+-   riverbank
+-   riverbed
+-   riverbottom
+-   rump patch
+-   runoff
+-   saltmarsh
+-   saltpan
+-   saltwater
+-   sand flat
+-   sand spits (no hyphen)
+-   salt gland (no hyphen)
+-   sea duck
+-   seabird
+-   seed head
+-   semialtricial
+-   semiarid
+-   semiopen
+-   semipermanent
+-   semiurban
+-   shaft streak
+-   shrubsteppe
+-   snakeskin
+-   species’ (not species’s)
+-   species group (no hyphen)
+-   spiderweb
+-   stopover
+-   streambed
+-   subadult
+-   sublethal
+-   sugarcane
+-   swampland
+-   sweetgum
+-   takeoff (noun or adjective), take off (verb)
+-   tail coverts
+-   tailless
+-   tape-recorded (with hyphen)
+-   tide pool
+-   timberline
+-   tree trunk
+-   treeline
+-   treetop
+-   UK
+-   U.S.
+-   underparts
+-   undertail
+-   underwing
+-   underwing coverts
+-   upperparts (for the plural)
+-   underside
+-   upper part (for the singular)
+-   upper side
+-   uppertail (when used as an adjective, e.g., uppertail coverts)
+-   upperwing
+-   upperwing coverts
+-   upslurred
+-   watercourse
+-   while (not whilst)
+-   wing band
+-   wing coverts
+-   wing loading
+-   wing panel
+-   wing stripe
+-   wing whir
+-   wingbar
+-   wingbeat
+-   wingspan
+-   wingstroke
+-   wingtip
+-   woodlot
+-   year-round (always hyphenated)

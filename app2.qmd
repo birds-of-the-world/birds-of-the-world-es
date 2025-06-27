@@ -1,0 +1,284 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Appendix 2: Standard Account Pages, Sections, and Subsections {#sec-app2 .unnumbered}
+
+Shown below are the pages (purple), sections (blue), and subsections (black) that should appear in most or all accounts in the order in which they should occur. You can click on each section to view its detailed instructions in [Appendix 3](https://birds-of-the-world.github.io/birds-of-the-world/app3.html).
+
+Note that, as science has evolved, we have added new sections and subsections that we would like to see included in all accounts. Contributors should use the list below as a guide to what to include when completing a revision, as the account’s structure may have changed recently.
+
+As discussed in the @sec-content-structure section, contributors have some flexibility in including, or sometimes excluding, certain subsections and, more rarely, sections, depending on the biology of their species and what information is available. The order in which material appears below must be retained, however.
+
+## [INTRODUCTION]{style="color:purple;"} {#sec-app2-intro}
+
+## [FIELD IDENTIFICATION]{style="color:purple;"} {#sec-app2-id}
+
+-   @sec-app3-id-intro
+-   @sec-app3-id-id
+-   @sec-app3-id-sssum
+-   @sec-app3-id-ss
+
+## [PLUMAGES, MOLTS, AND STRUCTURE]{style="color:purple;"} {#sec-app2-plumages}
+
+-   @sec-app3-plumages-plumages
+    -   Natal Down
+    -   Juvenile
+    -   Adult
+-   @sec-app3-plumages-molts
+-   @sec-app3-plumages-bare
+    -   Bill and Gape
+    -   Iris
+    -   Facial Skin
+    -   Tarsi and Toes
+-   @sec-app3-plumages-measurements
+    -   Linear Measurements
+    -   Mass
+    -   Wing Area, Wing Aspect Ratio, and Wing Loading
+
+## [SYSTEMATICS]{style="color:purple;"} {#sec-app2-systematics}
+
+-   @sec-app3-systematics-history
+-   @sec-app3-systematics-geographic
+-   @sec-app3-systematics-subspecies
+-   @sec-app3-systematics-related
+-   @sec-app3-systematics-hybrid
+-   @sec-app3-systematics-fossils
+
+## [DISTRIBUTION]{style="color:purple;"} {#sec-app2-distribution}
+
+-   @sec-app3-distribution-intro
+    -   Breeding Range
+    -   Nonbreeding Range
+    -   Elevational Range
+    -   Introduced Range
+    -   Extralimital Records
+-   @sec-app3-distribution-historical
+
+## [HABITAT]{style="color:purple;"} {#sec-app2-habitat}
+
+-   @sec-app3-habitat-intro
+    -   Habitat Keywords
+-   @sec-app3-habitat-general
+-   @sec-app3-habitat-breeding
+-   @sec-app3-habitat-migration
+-   @sec-app3-habitat-nonbreeding
+
+## [MOVEMENTS AND MIGRATION]{style="color:purple;"} {#sec-app2-movements}
+
+-   @sec-app3-movements-intro
+-   @sec-app3-movements-dispersal
+    -   Natal Philopatry and Dispersal
+    -   Adult Fidelity to Breeding Site and Dispersal
+    -   Fidelity to Nonbreeding Home Range
+-   @sec-app3-movements-nomigratory
+-   @sec-app3-movements-overview
+-   @sec-app3-movements-timing
+    -   Postbreeding
+    -   Prebreeding
+-   @sec-app3-movements-behavior
+    -   Daily Timing of Migration
+    -   Fidelity to Migratory Routes
+    -   Fidelity to Stopover Sites
+    -   Movement Behavior During Stopover
+    -   Duration of Stopover Period
+    -   Duration of Migratory Period
+-   @sec-app3-movements-control
+
+## [DIET AND FORAGING]{style="color:purple;"} {#sec-app2-diet}
+
+-   @sec-app3-diet-intro
+-   @sec-app3-diet-feeding
+    -   Microhabitat for Foraging
+    -   Food Capture and Consumption
+-   @sec-app3-diet-diet
+    -   Major Food Items
+    -   Quantitative Analysis
+-   @sec-app3-diet-storage
+-   @sec-app3-diet-nutrition
+-   @sec-app3-diet-metabolism
+-   @sec-app3-diet-drinking
+
+## [SOUNDS AND VOCAL BEHAVIOR]{style="color:purple;"} {#sec-app2-sounds}
+
+-   @sec-app3-sounds-intro
+-   @sec-app3-sounds-vocalizations
+    -   Vocal Development
+    -   Vocal Array
+        -   Songs
+        -   Calls
+    -   Geographic Variation
+    -   Phenology
+    -   Daily Pattern of Vocalizing
+    -   Places of Vocalizing
+    -   Sex Differences
+    -   Repertoire and Delivery of Songs
+    -   Social Context and Presumed Functions of Vocalizations
+-   @sec-app3-sounds-nonvocal
+
+## [BEHAVIOR]{style="color:purple;"} {#sec-app2-behavior}
+
+-   @sec-app3-behavior-intro
+-   @sec-app3-behavior-locomotion
+    -   Posture and Body Movements
+    -   Walking, Running, Hopping, and Climbing
+    -   Flight
+    -   Swimming and Diving
+-   @sec-app3-behavior-self
+    -   Preening, Head Scratching, Stretching, Sunbathing, Bathing, and Anting
+    -   Roosting and Sleeping
+    -   Daily Time Budget
+-   @sec-app3-behavior-agonistic
+    -   Physical and Communicative Interactions
+    -   Territorial Behavior
+-   @sec-app3-behavior-sexual
+    -   Mating System and Operational Sex Ratio
+    -   Courtship, Copulation, and Pair Bond
+    -   Extrapair Mating Behavior/Paternity
+-   @sec-app3-behavior-social
+    -   Degree of Sociality
+    -   Play
+    -   Nonpredatory Interspecific Interactions
+-   @sec-app3-behavior-predation
+    -   Types of Predators
+    -   Manner of Depredation
+    -   Response to Predators
+
+## [BREEDING]{style="color:purple;"} {#sec-app2-breeding}
+
+-   @sec-app3-breeding-intro
+-   @sec-app3-breeding-phenology
+    -   Pair Formation
+    -   Nest Building
+    -   First Brood
+    -   Second/Later Broods
+-   @sec-app3-breeding-site
+    -   Selection Process
+    -   Site Characteristics
+-   @sec-app3-breeding-nest
+    -   Construction Process
+    -   Structure and Composition
+    -   Dimensions
+    -   Microclimate
+    -   Maintenance or Reuse of Nests
+    -   Nonbreeding Nests
+-   @sec-app3-breeding-eggs
+    -   Shape
+    -   Size
+    -   Mass
+    -   Eggshell Thickness
+    -   Color and Surface Texture
+    -   Clutch Size
+    -   Egg Laying
+-   @sec-app3-breeding-incubation
+    -   Onset of Broodiness and Incubation in Relation to Laying
+    -   Incubation Patches
+    -   Incubation Period
+    -   Parental Behavior
+    -   Hardiness of Eggs Against Temperature Stress
+-   @sec-app3-breeding-hatching
+    -   Preliminary Events and Vocalizations
+    -   Shell Breaking and Emergence
+    -   Hatching Synchrony
+    -   Parental Assistance and Disposal of Eggshells
+-   @sec-app3-breeding-young
+    -   Condition at Hatching
+    -   Growth and Development
+    -   Sex Ratios and Sex Allocation
+-   @sec-app3-breeding-parental
+    -   Brooding
+    -   Feeding
+    -   Nest Sanitation
+    -   Nest Defense
+    -   Carrying of Eggs or Young
+-   @sec-app3-breeding-cooperative
+-   @sec-app3-breeding-parasitism
+    -   Brood Parasitism of Conspecifics
+    -   Brood Parasitism of Other Species
+    -   Brood Parasitism by Other Species
+        -   Identity of the Parasitic Species
+        -   Frequency of Occurrence
+        -   Seasonal or Geographic Variation
+        -   Timing of Laying in Relation to Host's Laying
+        -   Response to Parasitic Female, Eggs, or Nestlings
+        -   Effects of Parasitism on Host
+        -   Success of Parasite with This Host
+-   @sec-app3-breeding-fledgling
+    -   Departure from the Nest
+    -   Growth
+    -   Association with Parents or Other Young
+    -   Ability to Get Around, Feed, and Care for Self
+    -   Behavior After Independence
+
+## [DEMOGRAPHY AND POPULATIONS]{style="color:purple;"} {#sec-app2-demography}
+
+-   @sec-app3-demography-intro
+-   @sec-app3-demography-measures
+    -   Age at First Breeding
+    -   Intervals Between Breeding
+    -   Clutch Size and Number of Clutches per Season
+    -   Annual and Lifetime Reproductive Success
+    -   Number of Broods Normally Reared per Season
+    -   Proportion of Total Females That Rear at Least One Brood to Nest Leaving
+-   @sec-app3-demography-life
+-   @sec-app3-demography-pathogens
+    -   Pathogens
+    -   Parasites
+-   @sec-app3-demography-mortality
+    -   Exposure
+    -   Predation
+    -   Disease
+    -   Direct Human Impacts
+-   @sec-app3-demography-spatial
+    -   Individual Distance
+    -   Territory Size
+    -   Home Range Size
+    -   Density
+-   @sec-app3-demography-status
+    -   Numbers
+    -   Trends
+-   @sec-app3-demography-regulation
+
+## [CONSERVATION AND MANAGEMENT]{style="color:purple;"} {#sec-app2-conservation}
+
+-   @sec-app3-conservation-status
+    -   Global Assessment
+    -   Regional Assessments
+-   @sec-app3-conservation-effects
+    -   Habitat Loss and Degradation
+    -   Climate Change
+    -   Noise and Light Pollution
+    -   Effects of Invasive Species
+    -   Hunting, Trapping, and Bycatch
+    -   Pesticides and Other Contaminants/Toxics
+    -   Collisions with Structures or Objects
+    -   Other Human or Research Impacts
+-   @sec-app3-conservation-management
+    -   Conservation Areas
+    -   Conservation Measures and Habitat Management
+    -   Effectiveness of Measures
+
+## [RELATIONSHIP WITH HUMANS]{style="color:purple;"} {#sec-app2-humans}
+
+-   @sec-app3-humans-intro
+-   @sec-app3-humans-vernacular
+-   @sec-app3-humans-cultural
+    -   Early History
+    -   Presence in Folklore, Religion, and Symbolism
+    -   Depictions in Media
+    -   Public Perception
+-   @sec-app3-humans-economic
+    -   Use by Humans
+    -   Harm Inflicted by Focal Species
+    -   Aviculture and Domestication
+    -   Use as a Research Model
+
+## [PRIORITIES FOR FUTURE RESEARCH]{style="color:purple;"} {#sec-app2-priorities}
+
+## [OTHER]{style="color:purple;"} {#sec-app2-other}
+
+## [ACKNOWLEDGMENTS]{style="color:purple;"} {#sec-app2-acknowledgments}
+
+## [ABOUT THE AUTHOR(S)]{style="color:purple;"} {#sec-app2-authors}
