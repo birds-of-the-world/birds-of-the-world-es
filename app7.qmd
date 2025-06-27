@@ -12,7 +12,7 @@ You can review your account’s older media in the “live” version of the acc
 
 **Instructions for specific types of media are below. It is assumed that you have read and agree to abide by these policies before you begin your BOW revision.**
 
-## Figures {#sec-intro-figures}
+## Cifras {#sec-intro-figures}
 
 We suggest that you review all figures in the account before submitting your revision for editorial review. If you have any new (or updated) figures to add to the account, please upload them at the largest size/highest quality possible to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send them to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
@@ -29,13 +29,13 @@ Please take note of the following:
 -   If you have added/deleted any figures or want to rearrange the existing figure order, please provide a list of **all** of the figure numbers and titles that you would like in your revision (including both old and new figures).
 -   Please provide a Word document with all new or revised figure captions and titles.
 
-## Images {#sec-intro-images}
+## Imágenes {#sec-intro-images}
 
 The main image gallery and the images on each page of the account will be curated and added to the revision by BOW staff. You will be able to review all images in the revision prior to publication. We welcome author suggestions for images (see instructions below).
 
 Please note, if you absolutely **do not** want BOW staff to populate the media galleries for your account, you must supply suitable gallery content consistent with BOW media standards and procedures yourself. We strongly recommend that you communicate extensively with BOW staff about your selections, as any media that fail to meet BOW media standards of content, size, quality, account organization, etc., will be omitted or replaced, without exception.
 
-### Submitting Your Own Images {#sec-intro-images-own}
+### Envíe sus propias imágenes {#sec-intro-images-own}
 
 If you have specific images that you would like to contribute to your BOW account, they **must be uploaded to our content management system via eBird/Macaulay Library**. Note, you should only contribute images for which **you** are the photographer. If you would like to add images by others to your BOW revision, each individual photographer will need to upload their own work (even if you have the photographer’s permission to use the image in a BOW account).
 
@@ -69,31 +69,31 @@ If you would like to submit your own images, we are particularly interested in:
 -   Images that portray coarse- and fine-scale habitat features
 -   Images that depict conservation issues and/or human interactions with the species
 
-### Selecting Images That Are Already in the Macaulay Library {#sec-intro-images-ML}
+### Selección de imágenes que ya están en la Biblioteca Macaulay {#sec-intro-images-ML}
 
 We also invite you to peruse the Macaulay Library (<http://macaulaylibrary.org>) for images to be included in your account. Some images in the Macaulay Library may be too small/low quality for inclusion in BOW, so it is useful to double check the size before suggesting an image. If you find images that you would like to include in your account, please provide the eBird checklist and/or Macaulay Library asset numbers (e.g., ML36340541), as well as a Word document with titles and captions for each image to be included (material must be received no later than one month prior to publication of the account). You can upload this information to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send it to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
 ## Audio {#sec-intro-audio}
 
-### Submitting Your Own Audtio {#sec-intro-audio-own}
+### Envíe su propio audio {#sec-intro-audio-own}
 
 Audio should be added following the same guidelines as images.
 
-### Selecting Audio That Is Already in the Macaulay Library {#sec-intro-audio-ML}
+### Seleccionar audio que ya está en la Biblioteca Macaulay {#sec-intro-audio-ML}
 
 We invite you to peruse the Macaulay Library (<http://macaulaylibrary.org>) for audio selections to be included in your account. If you find audio tracks that you would like to include in your account, please provide a Word document with Macaulay Library asset numbers (e.g., ML36340541), as well as titles and captions for each track and the specific timing of the selection of interest (e.g., 0:30–1:10 s), if applicable. You can upload this information to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send it to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
-## Video {#sec-intro-video}
+## Vídeo {#sec-intro-video}
 
-### Submitting Your Own Video {#sec-intro-video-own}
+### Envíe su propio vídeo {#sec-intro-video-own}
 
 For video submissions, please contact Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) or Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)) for details.
 
-### Selecting Video That Is Already in the Macaulay Library {#sec-intro-video-ML}
+### Selección de vídeos que ya están en la Biblioteca Macaulay {#sec-intro-video-ML}
 
 We invite you to peruse the Macaulay Library (<http://macaulaylibrary.org>) for video selections to be included in your account. If you find video that correlates to specific text in the account, please provide a list of Macaulay Library asset numbers (e.g., ML36340541), as well as titles, captions, and the locations where you would like the videos to be embedded within the account. You can upload this information to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send it to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
-## Tables {#sec-intro-tables}
+## Tablas {#sec-intro-tables}
 
 We suggest that you review all existing tables and appendices in the account before submitting your revision for editorial review. If you would like to **correct** an existing table/appendix, you may either list your corrections in a Word document or prepare an Excel file with a new version of the table/appendix.
 
@@ -103,7 +103,7 @@ If you have added or deleted tables/appendices or want to rearrange the existing
 
 You can upload your table files to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send them to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
-## Copyright and Permissions {#sec-intro-copyright}
+## Derechos de autor y autorizaciones {#sec-intro-copyright}
 
 The Macaulay Library archive is primarily a data repository for research purposes. It is not an open repository of rich media available to the general public for any and all use. Assets in the collection are owned by the original author (e.g., recorder or photographer), and the copyright lies with each author unless otherwise indicated.
 

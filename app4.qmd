@@ -14,11 +14,11 @@ editor_options:
 -   A single space after a period is standard.
 -   Include a single space between initials, e.g., “J. L. Smith.”
 
-## Language {#sec-app4-language}
+## Idioma {#sec-app4-language}
 
 -   Please use American English spellings (e.g., “gray” instead of “grey,” “color” instead of “colour,” “story” instead of “storey,” and “signaling” instead of “signalling”) and conventions (e.g., double quotation marks with periods and commas *inside* the quotation marks, not outside).
 
-## Headings {#sec-app4-headings}
+## Rúbricas {#sec-app4-headings}
 
 -   Subsections should be “Heading 1,” unbolded (applying the Heading 1 style automatically makes the text bold).
     -   Headings within a subsection should be “Heading 2,” unbolded. These should be reserved for several paragraphs of text. For only one paragraph of text, please use the format below for headings within sub-subsections.
@@ -31,7 +31,7 @@ editor_options:
     -   Capitalize the first word after a colon in a title, no matter what it is.
     -   Second and later elements of hyphenated terms should be lowercase.
 
-## Referring to Species {#sec-app4-species}
+## Referencia a las especies {#sec-app4-species}
 
 -   Any bird species mentioned in an account should be included using the Species Name button (or “species tag”).
     -   The default species is the species whose account you are editing. To include the name of any other species, type the name into the search bar.
@@ -52,12 +52,12 @@ editor_options:
     -   For species not available in iNaturalist, it may be helpful to consult the Global Biodiversity Information Facility (<https://www.gbif.org/>) or, for marine species, the World Register of Marine Species (<https://www.marinespecies.org/>).
     -   If a species’ scientific name has changed since the publication of a source that you are citing, please indicate the new name in square brackets to allow the reader to understand the relevant species when referring to both the cited literature and current literature. For example, water hyacinth (*Eichhornia* \[*Pontederia*\] *crassipes*).
 
-## Describing Vocalizations {#sec-app4-vocalizations}
+## Describir las vocalizaciones {#sec-app4-vocalizations}
 
 -   When spelling out onomatopoeic vocalizations, use the “Vocalization” tag (see @sec-edit-three) to italicize them (e.g., “*Chuk* call”). **Do not** use quotation marks around such descriptions of vocalizations.
 -   Do not italicize or apply the Vocalization tag to descriptive vocalizations like “Alarm Call.”
 
-## Referring to Geographic Locations {#sec-app4-geographic}
+## Referencia a ubicaciones geográficas {#sec-app4-geographic}
 
 -   Use accepted anglicized spellings but retain diacritical marks if the name is from a Latin alphabet. If a location is transliterated from a non-Latin alphabet, diacritical marks are generally not used. Use accents for indigenous languages if written in the Latin alphabet. Retain glottal stops in Hawaiian terms, although note that no glottal stop is used in the state name (Hawaii), but one is used in the island name (Hawai’i). Non-Latin scripts may not have direct English equivalents; consult an accepted transliteration system or regional authority when necessary.
 -   For locations with multiple names, prioritize the name used in the local language when possible and give the English name in parentheses afterward.
@@ -116,18 +116,18 @@ editor_options:
 -   Use a space between coordinates and N, W, S, or E but not between the degree or prime symbols and the following numbers (e.g., 19°29′59″ N, 107°45′36″ W).
 -   When referring to multiple named geographic features, capitalize the plural terms following them, including “Rivers” and “Valleys.” For example, capitalize “Rivers” in “the Mississippi and Missouri Rivers.”
 
-## Referring to Measures of Time {#sec-app4-time}
+## Referencia a medidas de tiempo {#sec-app4-time}
 
 -   Designate clock time in the 24-hour system (e.g., “0930 h” or “1645 h”).
 -   Spell out names of months. Write dates in the following format: 1 January 2009.
 -   Use abbreviations for time (ms, s, min, h, d, wk, mo, yr) when something has been measured (e.g., “This display lasts, on average, 10.5 s”). Spell out time references when no measurement has been made or when referring to a broader period of time, and spell out numbers less than 10 in such cases (e.g., “Fledglings are typically independent by the time they reach 30 days of age,” “They breed when they are two years old or older,” and “Primary feathers begin to emerge on day 11”).
 
-## Referring to Age {#sec-app4-age}
+## En referencia a la edad {#sec-app4-age}
 
 -   Individuals can be referred to as “second-year,” “after-second-year,” “after-third-year” individuals. Standard abbreviations for such age classifications, e.g.,”'SY,” “ASY,” or “ATY,” can be used in situations in which the terms are going to be used repeatedly in a short span of text; otherwise, do not abbreviate. However, because these terms and associated abbreviations are easily misinterpreted, contributors should define what is meant by these terms the first time that they are used. For example, “Second-year individuals (i.e., those in their first full calendar year)…”
 -   When referring to a particular day of a particular stage in the breeding cycle, use the format “day 13” rather than “13th day,” as in “Researchers measured wing length on day 13 of the nestling stage.” Use numerals, even if the number is less than 10 (e.g., “on day 2 of the nestling stage”).
 
-## Numbering and Associated Issues {#sec-app4-numbering}
+## Numeración y cuestiones asociadas {#sec-app4-numbering}
 
 -   Use numerals for data (including sample sizes, methods, counts, and measurements with standardized units like m or g). 
 -   Use a space between a numeral and units of measurement (e.g., “4 m,” “100 ha,” or “50 mL”). However, one exception is for temperature; do not use a space between the number and the degree symbol (e.g., “43°C”).
@@ -141,7 +141,7 @@ editor_options:
 -   Add a comma(s) for numbers larger than 999 (e.g., “1,000” or “10,000,000”).
 -   For an approximation, use “\~” with no space after it (e.g., “\~25 mm”).
 
-## Describing Plumages and Molts {#sec-app4-plumages}
+## Descripción de plumajes y mudas {#sec-app4-plumages}
 
 -   Note that some specific technical terms used to describe molts and plumages should be capitalized but only when used in their entirety. Please see the list below:
     -   alternate plumage (lowercase if it lacks a descriptor before it)
@@ -169,7 +169,7 @@ editor_options:
     -   Supplemental Plumage
     -   supplemental female/male
 
-## Hyphens {#sec-app4-hyphens}
+## Guiones {#sec-app4-hyphens}
 
 -   Generally, hyphenate two or more words when they come before a noun they modify and act as a single idea, i.e., when they form a compound adjective, e.g., “later-nesting pairs” or “high-elevation populations.” When a compound adjective follows a noun, however, a hyphen should not be used, e.g., “In montane areas, individuals typically nest at high elevation.”
     -   Some exceptions include words listed as hyphenated adjectives in *Merriam-Webster* (e.g., “year-round”); these should always be hyphenated, regardless of where they appear in the sentence. However, do not hyphenate terms including “well” when they appear after a noun, even if *Merriam-Webster* lists them as hyphenated (e.g., use “the species is well known”).
@@ -184,7 +184,7 @@ editor_options:
 -   When spelling out numbers that appear at the start of sentences, hyphenate all compound numbers from twenty-one through ninety-nine. For example, “Thirty-one nests were assigned to the control group.” 
 -   Spell out fractional numbers \< 1, with hyphenation, e.g., “More than one-third of the young with radio transmitters were found dead within a week after leaving the nest.” When fractions are part of numbers \> 1, use the numerical form, e.g., “After many years, the width of the nest can be more than 1½ m wide.”
 
-## Commas {#sec-app4-commas}
+## Comas {#sec-app4-commas}
 
 -   Use a comma after “e.g.” and “i.e.”
 -   Use a comma between elements in a series of three or more, before the conjunction joining the last two elements in a series (the "Oxford" comma), between independent clauses unless the clauses are unusually short, and to set off individual elements in dates, addresses, and place names. Examples:
@@ -198,7 +198,7 @@ editor_options:
         -   “Birds in Ithaca, New York, were observed…”
 -   Use commas (not semicolons) to separate a list of citations (e.g., Bush 1990, Smith 2018).
 
-## Abbreviations {#sec-app4-abbreviations}
+## Abreviaturas {#sec-app4-abbreviations}
 
 -   See also @sec-app4-time.
 -   Write “U.S.” instead of “U. S.” or “U.S.A.”
@@ -215,20 +215,20 @@ editor_options:
 -   Spell out “million years ago” instead of using “mya.”
 -   On occasion, contributors will want to use abbreviations that are likely not widely known or that are specific to their species or account. Contributors may also want to use certain abbreviations when they need to use the same lengthy word or phrase repeatedly. In any case, please redefine the abbreviations when first used in each section (or, for short pages, the first time they are used on the page). The reason for this is that most users of these accounts do not read them through in their entirety from the beginning. Rather, they typically read a certain page or section while looking for specific information.
 
-## Quotations {#sec-app4-quotations}
+## Citas {#sec-app4-quotations}
 
 -   Contributors are welcome to open a section with a quote. When doing so, use quotation marks and provide the author, reference tag, and page number. An example that starts off the Introduction in the [Mountain Bluebird](https://species.birds.cornell.edu/bow/species/moublu/cur/introduction) account is as follows: “These exquisites, in their quadruple-extract-of-azure garb, are justly ranked the topmost twig of the American ornithological tree.” —William L. Dawson ([Dawson 1897](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF26966): 181)
 -   When quoting material directly from other sources within the main body/text of a section, indicate the page number from which the quote was taken. For example: Criddle ([Criddle 1927](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF45926): 41) wrote that song “...is commenced soon after the first suffusion of light indicates a returning day and is at its height as the rising sun appears over the eastern landscape.” Note the space after the colon.
 -   Avoid structure such as the following when inserting direct quotes: Wheelock, in her 1904 publication, *Birds of California*, described the song as “a sweet, clear ‘*trually, tru-al-ly*’” (p. 507). Such structure makes it difficult to add a reference tag. The preferred structure would be along these lines: In her book, *Birds of California*, Wheelock ([Wheelock 1904](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF72947): 507) described the song as “a sweet, clear ‘*trually, tru-al-ly*.’”
 -   Regarding punctuation following quotes: Following standard U.S. English, place a period or comma inside the quotation marks, e.g., Johnson (1990) referred to this as the “copulation request display.” However, a semicolon or colon should go outside the quotation marks. Question marks and exclamation points go inside the quotation marks if part of the quotation but outside if not.
 
-## Referring to Sections Elsewhere in the Account {#sec-app4-sections}
+## Remisión a otras secciones de la ficha {#sec-app4-sections}
 
 -   When referencing other sections of the BOW account, please indicate the entire string of page and section (capitalized), separated by a colon (e.g., “see [Field Identification: Similar Species](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)” or “see [Breeding: Young Birds](https://species.birds.cornell.edu/bow/species/kitmur/cur/breeding#young)”). **Do not include subsections.**
     -   Sections within an account should be linked via the chain link icon (see @sec-edit-three).
 -   In contrast to what was done with the original, printed accounts, DO NOT include directional terms like “above” and “below” (do not use, e.g., “see [Field Identification: Similar Species](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies) (above)” or “see below”).
 
-## Statistics {#sec-app4-statistics}
+## Estadísticas {#sec-app4-statistics}
 
 -   Statistics should include, wherever possible, the mean, standard deviation (SD), standard error (SE), coefficient of variation (CV), range (lowest–highest), sample size (*n*), and source of the data. It is fine to report test statistics, a confidence interval (CI), and a p value (*p*), but these are not used heavily in BOW accounts, with the exception being when contributors report unpublished data and analyses.
 -   Provide the SD/SE following a ± symbol, without its own units, e.g., “84.8 mL ± 7.0 SD.” SD or SE can be added parenthetically, e.g., “84.8 mL (± 7.0 SD),”but generally do not do so unless added at end of sentence with other statistics.
@@ -239,7 +239,7 @@ editor_options:
 -   When reporting results of statistical tests, report the test statistic first, the *p* value second, and the sample size last, e.g., “The number of days young spent in the nest was inversely related to mean brood wing length on day 13 of the nestling stage (*r* = −0.61, *p* = 0.03, *n* = 45 broods).”
 -   Use a minus sign (−), not a hyphen, to denote negative numbers.
 
-## Other {#sec-app4-other}
+## Otros {#sec-app4-other}
 
 -   Avoid Caucasian-centric descriptors like “flesh-colored” or “skin-colored.” 
 -   Use “subspecies” instead of “race.”
@@ -252,7 +252,7 @@ editor_options:
 -   In addition to denoting ranges, an en dash should be used to join the names of two or more people acting as a compound modifier of a noun (e.g. “Humphrey–Parkes terminology”) or two or more entities of equal importance in a descriptor (e.g., “the Zimbabwe–Mozambique border”).
 -   When using a dash to set off information within a sentence, use an **em dash (—) with no spaces around it**. To type an em dash, use Option, Shift, and hyphen on a Mac or Control, Alt, and hyphen on a PC.
 
-## Useful Symbols {#sec-app4-symbols}
+## Símbolos útiles {#sec-app4-symbols}
 
 To copy and paste into the text editor:
 
@@ -288,7 +288,7 @@ Double prime (for coordinates)
 
 ″
 
-## Commonly Used Terms {#sec-app4-terms}
+## Términos de uso común {#sec-app4-terms}
 
 The list below indicates the spelling, capitalization, and hyphenation (or lack thereof) of terms commonly used in BOW accounts. See also @sec-app4-geographic, @sec-app4-plumages, and @sec-app4-hyphens.
 

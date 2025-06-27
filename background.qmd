@@ -6,7 +6,7 @@ editor_options:
 
 # Información general {#sec-background .unnumbered}
 
-**Please review [Appendix 1](https://birds-of-the-world.github.io/birds-of-the-world/app1.html)** for all policies regarding authorship, conduct, and content. It is assumed that contributors have read and will abide by these policies and have signed the BOW [**Contributor Agreement**](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) before beginning their revision.
+**Please review [**Appendix 1**](https://birds-of-the-world.github.io/birds-of-the-world/app1.html) for all policies regarding authorship, conduct, and content. It is assumed that contributors have read and will abide by these policies and have signed the BOW [**Contributor Agreement**](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) before beginning their revision.**
 
 BOW contributors do not receive financial compensation for their work, although they do receive *gratis* access to BOW. 
 
@@ -22,7 +22,7 @@ If your account is for a species that was never covered by BNA or NB, the origin
 
 Please note, **primary sources (i.e., the original published sources of information, often academic journal articles) are always preferred**, and contributors should review original literature on the species to expand on, or replace, text from the above secondary sources (i.e., sources that contain information originally published elsewhere) to attain the appropriate level of detail in the account. Text originally derived from the HBW source project frequently did not contain references within the text. You should review the references (including the Additional References, which will contain HBW citations that are not referenced in the text) on the References page and, when possible and useful, ensure that those references are cited throughout the account’s text. See [Account Content](https://birds-of-the-world.github.io/birds-of-the-world/content.html) for further details on sources.
 
-## Full and Partial Revisions {#sec-background-full}
+## Revisiones completas y parciales {#sec-background-full}
 
 A **full revision** will involve assessment of the entire account with updates across as many sections as appropriate, commensurate with the available publications on the species’ biology.
 
@@ -32,20 +32,20 @@ A **partial revision** will involve a change to some of the citable content of a
 
 -   Contributors may choose to do multiple partial revisions and thus build toward a full revision through several intermediate partial revisions. When such an approach is taken, the first partial revision should give priority to the most outdated content and/or the author’s area of special expertise.
 
-## Timeline for a Revision {#sec-background-timeline}
+## Calendario de una revisión {#sec-background-timeline}
 
 Revisions go through four stages before they are published:
 
--   [**Draft:**]{style="color:red;"} Contributors revise and add content.
--   [**Editor Review:**]{style="color:orange;"} BOW editors review the completed draft and add media.
--   [**Author Review:**]{style="color:lightskyblue;"} Contributors respond to BOW editors’ comments and review the completed account with all media.
+-   [**Borrador:**]{style="color:red;"} Contributors revise and add content.
+-   [**Revisión del editor:**]{style="color:orange;"} BOW editors review the completed draft and add media.
+-   [**Revisión del autor:**]{style="color:lightskyblue;"} Contributors respond to BOW editors’ comments and review the completed account with all media.
 -   [**Final:**]{style="color:blue;"} BOW staff look over the author’s final changes and then publish the account.
 
 Typically, BOW urges contributors to complete the draft stage of their revision in one month (for partial revisions) or three months (for full revisions); however, the revision timeline will also reflect the constraints faced by the contributors and BOW staff, as well as the nature of the revision. In some cases, completing a full revision for a well-studied species may take six months or more.
 
 If a revision will exceed the suggested timeline, contributors should communicate with BOW staff early and often. BOW endeavors to provide flexibility when it comes to the timing of revisions; however, in some cases (e.g., time-sensitive taxonomic updates, if the progress on a revision is overly slow, and/or if BOW staff are not able to communicate with the relevant contributors), the revision may be completed by BOW staff or others.
 
-## Authorship and Contributions to a Revision {#sec-background-authorship}
+## Autoría y contribuciones a una revisión {#sec-background-authorship}
 
 See [Appendix 1](https://birds-of-the-world.github.io/birds-of-the-world/app1.html) for full details on authorship and contributions.
 

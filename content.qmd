@@ -6,7 +6,7 @@ editor_options:
 
 # Contenido de la ficha {#sec-content .unnumbered}
 
-## Overview {#sec-content-overview}
+## Visión general {#sec-content-overview}
 
 BOW accounts are intended to provide comprehensive, up-to-date summaries of the known biology of all birds. The taxonomy of this series follows [eBird/Clements](https://www.birds.cornell.edu/clementschecklist/) and closely matches the North American and South American Classification and Nomenclature Committees. 
 
@@ -22,7 +22,7 @@ A revision should strive to be both readable and useful. Species accounts will b
 
 We encourage contributors to think about ways to enliven the text of their accounts, especially in the Introduction. This may include incorporating historical and/or influential quotes, discussing the cultural significance of the species, and/or including brief amusing anecdotes.
 
-## Sources of Information {#sec-content-sources}
+## Fuentes de información {#sec-content-sources}
 
 Plan to search widely for information to complete the revision. This includes reviewing not only recently published studies but also older publications, including those from the early 1900s and even before. Older literature that may have been difficult to identify or access when the original accounts were written may now be more widely available. Older publications often contain information on a species’ natural history of a kind that is rarely published these days. Such information can be invaluable in the present day in designing studies and interpreting results. Excellent places to find citations to, and PDFs of, older publications include Google Scholar: <https://scholar.google.com/>, ResearchGate: <https://www.researchgate.net/>, BioOne: <https://bioone.org/>, Biodiversity Heritage Library: <https://www.biodiversitylibrary.org/>, and SORA: <https://sora.unm.edu/>. Internet Archive (<https://archive.org/>) can be helpful for accessing older books. Zoological Record (<https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/zoological-record/>) can also be a helpful resource if your institution has a subscription.
 
@@ -38,7 +38,7 @@ Similarly, contributors are welcome to include their own unpublished data in the
 
 Contributors can also seek additional unpublished data from others but should take care to credit them appropriately. Including such data in a BOW species account does not preclude the owner from publishing them elsewhere at a later date. However, once these data are published, the citation in BOW should be updated.
 
-## Account Structure and Organization {#sec-content-structure}
+## Estructura y organización de la ficha {#sec-content-structure}
 
 When published, BOW accounts will appear in one of two layouts: a vertically stacked layout most similar to the original layout of HBW accounts, or an expanded layout most similar to the original layout of BNA accounts. During a revision, you will have all sections available to you (as per the expanded layout), whether you choose to populate these sections or not. Any sections that do not have content will not be visible when the revision is published. When a revision is ready to publish, BOW staff will decide if the account contains enough information to be displayed in the expanded format. The ultimate goal is to have all BOW species converted to the expanded layout as information is populated.
 
@@ -60,9 +60,9 @@ BOW staff will consider the addition of new sections or subsections; however, th
 
 Please note, any content imported from HBW is automatically added to the introductory section of each page (labeled with “(introduction)” in [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html)). This content should be parsed out into other sections and subsections, as appropriate.
 
-## Grammar and Formatting {#sec-content-grammar}
+## Gramática y formato {#sec-content-grammar}
 
-### Grammar, Punctuation, and Style {#sec-content-grammar-grammar}
+### Gramática, puntuación y estilo {#sec-content-grammar-grammar}
 
 Refer to [Appendix 4](https://birds-of-the-world.github.io/birds-of-the-world/app4.html) for detailed information on grammar, punctuation, style, and formatting conventions.
 
@@ -74,7 +74,7 @@ Note, however, that repeated use of longer words or terms (e.g., Endemic Bird Ar
 
 Please spell-check the manuscript as much as possible. The eBird/Clements Checklist is published in American English; thus, we ask that BOW accounts are written in American English for consistency (e.g., “gray,” not “grey,” and “molt,” not “moult”). Future site developments aim to enable authors to write in their preferred language.
 
-### References/Citations {#sec-content-grammar-references}
+### Referencias/Citaciones {#sec-content-grammar-references}
 
 Published BOW accounts use a numbered reference system in which citations are represented by numbers in parentheses in the appropriate place in the text. Contributors are expected to go through and add linked citations to the text (see @sec-edit-five). Once a citation is linked within a section of an account, our system will automatically assign it a number, and the reference will automatically appear on the References page in the order in which it is cited in the text (or alphabetically, by option). Thus, there is no need for cross-checking the citations in the text against the References page.
 

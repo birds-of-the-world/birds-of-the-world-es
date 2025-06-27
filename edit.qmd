@@ -6,7 +6,7 @@ editor_options:
 
 # Cómo editar y revisar en la web de BOW {#sec-edit .unnumbered}
 
-## Step 1: Creating an Account {#sec-edit-one}
+## Paso 1: Crear una cuenta {#sec-edit-one}
 
 You will need a Cornell Lab of Ornithology **username** and **password** to access a draft account(s). If you already have an account for one or more Cornell Lab projects (e.g., BOW, eBird, Great Backyard Bird Count, or NestWatch), then please use that username and password. 
 
@@ -16,7 +16,7 @@ If you do not already have an individual username, you can create a username (or
 
 After establishing a username, please complete our Contributor Information Form ([English](https://forms.gle/C3MySs5DtQZ1NR6b8), [Spanish](https://forms.gle/EZes93EWtmtrvtXi7)) so that BOW staff can provide you with access to a draft species account.
 
-## Step 2: Accessing the BOW Website {#sec-edit-two}
+## Paso 2: Acceder a la web de BOW {#sec-edit-two}
 
 The homepage for BOW is <https://birdsoftheworld.org/bow/home>. Please use the [Chrome](https://www.google.com/chrome/) browser to access the site and its editing tools. 
 
@@ -32,7 +32,7 @@ Once you have selected the draft version of the account, you will see an orange 
 
 Be aware that each time you log back in to continue your revisions, your earlier work on a page or section will be visible only in the draft version of the account (not the live version).
 
-## Step 3: Understanding the Editor Menu Bar {#sec-edit-three}
+## Paso 3: Comprender la barra de menús del editor {#sec-edit-three}
 
 Once you open the online editor, the editing tools will be displayed in a menu bar near the top of the screen in your browser. You can “hover” your cursor over any of the buttons for a brief description of their functionality.
 
@@ -94,7 +94,7 @@ The “**Media Link**” and “**Inline Media**” buttons are intended for BOW
 
 The last button (a page with arrows inside) allows you to **view the HTML code** for the text. You should not need to view the HTML under normal authoring circumstances.
 
-## Step 4: Revising the Draft Account {#sec-edit-four}
+## Paso 4: Revisar el borrador de ficha {#sec-edit-four}
 
 Your draft account will contain the headings and all of the text that appeared in the most recent published version of the account. This content and structure may not align with current standards for BOW accounts, so be sure to compare what is in your draft with [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html) and [Appendix 3](https://birds-of-the-world.github.io/birds-of-the-world/app3.html). 
 
@@ -116,7 +116,7 @@ You can navigate between pages in revision mode by using the index of pages with
 
 **Note:** Many aspects of a new version will not be finalized until after the Draft period. Media and figures are typically added to the draft during the Editorial Review period, and the account citation (which appears at the bottom of the screen) will not be fully updated from the previous version’s authorship until there is final consensus between the contributors and BOW staff on the authors and author order, usually during the Final Review period.
 
-## Step 5: Linking and Adding References {#sec-edit-five}
+## Paso 5: Enlazar y añadir referencias {#sec-edit-five}
 
 Before working with citations and references, we strongly encourage contributors to view a [recently published account](https://birdsoftheworld.org/bow/latest-updates) to view how numbered citations and references now appear.
 
@@ -160,7 +160,7 @@ As an author, you can edit or remove references that **you** (and only you) have
 
 **Note:** **You cannot edit references that you did not create.** You may find existing references that are incorrect or incomplete. In these situations, you should collect your suggested edits into a Word document that you submit via the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or alert BOW staff, who will make the changes for you.
 
-## Step 6: Account Review and Publication {#sec-edit-six}
+## Paso 6: Revisión y publicación de la ficha {#sec-edit-six}
 
 Once you have completely finished the revision, you should collect any supplementary materials you would like to include with your draft (e.g., media requests, map edits, figures, or tables) and then fill out the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)), which will help us collate information relating to your draft. Please make sure that you include any necessary edits to the map, as map revisions can take BOW staff some time.
 

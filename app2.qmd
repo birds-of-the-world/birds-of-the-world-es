@@ -12,16 +12,16 @@ Note that, as science has evolved, we have added new sections and subsections th
 
 As discussed in the @sec-content-structure section, contributors have some flexibility in including, or sometimes excluding, certain subsections and, more rarely, sections, depending on the biology of their species and what information is available. The order in which material appears below must be retained, however.
 
-## [INTRODUCTION]{style="color:purple;"} {#sec-app2-intro}
+## [INTRODUCCIÓN]{style="color:purple;"} {#sec-app2-intro}
 
-## [FIELD IDENTIFICATION]{style="color:purple;"} {#sec-app2-id}
+## [IDENTIFICACIÓN EN EL CAMPO]{style="color:purple;"} {#sec-app2-id}
 
 -   @sec-app3-id-intro
 -   @sec-app3-id-id
 -   @sec-app3-id-sssum
 -   @sec-app3-id-ss
 
-## [PLUMAGES, MOLTS, AND STRUCTURE]{style="color:purple;"} {#sec-app2-plumages}
+## [PLUMAJES, MUDAS Y ESTRUCTURA]{style="color:purple;"} {#sec-app2-plumages}
 
 -   @sec-app3-plumages-plumages
     -   Natal Down
@@ -38,7 +38,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Mass
     -   Wing Area, Wing Aspect Ratio, and Wing Loading
 
-## [SYSTEMATICS]{style="color:purple;"} {#sec-app2-systematics}
+## [SISTEMÁTICA]{style="color:purple;"} {#sec-app2-systematics}
 
 -   @sec-app3-systematics-history
 -   @sec-app3-systematics-geographic
@@ -47,7 +47,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
 -   @sec-app3-systematics-hybrid
 -   @sec-app3-systematics-fossils
 
-## [DISTRIBUTION]{style="color:purple;"} {#sec-app2-distribution}
+## [DISTRIBUCIÓN]{style="color:purple;"} {#sec-app2-distribution}
 
 -   @sec-app3-distribution-intro
     -   Breeding Range
@@ -57,7 +57,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Extralimital Records
 -   @sec-app3-distribution-historical
 
-## [HABITAT]{style="color:purple;"} {#sec-app2-habitat}
+## [HÁBITAT]{style="color:purple;"} {#sec-app2-habitat}
 
 -   @sec-app3-habitat-intro
     -   Habitat Keywords
@@ -66,7 +66,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
 -   @sec-app3-habitat-migration
 -   @sec-app3-habitat-nonbreeding
 
-## [MOVEMENTS AND MIGRATION]{style="color:purple;"} {#sec-app2-movements}
+## [MOVIMIENTOS Y MIGRACIÓN]{style="color:purple;"} {#sec-app2-movements}
 
 -   @sec-app3-movements-intro
 -   @sec-app3-movements-dispersal
@@ -87,7 +87,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Duration of Migratory Period
 -   @sec-app3-movements-control
 
-## [DIET AND FORAGING]{style="color:purple;"} {#sec-app2-diet}
+## [DIETA Y ALIMENTACIÓN]{style="color:purple;"} {#sec-app2-diet}
 
 -   @sec-app3-diet-intro
 -   @sec-app3-diet-feeding
@@ -101,7 +101,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
 -   @sec-app3-diet-metabolism
 -   @sec-app3-diet-drinking
 
-## [SOUNDS AND VOCAL BEHAVIOR]{style="color:purple;"} {#sec-app2-sounds}
+## [SONIDOS Y CONDUCTA VOCAL]{style="color:purple;"} {#sec-app2-sounds}
 
 -   @sec-app3-sounds-intro
 -   @sec-app3-sounds-vocalizations
@@ -118,7 +118,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Social Context and Presumed Functions of Vocalizations
 -   @sec-app3-sounds-nonvocal
 
-## [BEHAVIOR]{style="color:purple;"} {#sec-app2-behavior}
+## [CONDUCTA]{style="color:purple;"} {#sec-app2-behavior}
 
 -   @sec-app3-behavior-intro
 -   @sec-app3-behavior-locomotion
@@ -146,7 +146,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Manner of Depredation
     -   Response to Predators
 
-## [BREEDING]{style="color:purple;"} {#sec-app2-breeding}
+## [REPRODUCCIÓN]{style="color:purple;"} {#sec-app2-breeding}
 
 -   @sec-app3-breeding-intro
 -   @sec-app3-breeding-phenology
@@ -212,7 +212,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Ability to Get Around, Feed, and Care for Self
     -   Behavior After Independence
 
-## [DEMOGRAPHY AND POPULATIONS]{style="color:purple;"} {#sec-app2-demography}
+## [DEMOGRAFÍA Y POBLACIONES]{style="color:purple;"} {#sec-app2-demography}
 
 -   @sec-app3-demography-intro
 -   @sec-app3-demography-measures
@@ -241,7 +241,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Trends
 -   @sec-app3-demography-regulation
 
-## [CONSERVATION AND MANAGEMENT]{style="color:purple;"} {#sec-app2-conservation}
+## [CONSERVACIÓN Y MANEJO]{style="color:purple;"} {#sec-app2-conservation}
 
 -   @sec-app3-conservation-status
     -   Global Assessment
@@ -260,7 +260,7 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Conservation Measures and Habitat Management
     -   Effectiveness of Measures
 
-## [RELATIONSHIP WITH HUMANS]{style="color:purple;"} {#sec-app2-humans}
+## [RELACIONES CON EL SER HUMANO]{style="color:purple;"} {#sec-app2-humans}
 
 -   @sec-app3-humans-intro
 -   @sec-app3-humans-vernacular
@@ -275,10 +275,10 @@ As discussed in the @sec-content-structure section, contributors have some flexi
     -   Aviculture and Domestication
     -   Use as a Research Model
 
-## [PRIORITIES FOR FUTURE RESEARCH]{style="color:purple;"} {#sec-app2-priorities}
+## [PRIORIDADES PARA LA INVESTIGACIÓN FUTURA]{style="color:purple;"} {#sec-app2-priorities}
 
-## [OTHER]{style="color:purple;"} {#sec-app2-other}
+## [OTROS]{style="color:purple;"} {#sec-app2-other}
 
-## [ACKNOWLEDGMENTS]{style="color:purple;"} {#sec-app2-acknowledgments}
+## [AGRADECIMIENTOS]{style="color:purple;"} {#sec-app2-acknowledgments}
 
-## [ABOUT THE AUTHOR(S)]{style="color:purple;"} {#sec-app2-authors}
+## [SOBRE LOS/LAS AUTORES/AS]{style="color:purple;"} {#sec-app2-authors}
