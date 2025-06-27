@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "<em>Birds of the World</em> Contributor Guidelines"
+  title: "Directrices para contribuir en <em>Birds of the World</em>"
   chapters:
     - index.qmd
     - quickstart.qmd
@@ -20,7 +20,7 @@ book:
     - app7.qmd
 
   page-footer:
-    left: "<em>Birds of the World</em> Contributor Guidelines (v. 15)"
+    left: "Directrices para contribuir en <em>Birds of the World</em> (v. 15)"
   site-url: https://birds-of-the-world.github.io/birds-of-the-world/
   repo-branch: main
 
