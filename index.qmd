@@ -6,7 +6,7 @@ Thank you for volunteering to work on a *Birds of the World* (BOW) species accou
 
 Our ultimate goal is to generate authoritative and comprehensive species accounts for each of the roughly 11,145 species of birds in the world. This guide will review the basics of revising a species account, with guidance on content, style, and format. All account revisions are expected to follow these guidelines closely for consistency, clarity, and efficiency.
 
-**To be involved with the BOW project, you must review and abide by the policies for authorship, conduct, and content outlined in [**Appendix 1**](app1.qmd). You will also need to complete a Contributor Information Form ([**English**](https://forms.gle/C3MySs5DtQZ1NR6b8), [**Spanish**](https://forms.gle/EZes93EWtmtrvtXi7)). You should aim to resubmit this form every two years to maintain your status as an active contributor.**
+**To be involved with the BOW project, you must review and abide by the policies for authorship, conduct, and content outlined in [Appendix 1](app1.qmd)**. You will also need to complete a Contributor Information Form ([**English**](https://forms.gle/C3MySs5DtQZ1NR6b8), [**Spanish**](https://forms.gle/EZes93EWtmtrvtXi7)). You should aim to resubmit this form every two years to maintain your status as an active contributor.
 
 In a typical revision, BOW staff will grant you “author access” to a draft account that you will be able to revise on the BOW website without your changes becoming publicly viewable. This draft will contain whatever was present in the most recent version of the account. You and/or your team should combine, edit, or remove this content as you add your own new content to the account.
 
