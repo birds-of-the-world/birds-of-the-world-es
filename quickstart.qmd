@@ -10,7 +10,7 @@ Para editar o revisar una ficha, trabajará con un borrador de ficha no es visib
 
 -   <div>
 
-    Vaya a [https://birdsoftheworld.org/bow/home ](https://birdsoftheworld.org/bow/home)e inicie sesión en su ficha de Cornell Lab (si se le solicita). Puede comprobar que ha iniciado sesión si ve una silueta negra de una persona en la parte superior derecha de la página seguida de su nombre y nombre de usuario entre paréntesis.
+    Vaya a <https://birdsoftheworld.org/bow/home>e inicie sesión en su ficha de Cornell Lab (si se le solicita). Puede comprobar que ha iniciado sesión si ve una silueta negra de una persona en la parte superior derecha de la página seguida de su nombre y nombre de usuario entre paréntesis.
 
     **Tenga en cuenta que éste debe ser su nombre de usuario individual, NO un nombre/login institucional o de grupo.**
 
