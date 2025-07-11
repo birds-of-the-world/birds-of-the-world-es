@@ -324,7 +324,7 @@
     "href": "app2.html#sec-app2-id",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "IDENTIFICACIÓN EN EL CAMPO",
-    "text": "IDENTIFICACIÓN EN EL CAMPO\n\n?sec-app3-id-intro\n?sec-app3-id-id\n?sec-app3-id-sssum\n?sec-app3-id-ss",
+    "text": "IDENTIFICACIÓN EN EL CAMPO\n\nIdentificación en el campo (introducción)\nIdentificación\nResumen sobre especies similares\nEspecies similares",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -334,7 +334,7 @@
     "href": "app2.html#sec-app2-plumages",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "PLUMAJES, MUDAS Y ESTRUCTURA",
-    "text": "PLUMAJES, MUDAS Y ESTRUCTURA\n\n?sec-app3-plumages-plumages\n\nPlumaje natal\nJuvenil\nAdultos\n\n?sec-app3-plumages-molts\n?sec-app3-plumages-bare\n\nPico y comisura\nIris\nPiel del rostro\nTarsos y dedos\n\n?sec-app3-plumages-measurements\n\nMedidas lineales\nMasa\nSuperficie alar, relación de aspecto alar y carga alar",
+    "text": "PLUMAJES, MUDAS Y ESTRUCTURA\n\nPlumajes\n\nPlumaje natal\nJuvenil\nAdultos\n\nMudas\nPartes descubiertas\n\nPico y comisura\nIris\nPiel del rostro\nTarsos y dedos\n\nMedidas\n\nMedidas lineales\nMasa\nSuperficie alar, relación de aspecto alar y carga alar",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -344,7 +344,7 @@
     "href": "app2.html#sec-app2-systematics",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "SISTEMÁTICA",
-    "text": "SISTEMÁTICA\n\n?sec-app3-systematics-history\n?sec-app3-systematics-geographic\n?sec-app3-systematics-subspecies\n?sec-app3-systematics-related\n?sec-app3-systematics-hybrid\n?sec-app3-systematics-fossils",
+    "text": "SISTEMÁTICA\n\nHistoria de la sistemática\nVariación geográfica\nSubespecies\n?sec-app3-systematics-related\nHibridación\nFósiles",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -354,7 +354,7 @@
     "href": "app2.html#sec-app2-distribution",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "DISTRIBUCIÓN",
-    "text": "DISTRIBUCIÓN\n\n?sec-app3-distribution-intro\n\nÁrea de reproducción\nÁrea de distribución no reproductora\nRango de elevación\nRango donde está introducida\nRegistros fuera del límite de distribución\n\n?sec-app3-distribution-historical",
+    "text": "DISTRIBUCIÓN\n\nDistribución (introducción)\n\nÁrea de reproducción\nÁrea de distribución no reproductora\nRango de elevación\nRango donde está introducida\nRegistros fuera del límite de distribución\n\nCambios históricos en la distribución",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -364,7 +364,7 @@
     "href": "app2.html#sec-app2-habitat",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "HÁBITAT",
-    "text": "HÁBITAT\n\n?sec-app3-habitat-intro\n\nPalabras clave del Habitat\n\n?sec-app3-habitat-general\n?sec-app3-habitat-breeding\n?sec-app3-habitat-migration\n?sec-app3-habitat-nonbreeding",
+    "text": "HÁBITAT\n\nHábitat (introducción)\n\nPalabras clave del Habitat\n\nHábitat general\nHábitat en rango reproductivo\nHábitat en migración\nHábitat en rango no reproductivo",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -374,7 +374,7 @@
     "href": "app2.html#sec-app2-movements",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "MOVIMIENTOS Y MIGRACIÓN",
-    "text": "MOVIMIENTOS Y MIGRACIÓN\n\n?sec-app3-movements-intro\n?sec-app3-movements-dispersal\n\nFilopatría natal y dispersión\nFidelidad de los adultos al lugar de cría y dispersión\nFidelidad al área de campeo no reproductora\n\n?sec-app3-movements-nomigratory\n?sec-app3-movements-overview\n?sec-app3-movements-timing\n\nPost-reproductivos\nPre-reproductivos\n\n?sec-app3-movements-behavior\n\nMomento diario de la migración\nFidelidad a las rutas migratorias \nFidelidad a las escalas migratorias\nComportamiento durante la parada\nDuración de la escala\nDuración del periodo migratorio\n\n?sec-app3-movements-control",
+    "text": "MOVIMIENTOS Y MIGRACIÓN\n\nMovimientos y migraciones (introducción)\nDispersión y fidelidad al sitio\n\nFilopatría natal y dispersión\nFidelidad de los adultos al lugar de cría y dispersión\nFidelidad al área de campeo no reproductora\n\nMovimientos no migratorios\nVisión general de la migración\nCalendario y rutas de migración\n\nPost-reproductivos\nPre-reproductivos\n\nConducta migratoria\n\nMomento diario de la migración\nFidelidad a las rutas migratorias \nFidelidad a las escalas migratorias\nComportamiento durante la parada\nDuración de la escala\nDuración del periodo migratorio\n\nControl y fisiología de la migración",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -384,7 +384,7 @@
     "href": "app2.html#sec-app2-sounds",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "SONIDOS Y CONDUCTA VOCAL",
-    "text": "SONIDOS Y CONDUCTA VOCAL\n\n?sec-app3-sounds-intro\n?sec-app3-sounds-vocalizations\n\nDesarrollo vocal\nConjunto vocal\nCantos\n\nLlamadas\nVariación geográfica\nFenología\nPatrón diario de vocalización\nLugares de vocalización\nDiferencias entre sexos\nRepertorio y ejecución de canciones\nContexto social y supuestas funciones de las vocalizaciones\n\n?sec-app3-sounds-nonvocal",
+    "text": "SONIDOS Y CONDUCTA VOCAL\n\nSonidos y conducta vocal (introducción)\nVocalización\n\nDesarrollo vocal\nConjunto vocal\nCantos\n\nLlamadas\nVariación geográfica\nFenología\nPatrón diario de vocalización\nLugares de vocalización\nDiferencias entre sexos\nRepertorio y ejecución de canciones\nContexto social y supuestas funciones de las vocalizaciones\n\nSonidos no vocales",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -394,7 +394,7 @@
     "href": "app2.html#sec-app2-behavior",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "CONDUCTA",
-    "text": "CONDUCTA\n\n?sec-app3-behavior-intro\n?sec-app3-behavior-locomotion\n\nPostura y movimientos corporales\nCaminar, correr, saltar y trepar\nVuelo\nNatación y buceo\n\n?sec-app3-behavior-self\n\nAcicalarse, rascarse la cabeza, estirarse, tomar el sol, bañarse y hormiguear\nDescanso y sueño\nPresupuesto diario\n\n?sec-app3-behavior-agonistic\n\nInteracciones físicas y comunicativas\nComportamiento territorial\n\n?sec-app3-behavior-sexual\n\nSistema de apareamiento y proporción de sexos operativos\nCortejo, cópula y vínculo de pareja\nComportamiento de apareamiento extrapareja/Paternidad\n\n?sec-app3-behavior-social\n\nGrado de socialidad\nJuego\nInteracciones interespecíficas no depredadoras\n\n?sec-app3-behavior-predation\n\nTipos de depredadores\nForma de depredación\nRespuesta a los depredadores",
+    "text": "CONDUCTA\n\nConducta (introducción)\nLocomoción\n\nPostura y movimientos corporales\nCaminar, correr, saltar y trepar\nVuelo\nNatación y buceo\n\nAuto-mantenimiento\n\nAcicalarse, rascarse la cabeza, estirarse, tomar el sol, bañarse y hormiguear\nDescanso y sueño\nPresupuesto diario\n\nConducta agonística\n\nInteracciones físicas y comunicativas\nComportamiento territorial\n\nConducta sexual\n\nSistema de apareamiento y proporción de sexos operativos\nCortejo, cópula y vínculo de pareja\nComportamiento de apareamiento extrapareja/Paternidad\n\nComportamiento social e interespecífico\n\nGrado de socialidad\nJuego\nInteracciones interespecíficas no depredadoras\n\nDepredación\n\nTipos de depredadores\nForma de depredación\nRespuesta a los depredadores",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -404,7 +404,7 @@
     "href": "app2.html#sec-app2-breeding",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "REPRODUCCIÓN",
-    "text": "REPRODUCCIÓN\n\n?sec-app3-breeding-intro\n?sec-app3-breeding-phenology\n\nFormación de parejas\nConstrucción de nidos \nPrimera nidada\nSegunda nidada\n\n?sec-app3-breeding-site\n\nProceso de selección\nCaracterísticas del sitio\n\n?sec-app3-breeding-nest\n\nProceso de construcción\nEstructura y composición \nDimensiones\nMicroclima\nMantenimiento o reutilización de nidos\nNidos no reproductores\n\n?sec-app3-breeding-eggs\n\nForma\nTamaño\nMasa\nEspesor de la cáscara de huevo \nColor y textura de la superficie\nTamaño de la nidada\nPuesta de huevos\n\n?sec-app3-breeding-incubation\n\nInicio de la cría e incubación en relación con la puesta\nParches de incubación \nPeriodo de incubación \nComportamiento de los padres \nResistencia de los huevos al estrés térmico\n\n?sec-app3-breeding-hatching\n\nActos Preliminares y Vocalizaciones\nRotura y aparición del caparazón\nSincronía de eclosión\nAsistencia parental y eliminación de cáscaras de huevo\n\n?sec-app3-breeding-young\n\nEstado en el momento de la eclosión\nCrecimiento y desarrollo\nProporciones y asignación por sexo\n\n?sec-app3-breeding-parental\n\nCría\nAlimentación\nSaneamiento de nidos\nDefensa del nido\nTransporte de huevos o crías\n\n?sec-app3-breeding-cooperative\n?sec-app3-breeding-parasitism\n\nParasitismo de crías de congéneres\nParasitismo de cría de otras especies\nParasitismo de cría por otras especies\n\nIdentidad de la especie parasitaria\nFrecuencia de aparición\nVariación estacional o geográfica\nMomento de la colocación en relación con la colocación del anfitrión\nRespuesta a hembras, huevos o polluelos parasitados\nEfectos del parasitismo en el hospedador\nÉxito del parásito con este huésped\n\n\n?sec-app3-breeding-fledgling\n\nSalida del nido\nCrecimiento \nAsociación con padres u otros jóvenes\nCapacidad para desplazarse, alimentarse y cuidar de sí mismo\nComportamiento tras la independencia",
+    "text": "REPRODUCCIÓN\n\nReproducción (introducción)\nFenología\n\nFormación de parejas\nConstrucción de nidos \nPrimera nidada\nSegunda nidada\n\nSitios de nidificación\n\nProceso de selección\nCaracterísticas del sitio\n\nNidos\n\nProceso de construcción\nEstructura y composición \nDimensiones\nMicroclima\nMantenimiento o reutilización de nidos\nNidos no reproductores\n\nHuevos\n\nForma\nTamaño\nMasa\nEspesor de la cáscara de huevo \nColor y textura de la superficie\nTamaño de la nidada\nPuesta de huevos\n\nIncubación\n\nInicio de la cría e incubación en relación con la puesta\nParches de incubación \nPeriodo de incubación \nComportamiento de los padres \nResistencia de los huevos al estrés térmico\n\nEclosión\n\nActos Preliminares y Vocalizaciones\nRotura y aparición del caparazón\nSincronía de eclosión\nAsistencia parental y eliminación de cáscaras de huevo\n\nAves jóvenes\n\nEstado en el momento de la eclosión\nCrecimiento y desarrollo\nProporciones y asignación por sexo\n\nCuidado parental\n\nCría\nAlimentación\nSaneamiento de nidos\nDefensa del nido\nTransporte de huevos o crías\n\nCría cooperativa\nParasitismo de cría\n\nParasitismo de crías de congéneres\nParasitismo de cría de otras especies\nParasitismo de cría por otras especies\n\nIdentidad de la especie parasitaria\nFrecuencia de aparición\nVariación estacional o geográfica\nMomento de la colocación en relación con la colocación del anfitrión\nRespuesta a hembras, huevos o polluelos parasitados\nEfectos del parasitismo en el hospedador\nÉxito del parásito con este huésped\n\n\nEtapa de volantones\n\nSalida del nido\nCrecimiento \nAsociación con padres u otros jóvenes\nCapacidad para desplazarse, alimentarse y cuidar de sí mismo\nComportamiento tras la independencia",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -414,7 +414,7 @@
     "href": "app2.html#sec-app2-diet",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "DIETA Y ALIMENTACIÓN",
-    "text": "DIETA Y ALIMENTACIÓN\n\n?sec-app3-diet-intro\n?sec-app3-diet-feeding\n\nMicrohábitat para la alimentación\nCaptación y consumo de alimentos\n\n?sec-app3-diet-diet\n\nPrincipales alimentos\nAnálisis cuantitativo\n\n?sec-app3-diet-storage\n?sec-app3-diet-nutrition\n?sec-app3-diet-metabolism\n?sec-app3-diet-drinking",
+    "text": "DIETA Y ALIMENTACIÓN\n\nDieta y alimentación (introducción)\nAlimentación\n\nMicrohábitat para la alimentación\nCaptación y consumo de alimentos\n\nDieta\n\nPrincipales alimentos\nAnálisis cuantitativo\n\nSelección y almacenamiento de alimentos\nNutrición y energética\nMetabolismo y regulación de la temperatura\nIngesta, egagrópilas y defecación",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -424,7 +424,7 @@
     "href": "app2.html#sec-app2-demography",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "DEMOGRAFÍA Y POBLACIONES",
-    "text": "DEMOGRAFÍA Y POBLACIONES\n\n?sec-app3-demography-intro\n?sec-app3-demography-measures\n\nEdad de la primera cría\nIntervalos entre crías\nTamaño de la puesta y número de puestas por temporada\nÉxito reproductivo anual y vitalicio \nNúmero de crías criadas normalmente por temporada \nProporción del total de hembras que crían al menos una cría hasta la salida del nido\n\n?sec-app3-demography-life\n?sec-app3-demography-pathogens\n\nPatógenos\nParásitos\n\n?sec-app3-demography-mortality\n\nExposición\nDepredación\nEnfermedad\nImpactos humanos directos\n\n?sec-app3-demography-spatial\n\nDistancia individual\nTamaño del territorio\nTamaño del área de distribución\nDensidad\n\n?sec-app3-demography-status\n\nNúmeros\nTendencias\n\n?sec-app3-demography-regulation",
+    "text": "DEMOGRAFÍA Y POBLACIONES\n\nDemografía y poblaciones (introducción)\nMedidas de la actividad reproductiva\n\nEdad de la primera cría\nIntervalos entre crías\nTamaño de la puesta y número de puestas por temporada\nÉxito reproductivo anual y vitalicio \nNúmero de crías criadas normalmente por temporada \nProporción del total de hembras que crían al menos una cría hasta la salida del nido\n\nTiempo de vida y supervivencia\nPatógenos y parásitos\n\nPatógenos\nParásitos\n\nCausas de mortalidad\n\nExposición\nDepredación\nEnfermedad\nImpactos humanos directos\n\nMétricas espaciales poblaciones\n\nDistancia individual\nTamaño del territorio\nTamaño del área de distribución\nDensidad\n\nEstado de las poblaciones\n\nNúmeros\nTendencias\n\nRegulación poblacional",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -434,7 +434,7 @@
     "href": "app2.html#sec-app2-conservation",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "CONSERVACIÓN Y MANEJO",
-    "text": "CONSERVACIÓN Y MANEJO\n\n?sec-app3-conservation-status\n\nEvaluación global\nEvaluaciones regionales\n\n?sec-app3-conservation-effects\n\nPérdida y degradación del hábitat\nCambio climático\nContaminación acústica y lumínica\nEfectos de las especies invasoras\nCaza, captura con trampas y capturas incidentales\nPlaguicidas y otros contaminantes/tóxicos\nColisiones con estructuras u objetos\nOtros impactos humanos o de investigación\n\n?sec-app3-conservation-management\n\nÁreas protegidas\nMedidas de conservación y gestión de hábitats\nEficacia de las medidas",
+    "text": "CONSERVACIÓN Y MANEJO\n\nEstado de conservación\n\nEvaluación global\nEvaluaciones regionales\n\nEfectos de la actividad humana\n\nPérdida y degradación del hábitat\nCambio climático\nContaminación acústica y lumínica\nEfectos de las especies invasoras\nCaza, captura con trampas y capturas incidentales\nPlaguicidas y otros contaminantes/tóxicos\nColisiones con estructuras u objetos\nOtros impactos humanos o de investigación\n\nManejo\n\nÁreas protegidas\nMedidas de conservación y gestión de hábitats\nEficacia de las medidas",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
@@ -444,7 +444,7 @@
     "href": "app2.html#sec-app2-humans",
     "title": "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada",
     "section": "RELACIONES CON EL SER HUMANO",
-    "text": "RELACIONES CON EL SER HUMANO\n\n?sec-app3-humans-intro\n?sec-app3-humans-vernacular\n?sec-app3-humans-cultural\n\nHistoria temprana\nPresencia en el folclore, la religión y el simbolismo\nRepresentaciones en los medios de comunicación\nPercepción pública\n\n?sec-app3-humans-economic\n\nUso humano\nDaños infligidos por especie focal\nAvicultura y domesticación\nUtilización como modelo de investigación",
+    "text": "RELACIONES CON EL SER HUMANO\n\nRelaciones con el ser humano (introducción)\nNombres vernaculares\nSignificado cultural, simbólico y estético\n\nHistoria temprana\nPresencia en el folclore, la religión y el simbolismo\nRepresentaciones en los medios de comunicación\nPercepción pública\n\nSignificado económico y utilitario\n\nUso humano\nDaños infligidos por especie focal\nAvicultura y domesticación\nUtilización como modelo de investigación",
     "crumbs": [
       "Apéndice 2: Páginas, secciones y subsecciones de la ficha normalizada"
     ]
