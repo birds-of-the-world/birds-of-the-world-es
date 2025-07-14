@@ -6,126 +6,212 @@ editor_options:
 
 # Apéndice 4: Convenciones de estilo y formato {#sec-app4 .unnumbered}
 
-*Birds of the World* (BOW) typically follows *The Chicago Manual of Style*, 18th edition. The stylistic conventions most relevant to BOW accounts (and any deviations from *The Chicago Manual of Style*) are explained below.
+Birds of the World (BOW) suele seguir *The Chicago Manual of Style*, 18th edition. A continuación se explican las convenciones estilísticas más relevantes para las fichas de BOW (y cualquier desviación del *The Chicago Manual of Style*)
 
 ## General {#sec-app4-general}
 
--   Do not indent paragraphs.
--   A single space after a period is standard.
--   Include a single space between initials, e.g., “J. L. Smith.”
+-   No colocar sangría los párrafos.
+
+-   Lo normal es dejar un espacio después del punto.
+
+-   Incluya un espacio entre las iniciales, por ejemplo, "J. L. Smith".
 
 ## Idioma {#sec-app4-language}
 
--   Please use American English spellings (e.g., “gray” instead of “grey,” “color” instead of “colour,” “story” instead of “storey,” and “signaling” instead of “signalling”) and conventions (e.g., double quotation marks with periods and commas *inside* the quotation marks, not outside).
+-   Utilice la ortografía del inglés americano (por ejemplo, "gray" en lugar de "grey", "color" en lugar de "colour", "story" en lugar de "storey" y "signaling" en lugar de "signalling") y las convenciones (por ejemplo, comillas dobles con puntos y comas dentro de las comillas, no fuera).
 
 ## Rúbricas {#sec-app4-headings}
 
--   Subsections should be “Heading 1,” unbolded (applying the Heading 1 style automatically makes the text bold).
-    -   Headings within a subsection should be “Heading 2,” unbolded. These should be reserved for several paragraphs of text. For only one paragraph of text, please use the format below for headings within sub-subsections.
-        -   Headings within the sub-subsections should appear as inline, bolded text, followed by a bolded period (e.g., “**Female.** Upperparts are gray with pale edgings…”). See also examples under @sec-app3-plumages-measurements. Capitalize this heading as in a title (see below). The “Normal” style should be applied to this text.
--   Capitalization of titles:
-    -   The only words that should be lowercase are coordinating conjunctions (e.g., “and” or “but”), articles (e.g., “a,” “an,” or “the”), and prepositions (e.g., “to,” “of,” or “for”) **with four or fewer letters**.
-    -   All words with five or more letters should be capitalized (e.g., “Against”).
-    -   All verbs and pronouns should be capitalized regardless of their length (e.g., “Is,” “Are,” “Be,” “His,” or “Her”).
-    -   “This” and “That” should always be capitalized.
-    -   Capitalize the first word after a colon in a title, no matter what it is.
-    -   Second and later elements of hyphenated terms should be lowercase.
+-   Las subsecciones deben ir en "Título 1", sin negrita (al aplicar el estilo Título 1, el texto queda automáticamente en negrita).
+
+    -   Los títulos dentro de una subsección deben ser "Título 2", sin negrita. Deben reservarse para varios párrafos de texto. Para un solo párrafo de texto, utilice el formato siguiente para los títulos dentro de las subsecciones.
+
+        -   Los títulos de las subsecciones deben aparecer en negrita, seguidos de un punto en negrita (p. ej., "**Hembra**, partes superiores grises con bordes pálidos..."). Véanse también ejemplos en Medidas en [el Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.kf76324meenu). Escriba este encabezamiento en mayúsculas como en un título (véase más adelante). A este texto debe aplicársele el estilo "Normal".
+
+-   Mayúsculas en los títulos:
+
+    -   Las únicas palabras que deben ir en minúscula (en inglés) son las conjunciones coordinadas (por ejemplo, "y" o "pero"), los artículos (por ejemplo, "a", "un" o "el") y las preposiciones (por ejemplo, "a", "de" o "para") **con cuatro o menos letras**.
+
+    -   Todas las palabras con cinco o más letras deben ir en mayúsculas (por ejemplo, "Contra").
+
+    -   Todos los verbos y pronombres deben escribirse con mayúscula, independientemente de su longitud (por ejemplo, "Es", "Son", "Ser", "Su" o "Ella").
+
+    -   "Esto" y "Eso" deben ir siempre en mayúsculas.
+
+    -   Escriba en mayúsculas la primera palabra después de dos puntos en un título, sea cual sea.
+
+    -   Los elementos segundo y posteriores de los términos con guión deben ir en minúsculas.
 
 ## Referencia a las especies {#sec-app4-species}
 
--   Any bird species mentioned in an account should be included using the Species Name button (or “species tag”).
-    -   The default species is the species whose account you are editing. To include the name of any other species, type the name into the search bar.
--   Add both common and scientific names (and check the “HTML Link to Account” button) at **the first mention of a bird species per section** (select “Both” from the “Display Name As” dropdown in the Species Name window) when referring to species **other than the focal species of the account**. For subsequent mentions of such a nonfocal species in the same section, neither the scientific name nor a link to the account is needed. For short pages, you may use the scientific name and link to the account only the first time the species is named on the page. When referring to the focal species, the scientific name is not typically used except in certain discussions on the Systematics page in which it is helpful to use it.
-    -   The Species Name button tags a name such that the common name can be changed based on a user’s settings and a name can be automatically updated in case of changes in taxonomy or nomenclature. If there are cases in which you want to use a name and you do not want it to ever change (with either language or taxonomy), **do not** use the species tag. This may be useful if discussing the history of a name or taxon or mentioning local names of species.
--   The Species Name button does not include subspecies, standalone genera (i.e., without a species name), or families and should **not** be used in those situations.
-    -   A genus, or a species name plus a subspecies, should be italicized using the “Sci Name” tag (and linked to the corresponding URL if a genus; see @sec-edit-three). For example, “[*Zosterops*](https://birdsoftheworld.org/bow/species/zoster2/cur/species#genusZosterops),” “*Zosterops c. conspicillatus.*”
--   **Bird species should be referred to in the singular**, e.g., “The Red-tailed Hawk occurs in a wide variety of habitats.”
-    -   The species tag is singular for common names, and we encourage structuring your sentences this way. Please do not use an *s* or *‘s* as plain text directly after the gray species tag, as this will not translate properly. To refer to the plural of a species, we recommend simply using the singular species tag if the sentence cannot be restructured (e.g., “Three Red-tailed Hawk were observed”).
--   When discussing species, try to use the singular (e.g., “the male,” or “it eats”) instead of the plural (e.g., “males,” or “they eat”) whenever possible.
--   Please avoid the use of general terms like “hummingbirds” or “rails” to refer to the focal species. Always use the species tag for the focal species when possible. If you are referring to a general group of birds, please use the genus or family name whenever possible and link to the appropriate genus or family page on BOW (see @sec-edit-three). This will help to avoid ambiguity when translating species accounts.
--   Ensure that the focal species is mentioned (using its common name and the species tag) at the beginning of each page. Avoid beginning a page with “It,” as it should first be made clear that “it” refers to the focal species.
--   Use quotation marks around old bird names no longer recognized by the eBird/Clements Checklist, including old taxonomic concepts even if the current name still exists.
--   When referring to a vernacular name for a species in a language other than English, use the capitalization conventions consistent with the language of origin. Enclose the name in double quotation marks, ensuring that periods and commas go *inside* the quotation marks.
--   In tables, references, and media/figure captions, where species tags are not supported, please ensure that bird common names are capitalized and punctuated according to the eBird/Clements Checklist (<http://www.birds.cornell.edu/clementschecklist/>).
--   Do not capitalize names of mammals, plants, insects, or species in any other taxon, unless they include a proper noun.
-    -   We generally follow the criteria used by iNaturalist as a standard for nonbird scientific names. You can search their species database (<https://www.inaturalist.org/observations>) and see their Curator Guide (<https://www.inaturalist.org/pages/curator+guide#authorities>) for details on the taxonomic authorities that they use.
-    -   For species not available in iNaturalist, it may be helpful to consult the Global Biodiversity Information Facility (<https://www.gbif.org/>) or, for marine species, the World Register of Marine Species (<https://www.marinespecies.org/>).
-    -   If a species’ scientific name has changed since the publication of a source that you are citing, please indicate the new name in square brackets to allow the reader to understand the relevant species when referring to both the cited literature and current literature. For example, water hyacinth (*Eichhornia* \[*Pontederia*\] *crassipes*).
+-   Cualquier especie de ave mencionada en una ficha debe incluirse utilizando el botón Nombre de la especie (o "etiqueta de especie").
+
+    -   La especie por defecto es la especie cuya ficha está editando. Para incluir el nombre de cualquier otra especie, escriba el nombre en la barra de búsqueda.
+
+-   Añada tanto el nombre común como el científico (y marque el botón "Enlace HTML a la ficha") en **la primera mención de una especie de ave por sección** (seleccione "Ambos" en el desplegable "Mostrar nombre como" de la ventana Nombre de la especie) cuando se refiera a especies distintas de **la especie focal de la ficha**. Para las menciones posteriores de dicha especie no focal en la misma sección, no se necesita ni el nombre científico ni un enlace a la ficha. En las páginas cortas, puede utilizar el nombre científico y el enlace a la ficha sólo la primera vez que se mencione la especie en la página. Cuando se hace referencia a la especie focal, no se suele utilizar el nombre científico, excepto en determinadas discusiones en la página Sistemática, en las que resulta útil utilizarlo.
+
+    -   El botón Nombre de especie etiqueta un nombre de forma que el nombre común puede cambiarse en función de la configuración del usuario y el nombre puede actualizarse automáticamente en caso de cambios en la taxonomía o la nomenclatura. Si hay casos en los que desea utilizar un nombre y no quiere que cambie nunca (ni con el idioma ni con la taxonomía), **no** utilice la etiqueta de especie. Esto puede ser útil si se discute la historia de un nombre o taxón o se mencionan nombres locales de especies.
+
+-   El botón Nombre de especie no incluye subespecies, géneros independientes (es decir, sin nombre de especie) ni familias, por lo que **no debe** utilizarse en estas situaciones.
+
+    -   Un género, o un nombre de especie más una subespecie, debe ir en cursiva utilizando la etiqueta "Sci Name" (y enlazado a la URL correspondiente si se trata de un género; véase [Paso 3: Entender la barra de menú del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)). Por ejemplo: ["*Zosterops*", ](https://birdsoftheworld.org/bow/species/zoster2/cur/species#genusZosterops)"*Zosterops c. conspicillatus*".
+
+-   **Las especies de aves deben mencionarse en singular**, por ejemplo: "El halcón de cola roja se da en una gran variedad de hábitats".
+
+    -   La etiqueta de especie es singular para los nombres comunes, y le animamos a estructurar sus frases de esta manera. Por favor, no utilice una s o una 's como texto plano directamente después de la etiqueta de especie gris, ya que no se traducirá correctamente. Para referirse al plural de una especie, recomendamos utilizar simplemente la etiqueta de especie en singular si la frase no puede reestructurarse (por ejemplo, "Se observaron tres halcones de cola roja").
+
+-   Cuando hables de especies, intenta utilizar el singular (por ejemplo, "el macho" o "come") en lugar del plural (por ejemplo, "machos" o "comen") siempre que sea posible.
+
+-   Por favor, evite el uso de términos generales como "colibríes" o "rieles" para referirse a la especie focal. Utilice siempre que sea posible la etiqueta de la especie en cuestión. Si se refiere a un grupo general de aves, utilice el nombre del género o de la familia siempre que sea posible y enlace a la página del género o de la familia correspondiente en BOW (véase [Paso 3: Entender la barra de menú del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)). Esto ayudará a evitar ambigüedades a la hora de traducir las descripciones de las especies.
+
+-   Asegúrese de que se menciona la especie focal (utilizando su nombre común y la etiqueta de la especie) al principio de cada página. Evite empezar una página con "Eso", ya que primero debe quedar claro que "eso" se refiere a la especie focal.
+
+-   Utilice comillas entre los nombres antiguos de aves que ya no sean reconocidos por la Lista eBird/Clements, incluidos los conceptos taxonómicos antiguos aunque el nombre actual siga existiendo.
+
+-   Cuando se haga referencia a un nombre vernáculo de una especie en un idioma distinto del inglés, utilice las convenciones de uso de mayúsculas acordes con el idioma de origen. Encierre el nombre entre comillas dobles, asegurándose de que los puntos y las comas van dentro de las comillas.
+
+-   En las tablas, referencias y leyendas de medios/figuras, en las que no se admiten etiquetas de especies, asegúrese de que los nombres comunes de las aves se escriben en mayúsculas y se puntúan de acuerdo con la lista de comprobación de eBird/Clements [(](http://www.birds.cornell.edu/clementschecklist/)http://www.birds.cornell.edu/clementschecklist/).
+
+-   No escriba en mayúsculas los nombres de mamíferos, plantas, insectos o especies de cualquier otro taxón, a menos que incluyan un nombre propio.
+
+    -   En general, seguimos los criterios utilizados por iNaturalist como norma para los nombres científicos de especies distintas de las aves. Puede buscar en su base de datos de especies [(](https://www.inaturalist.org/observations)https://www.inaturalist.org/observations) y consultar su Guía del Conservador [(https://www.inaturalist.org/pages/curator+guide#authorities](https://www.inaturalist.org/pages/curator+guide#authorities)) para obtener información detallada sobre las autoridades taxonómicas que utilizan.
+
+    -   Para las especies no disponibles en iNaturalist, puede ser útil consultar el Global Biodiversity Information Facility [(](https://www.gbif.org/)https://www.gbif.org/) o, para las especies marinas, el World Register of Marine Species [(](https://www.marinespecies.org/)https://www.marinespecies.org/).
+
+Si el nombre científico de una especie ha cambiado desde la publicación de una fuente que está citando, indique el nuevo nombre entre corchetes para que el lector pueda entender la especie pertinente cuando se refiera tanto a la bibliografía citada como a la bibliografía actual. Por ejemplo, jacinto de agua (Eichhornia \[Pontederia\] crassipes).
 
 ## Describir las vocalizaciones {#sec-app4-vocalizations}
 
--   When spelling out onomatopoeic vocalizations, use the “Vocalization” tag (see @sec-edit-three) to italicize them (e.g., “*Chuk* call”). **Do not** use quotation marks around such descriptions of vocalizations.
--   Do not italicize or apply the Vocalization tag to descriptive vocalizations like “Alarm Call.”
+-   Cuando deletree vocalizaciones onomatopéyicas, utilice la etiqueta "Vocalización" (véase @sec-edit-three) para ponerlas en cursiva (por ejemplo, "Chuk call"). **No** entrecomille las vocalizaciones.
+-   No ponga en cursiva ni aplique la etiqueta Vocalización a vocalizaciones descriptivas como "Llamada de Alarma".
 
 ## Referencia a ubicaciones geográficas {#sec-app4-geographic}
 
--   Use accepted anglicized spellings but retain diacritical marks if the name is from a Latin alphabet. If a location is transliterated from a non-Latin alphabet, diacritical marks are generally not used. Use accents for indigenous languages if written in the Latin alphabet. Retain glottal stops in Hawaiian terms, although note that no glottal stop is used in the state name (Hawaii), but one is used in the island name (Hawai’i). Non-Latin scripts may not have direct English equivalents; consult an accepted transliteration system or regional authority when necessary.
--   For locations with multiple names, prioritize the name used in the local language when possible and give the English name in parentheses afterward.
--   Spell out names of states and provinces, counties, and countries (e.g., North Dakota, British Columbia, Maricopa County). However, “U.S.” should generally be used for the United States (although note exception in references) and “UK” may be used for the United Kingdom, but this is not required.
--   Use “Washington, D.C.” (although note exception in references).
--   The first time a location is mentioned in a given section of the account, specify the place, state/province/department/region, country (e.g., “Ithaca, New York, U.S.). For subsequent mentions of the location in the same section, you can simply use the place (e.g., “Ithaca”). If the page is short, you may instead provide this information only the first time the location is used on the page.
--   In contrast to what was done in the original, printed accounts, when referring to specific areas within states, provinces, countries, etc., spell out directional references such as “northern” or “northeastern,” e.g., “northern Wyoming,” “northeastern Mexico,” or “southwestern Ontario.” Also, use “south-central,” “north-central,” etc. Note that these terms **are not capitalized** except when referring to a few specific formal regions with well-known English names.
--   Follow the list below, which typically follows The Chicago Manual of Style (18th edition):
+-   Utilice las grafías anglicisas aceptadas, pero conserve los signos diacríticos si el nombre procede de un alfabeto latino. Si un lugar se translitera a partir de un alfabeto no latino, no se suelen utilizar los signos diacríticos. Utilice tildes para las lenguas indígenas si están escritas en alfabeto latino. Los alfabetos no latinos pueden no tener equivalentes directos en español; consulte un sistema de transliteración aceptado o una autoridad regional cuando sea necesario.
+
+-   En el caso de lugares con varios nombres, dé prioridad al nombre utilizado en el idioma local siempre que sea posible e indique a continuación el nombre en inglés entre paréntesis.
+
+-   Escriba los nombres de los estados y provincias, condados y países (por ejemplo, Dakota del Norte, Columbia Británica, Maricopa County). Sin embargo, "U.S." debe usarse generalmente para Estados Unidos (aunque hay que hacer una excepción en las referencias) y "UK" puede usarse para el Reino Unido, pero no es obligatorio.
+
+-   Utilice "Washington, D.C.". (aunque hay que tener en ficha la excepción en las referencias).
+
+-   La primera vez que se mencione un lugar en una sección determinada de la ficha, especifique el lugar, estado/provincia/departamento/región, país (por ejemplo, "Ithaca, Nueva York, EE.UU.). Para posteriores menciones del lugar en la misma sección, puede utilizar simplemente el lugar (por ejemplo, "Ithaca"). Si la página es corta, puede proporcionar esta información sólo la primera vez que se utilice el lugar en la página.
+
+-   A diferencia de lo que se hacía en las fichas impresos originales, cuando se haga referencia a zonas concretas dentro de un estado, provincia, país, etc., se deletrearán las referencias direccionales como "norte" o "noreste", por ejemplo, "norte de Wyoming", "noreste de México" o "suroeste de Ontario". Utilice también "centro-sur", "centro-norte", etc. tenga en cuenta que estos términos **no se escriben con mayúsculas**, excepto cuando se refieren a unas pocas regiones formales específicas con nombres ingleses bien conocidos.
+
+-   Siga la lista que figura a continuación, que suele ajustarse al Manual de Estilo de Chicago (18ª edición):
+
     -   Central America
+
     -   central Asia
+
     -   central Europe
+
     -   the East (in the U.S.)
+
     -   East Africa
+
     -   the East Coast (in the U.S.)
+
     -   the Eastern Hemisphere
+
     -   eastern Europe
+
     -   the equator
+
     -   equatorial
+
     -   Falkland Islands/Islas Malvinas
+
     -   the Far North
+
     -   the Great Plains
+
     -   the Middle East
+
     -   the Midwest (in the U.S.)
+
     -   Neotropical
+
     -   the Neotropics
+
     -   New York State (official name; to distinguish it from New York City)
+
     -   North Africa
+
     -   North America
+
     -   the North Atlantic
+
     -   the North Pole
+
     -   the Northeast (in the U.S.)
+
     -   the Northern Hemisphere
+
     -   the Northwest (in the U.S.)
+
     -   prairie pothole region (of the U.S.)
+
     -   the South (in the U.S.)
+
     -   South America
+
     -   the South Pole
+
     -   the Southeast (in the U.S.)
+
     -   Southeast Asia
+
     -   southern Africa
+
     -   the Southern Hemisphere
+
     -   the Southwest (in the U.S.)
+
     -   the subtropics
+
     -   transequatorial
+
     -   the tropics
+
     -   the Upper Peninsula (of Michigan, U.S.)
+
     -   upstate New York
+
     -   Washington state
+
     -   the West (in the U.S.)
+
     -   West Africa
+
     -   the West Coast (in the U.S.)
+
     -   western Europe
+
     -   the Western Hemisphere
+
     -   the Western Palearctic
--   Geographic regions with formal names in languages other than English: Do not capitalize translated English terms like “state” or “department” that are applied to the names of such regions. For example, when discussing regions in South America, use terms like “the department of Antioquia,” “Antioquia department,” “the state of Falcón,” “Arica region,” etc.
--   Use a space between coordinates and N, W, S, or E but not between the degree or prime symbols and the following numbers (e.g., 19°29′59″ N, 107°45′36″ W).
--   When referring to multiple named geographic features, capitalize the plural terms following them, including “Rivers” and “Valleys.” For example, capitalize “Rivers” in “the Mississippi and Missouri Rivers.”
+
+-   Regiones geográficas con nombres formales en lenguas distintas del inglés: No escriba en mayúsculas términos traducidos del inglés como "state" o "department" que se aplican a los nombres de dichas regiones. Por ejemplo, cuando hables de regiones de Sudamérica, utiliza términos como "el departamento de Antioquia", "el departamento de Antioquia", "el estado de Falcón", "la región de Arica", etc.
+
+-   Utilice un espacio entre las coordenadas y N, O, S o E, pero no entre los símbolos de grado o primo y los números siguientes (ejemplo: 19°29′59″ N, 107°45′36″ O).
+
+-   Al referirse a varios accidentes geográficos con nombre, escriba en mayúsculas los términos plurales que les siguen, incluidos "Ríos" y "Valles". Por ejemplo, ponga "Ríos" en mayúsculas en "los ríos Misisipi y Misuri".
 
 ## Referencia a medidas de tiempo {#sec-app4-time}
 
--   Designate clock time in the 24-hour system (e.g., “0930 h” or “1645 h”).
--   Spell out names of months. Write dates in the following format: 1 January 2009.
--   Use abbreviations for time (ms, s, min, h, d, wk, mo, yr) when something has been measured (e.g., “This display lasts, on average, 10.5 s”). Spell out time references when no measurement has been made or when referring to a broader period of time, and spell out numbers less than 10 in such cases (e.g., “Fledglings are typically independent by the time they reach 30 days of age,” “They breed when they are two years old or older,” and “Primary feathers begin to emerge on day 11”).
+-   Designe la hora del reloj en el sistema de 24 horas (por ejemplo, "0930 h" o "1645 h").
+
+-   Escribe los nombres de los meses. Escribe las fechas con el siguiente formato: 1 de enero de 2009.
+
+-   Utilice abreviaturas para el tiempo (ms, s, min, h, d, wk, mo, yr) cuando se haya medido algo (por ejemplo, "Esta visualización dura, de media, 10,5 s"). Deletrea las referencias temporales cuando no se hayan realizado mediciones o cuando se refieran a un periodo de tiempo más amplio, y escribe los números inferiores a 10 en estos casos (por ejemplo, "Los volantones suelen ser independientes cuando alcanzan los 30 días de edad", "Se reproducen cuando tienen dos años o más" y "Las plumas primarias comienzan a emerger el día 11").
 
 ## En referencia a la edad {#sec-app4-age}
 
--   Individuals can be referred to as “second-year,” “after-second-year,” “after-third-year” individuals. Standard abbreviations for such age classifications, e.g.,”'SY,” “ASY,” or “ATY,” can be used in situations in which the terms are going to be used repeatedly in a short span of text; otherwise, do not abbreviate. However, because these terms and associated abbreviations are easily misinterpreted, contributors should define what is meant by these terms the first time that they are used. For example, “Second-year individuals (i.e., those in their first full calendar year)…”
--   When referring to a particular day of a particular stage in the breeding cycle, use the format “day 13” rather than “13th day,” as in “Researchers measured wing length on day 13 of the nestling stage.” Use numerals, even if the number is less than 10 (e.g., “on day 2 of the nestling stage”).
+-   Los individuos pueden denominarse de "segundo año", "después del segundo año" o "después del tercer año". Las abreviaturas estándar para estas clasificaciones de edad, por ejemplo, "SY", "ASY" o "ATY", pueden utilizarse en situaciones en las que los términos vayan a emplearse repetidamente en un breve espacio de texto; de lo contrario, no se abreviarán. Sin embargo, dado que estos términos y las abreviaturas asociadas se malinterpretan con facilidad, los colaboradores deben definir el significado de estos términos la primera vez que se utilicen. Por ejemplo, "Individuos de segundo año (es decir, los que están en su primer año natural completo)...".
+
+-   Cuando se refiera a un día concreto de una fase concreta del ciclo de cría, utilice el formato "día 13" en lugar de "día 13º", como en "Los investigadores midieron la longitud de las alas el día 13 de la fase de anidamiento". Utilice números, incluso si el número es inferior a 10 (por ejemplo, "en el día 2 de la fase de anidamiento").
 
 ## Numeración y cuestiones asociadas {#sec-app4-numbering}
 

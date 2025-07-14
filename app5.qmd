@@ -6,9 +6,9 @@ editor_options:
 
 # Apéndice 5: Formato de las referencias {#sec-app5 .unnumbered}
 
-Reference format generally follows that used by *Ornithology*, *Ornithological Applications*, and *Studies in Avian Biology*.
+Los formatios de referencias usualmente siguen a los seguidos por *Ornithology*, *Ornithological Applications*, and *Studies in Avian Biology*.
 
-**Note:** Please use an en dash (–) and not a hyphen for a range of page numbers (e.g., “71:296–308”). To insert an en dash, use the Option and hyphen keys on a Mac or the Control and hyphen keys on a PC.
+**Nota:** Por favor, use un guión largo (–) en vez de un guión común para un rango de números de páginas (e.g., “71:296–308”). Para insertar, usar la opción guión largo en un Mac o las teclas de guión largo + ctrl en un PC.
 
 ## Artículo de revista {#sec-app5-journal}
 
@@ -16,7 +16,7 @@ Reference format generally follows that used by *Ornithology*, *Ornithological A
 -   Sandercock, B. K., D. B. Lank, R. B. Lanctot, B. Kempenaers, and F. Cooke (2000). Ecological correlates of mate fidelity in two Arctic-breeding sandpipers. Canadian Journal of Zoology 78(11):1948–1958.
 -   Bird, K. L., C. L. Aldridge, J. E. Carpenter, C. A. Paszkowski , M. S. Boyce, and D. W. Coltman (2013). The secret sex lives of sage-grouse: Multiple paternity and intraspecific nest parasitism revealed through genetic analysis. Behavioral Ecology 24:29–38.
 -   Adreani, N. M., M. Valcu, Citizen Scientists, and L. Mentesana (2022). Asymmetric architecture is non-random and repeatable in bird’s nests. Current Biology 32:R412–R413.
--   Note that issue numbers are optional.
+-   Note que los números de volumen son opcionales.
 
 ## Libro {#sec-app5-book}
 
@@ -32,7 +32,7 @@ Reference format generally follows that used by *Ornithology*, *Ornithological A
 -   If a volume/part and/or edition for the book is needed, place this after the book title and before the list of editors (as a new “sentence,” as it would be in the book examples above). Example:
     -   Kemp, A. C. (2001). Family Bucerotidae (hornbills). In Handbook of the Birds of the World. Volume 6: Mousebirds to Hornbills (J. del Hoyo, A. Elliott, and J. Sargatal, Editors). Lynx Edicions, Barcelona, Spain. pp. 436–523.
 
-## Informe del gobierno {#sec-app5-government}
+## Reportes técnicos del gobierno {#sec-app5-government}
 
 -   Matthews, S. N., R. J. O’Connor, L. R. Iverson, and A. M. Prasad (2004). Atlas of climate change effects in 150 bird species of the eastern United States. USDA Forest Service General Technical Report NE-GTR-318. 
 -   Balda, R. P., and N. Masters (1980). Avian communities in the pinyon-juniper woodland: A descriptive analysis. In Workshop Proceedings: Management of Western Forests and Grasslands for Nongame Birds (R. M. DeGraaf and K. E. Evans, Editors). U.S. Department of Agriculture Forest Service Intermountain Forest and Range Experiment Station General Technical Report INT-86. pp. 146–149.
@@ -68,11 +68,11 @@ Reference format generally follows that used by *Ornithology*, *Ornithological A
 
 ## Notas {#sec-app5-notes}
 
--   Capitalization of titles in English:
-    -   For titles of journal articles and technical reports, capitalize only the first word of the title, the first word after a colon or dash, proper nouns, and common names of birds (except words after a hyphen) (including names not recognized by the eBird/Clements checklist).
-    -   Note that all parts of common name should be capitalized when listing multiple bird species (e.g., use “Magnolia and Black-throated Blue Warblers” instead of “Magnolia and Black-throated Blue warblers”).
-    -   For book titles, follow the title case rules outlined in @sec-app4-headings.
--   Unlike in the main text of BOW species accounts, the reference list abbreviates U.S. state names using two-letter postal abbreviations, uses “USA” instead of “U.S.,” and uses “Washington, DC” instead of “Washington, D.C.”
-    -   For states, provinces, or territories in countries other than the U.S., use the analogous abbreviation if available (e.g., “Vancouver, BC, Canada,” “Sydney, NSW, Australia”).
--   Ensure that the full name of a journal is used (e.g., use “The Auk” and not “Auk”).
--   List up to 12 authors; if there are more than 12 authors, list the first 11 authors, followed by “et al.”
+-   Mayúsculas de los títulos en inglés:
+    -   Para títulos de los artículos de revistas o reportes técnicos, colocar en mayúsculas solamente la primera palabra del título, la primera palabra después de dos puntos o un guión corto, de los nombres propios o los nombres comunes de aves (excepto palabras después de un guión largo) (incluyendo nombres no reconocidos por el eBird/Clements checklist).
+    -   Notar que todas las partes de un nombre común debiese ser con mayúsculas, cuando se enlisten múltiples especies de aves (e.g., usar “Magnolia and Black-throated Blue Warblers” en vez de “Magnolia and Black-throated Blue warblers”).
+    -   Para títulos de libros, las mayúsculas siguen las reglas usadas en @sec-app4-headings.
+-   Al contrario del texto principal de las fichas BOW, la lista de referencias abrevia los nombres de estado de los U.S., usando las abreviaciones postales de dos letras, usando “USA” en vez de “U.S.,” y usando “Washington, DC” en vez de “Washington, D.C.”
+    -   Para estados, provincias o territorios fuera de los U.S., por favor utilizar la abreviación análoga si está disponible (e.g., “Vancouver, BC, Canada,” “Sydney, NSW, Australia”).
+-   Asegúrese que se utilizan los nombres completos de las revistas (e.g., use “The Auk” and not “Auk”).
+-   Enlistar hasta 12 authors; si hay más de 12 autores, enlistar los primeros 11 autores seguido de un “et al.”
