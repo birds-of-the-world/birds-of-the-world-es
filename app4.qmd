@@ -54,7 +54,7 @@ Birds of the World (BOW) suele seguir *The Chicago Manual of Style*, 18th editio
 
 -   El botón Nombre de especie no incluye subespecies, géneros independientes (es decir, sin nombre de especie) ni familias, por lo que **no debe** utilizarse en estas situaciones.
 
-    -   Un género, o un nombre de especie más una subespecie, debe ir en cursiva utilizando la etiqueta "Sci Name" (y enlazado a la URL correspondiente si se trata de un género; véase [Paso 3: Entender la barra de menú del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)). Por ejemplo: ["*Zosterops*", ](https://birdsoftheworld.org/bow/species/zoster2/cur/species#genusZosterops)"*Zosterops c. conspicillatus*".
+    -   Un género, o un nombre de especie más una subespecie, debe ir en cursiva utilizando la etiqueta "Sci Name" (y enlazado a la URL correspondiente si se trata de un género; véase [Paso 3: Entender la barra de menú del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)). Por ejemplo: ["*Zosterops*",](https://birdsoftheworld.org/bow/species/zoster2/cur/species#genusZosterops)"*Zosterops c. conspicillatus*".
 
 -   **Las especies de aves deben mencionarse en singular**, por ejemplo: "El halcón de cola roja se da en una gran variedad de hábitats".
 
@@ -215,21 +215,21 @@ Si el nombre científico de una especie ha cambiado desde la publicación de una
 
 ## Numeración y cuestiones asociadas {#sec-app4-numbering}
 
--   Use numerals for data (including sample sizes, methods, counts, and measurements with standardized units like m or g). 
--   Use a space between a numeral and units of measurement (e.g., “4 m,” “100 ha,” or “50 mL”). However, one exception is for temperature; do not use a space between the number and the degree symbol (e.g., “43°C”).
--   Use “mL” instead of “ml” to abbreviate milliliters.
--   When abbreviated units are used, never use a hyphen between the number and the unit, as these are already understood to go together. However, a hyphen should be used for clarity in an adjectival form when units are spelled out (e.g., “an approximately 10-year period” but “a 14 yr study or a 20 cm wide nest”).
--   Spell out any number at the beginning of a sentence.
--   Spell out numbers one through nine when not referring to specific measurements, but use numerals for numbers greater than nine. Do use numerals for a value less than 10 when it is preceded or followed by =, \>, \<, ≤, or ≥ or is followed by standardized units. Also use numerals for all numbers in a sentence if some of those numbers are ≥ 10.
--   Use the symbols =, \>, \<, ≤, and ≥, adding spaces before and after the symbol.
--   Use an en dash (–) for a range of numbers (e.g., “29–35 mm,” “from 1–20 July,” or “3–4 eggs”). To insert an en dash, use the Option and hyphen keys on a Mac or the Control and hyphen keys on a PC. For more information, see @sec-app4-statistics.
--   Write out the full year for both years in a range (e.g., “1940–1950” instead of “1940–50”).
--   Add a comma(s) for numbers larger than 999 (e.g., “1,000” or “10,000,000”).
--   For an approximation, use “\~” with no space after it (e.g., “\~25 mm”).
+-   Utiliza números para los datos (incluidos tamaños de muestra, métodos, recuentos y mediciones con unidades normalizadas como m o g). 
+-   Utilice un espacio entre un número y las unidades de medida (por ejemplo, "4 m", "100 ha" o "50 mL"). Sin embargo, una excepción es la temperatura; no utilice un espacio entre el número y el símbolo de grado (por ejemplo, "43°C").
+-   Utilice "mL" en lugar de "ml" para abreviar los mililitros.
+-   Cuando se utilicen unidades abreviadas, nunca se debe poner un guión entre el número y la unidad, ya que se entiende que van juntos. Sin embargo, debe utilizarse un guión para mayor claridad en una forma adjetival cuando las unidades se deletrean (por ejemplo, "un periodo aproximado de 10 años" pero "un estudio de 14 años o un nido de 20 cm de ancho").
+-   Deletrea cualquier número al principio de una frase.
+-   Deletree los números del uno al nueve cuando no se refieran a medidas concretas, pero utilice números para los números superiores a nueve. Utilice números para los valores inferiores a 10 cuando vayan precedidos o seguidos de =, \>, \<, ≤ o ≥ o vayan seguidos de unidades normalizadas. Utilice también numerales para todos los números de una frase si algunos de esos números son ≥ 10.
+-   Utilice los símbolos =, \>, \<, ≤ y ≥, añadiendo espacios antes y después del símbolo.
+-   Utilice un guión (-) para un rango de números (por ejemplo, "29-35 mm", "del 1 al 20 de julio" o "3-4 huevos"). Para insertar un guión, utilice las teclas Opción y guión en un Mac o las teclas Control y guión en un PC. Para más información, consulte la @sec-app4-statistics.
+-   Escriba el año completo para ambos años en un intervalo (por ejemplo, "1940-1950" en lugar de "1940-50").
+-   Añada una o varias comas para los números superiores a 999 (por ejemplo, "1,000" o "10,000,000").
+-   Para una aproximación, utilice "\~" sin espacio (por ejemplo, "\~25 mm").
 
 ## Descripción de plumajes y mudas {#sec-app4-plumages}
 
--   Note that some specific technical terms used to describe molts and plumages should be capitalized but only when used in their entirety. Please see the list below:
+-   Tenga en cuenta que algunos términos técnicos específicos utilizados para describir mudas y plumajes deben escribirse en mayúsculas, pero sólo cuando se utilizan en su totalidad. Consulte la lista siguiente:
     -   alternate plumage (lowercase if it lacks a descriptor before it)
     -   basic plumage (lowercase if it lacks a descriptor before it)
     -   Complex Alternate Strategy
@@ -257,86 +257,113 @@ Si el nombre científico de una especie ha cambiado desde la publicación de una
 
 ## Guiones {#sec-app4-hyphens}
 
--   Generally, hyphenate two or more words when they come before a noun they modify and act as a single idea, i.e., when they form a compound adjective, e.g., “later-nesting pairs” or “high-elevation populations.” When a compound adjective follows a noun, however, a hyphen should not be used, e.g., “In montane areas, individuals typically nest at high elevation.”
-    -   Some exceptions include words listed as hyphenated adjectives in *Merriam-Webster* (e.g., “year-round”); these should always be hyphenated, regardless of where they appear in the sentence. However, do not hyphenate terms including “well” when they appear after a noun, even if *Merriam-Webster* lists them as hyphenated (e.g., use “the species is well known”).
--   **Do not** use hyphens with prefixes like “pre-,” “post-,” “extra-,” “non-,” or “semi-” unless the second element is capitalized, is a year, or starts with the same letter as the last letter of the first element (e.g., “non-native”).
--   Hyphenate colors according to *The Chicago Manual of Style* (18th edition): before but not after a noun. Examples:
-    -   “red-orange feathers” but “the feathers are red orange”
-    -   “reddish-brown legs” but “the legs are reddish brown”
-    -   “jet-black back” but “the back is jet black”
-    -   “black-and-white feathers” but “the feathers are black and white”
--   Adverbs ending in “ly” should not be hyphenated, e.g., write “Males produce structurally complex song in hour before dawn” rather than “Males produce a structurally-complex song…” 
--   Use hyphens when describing ages. For example, “15-day-old nestlings.” The exception is when the period of time in question (e.g., years, months, weeks, or days) is written in plural form, e.g., “…when nestlings are 15 days old.”
--   When spelling out numbers that appear at the start of sentences, hyphenate all compound numbers from twenty-one through ninety-nine. For example, “Thirty-one nests were assigned to the control group.” 
--   Spell out fractional numbers \< 1, with hyphenation, e.g., “More than one-third of the young with radio transmitters were found dead within a week after leaving the nest.” When fractions are part of numbers \> 1, use the numerical form, e.g., “After many years, the width of the nest can be more than 1½ m wide.”
+-   Por lo general, se utiliza un guión para dos o más palabras cuando van delante de un sustantivo al que modifican y actúan como una sola idea, es decir, cuando forman un adjetivo compuesto, por ejemplo, "parejas que anidan más tarde" o "poblaciones a gran altitud". Sin embargo, cuando un adjetivo compuesto sigue a un sustantivo, no debe utilizarse el guión, p. ej., "En las zonas montañosas, los individuos suelen anidar a gran altitud".
+-   Algunas excepciones son las palabras que Merriam-Webster cataloga como adjetivos con guión (p. ej., "durante todo el año"); éstas siempre deben llevar guión, independientemente de dónde aparezcan en la frase. Sin embargo, no separe con guiones los términos que incluyan "bien" cuando aparezcan después de un sustantivo, aunque Merriam-Webster los indique con guiones (p. ej., utilice "la especie es bien conocida").
+-   **No** utilice guiones con prefijos como “pre-,” “post-,” “extra-,” “non-,” or “semi-”  a menos que el segundo elemento esté en mayúsculas, sea un año o empiece por la misma letra que la última letra del primer elemento (por ejemplo, "no nativo").
+-   Colocar guiones a los colores de acuerdo al *The Chicago Manual of Style* (18th edition): antes pero no después de un sustantivo. Ejemplos:
+    -   “red-orange feathers” pero “the feathers are red orange”
+    -   “reddish-brown legs” pero “the legs are reddish brown”
+    -   “jet-black back” pero “the back is jet black”
+    -   “black-and-white feathers” pero “the feathers are black and white”
+-   Los adverbios terminados en "ly" no deben llevar guión; por ejemplo, escriba “Males produce structurally complex song in hour before dawn” rather than “Males produce a structurally-complex song…” 
+-   Utilice guiones cuando describa edades. Por ejemplo, “15-day-old nestlings.” La excepción es cuando el periodo de tiempo es escrito en plural, por ejemplo: "when nestlings are 15 days old“.
+-   Al deletrear los números que aparecen al principio de las frases, separe con un guión todos los números compuestos del veintiuno al noventa y nueve. Por ejemplo: “Thirty-one nests were assigned to the control group.” 
+-   Escriba los números fraccionarios \< 1, con guión, p. ej., “More than one-third of the young with radio transmitters were found dead within a week after leaving the nest.” Cuando las fracciones son de números \> 1, usar la forma numérica, e.g., “After many years, the width of the nest can be more than 1½
 
 ## Comas {#sec-app4-commas}
 
--   Use a comma after “e.g.” and “i.e.”
--   Use a comma between elements in a series of three or more, before the conjunction joining the last two elements in a series (the "Oxford" comma), between independent clauses unless the clauses are unusually short, and to set off individual elements in dates, addresses, and place names. Examples:
-    -   Oxford comma:
-        -   “This species is found in Chile, Argentina, and Bolivia.”
-    -   To join two independent clauses (each of which could be a sentence on its own):
-        -   “This species often occurs in mixed-species flocks, and it consumes both fruit and insects.” (Note the comma before “and” since “it” is the subject of the second clause.)
-    -   **Do not** use a comma between parts of a sentence that do not have a new subject (unless the first part of the sentence is very long or a comma is needed to prevent misinterpretation).
-        -   “This species often occurs in mixed-species flocks and consumes both fruits and insects.” (Note the lack of a comma before “and” since there is there is only one subject in this sentence: “species.”)
-    -   To set off individual elements:
-        -   “Birds in Ithaca, New York, were observed…”
--   Use commas (not semicolons) to separate a list of citations (e.g., Bush 1990, Smith 2018).
+-   Utilice una coma después de "e.g.,".
+
+-   Utilice una coma entre elementos de una serie de tres o más, antes de la conjunción que une los dos últimos elementos de una serie (la coma "Oxford"), entre cláusulas independientes a menos que las cláusulas sean inusualmente cortas, y para separar elementos individuales en fechas, direcciones y topónimos. Ejemplos:
+
+    -   Coma de Oxford:
+
+        -   "Esta especie se encuentra en Chile, Argentina y Bolivia".
+
+    -   Para unir dos cláusulas independientes (cada una de las cuales podría ser una frase por sí sola):
+
+        -   "Esta especie suele aparecer en bandadas mixtas y consume tanto fruta como insectos". (Nótese la coma antes de "y", ya que "es" es el sujeto de la segunda cláusula).
+
+    -   **No** utilice una coma entre las partes de una frase que no tengan un nuevo sujeto (a menos que la primera parte de la frase sea muy larga o la coma sea necesaria para evitar interpretaciones erróneas).
+
+        -   "Esta especie suele aparecer en bandadas mixtas y consume tanto frutas como insectos". (Obsérvese la ausencia de coma antes de "y", ya que en esta frase sólo hay un sujeto: "especie").
+
+    -   Para activar elementos individuales:
+
+        -   "Se observaron aves en Ithaca, Nueva York..."
+
+-   Utilice comas (no punto y coma) para separar una lista de citas (por ejemplo, Bush 1990, Smith 2018).
 
 ## Abreviaturas {#sec-app4-abbreviations}
 
 -   See also @sec-app4-time.
--   Write “U.S.” instead of “U. S.” or “U.S.A.”
--   Write “versus” instead of “vs.” unless using the term repeatedly in a short span of text.
--   Write “first” instead of “1st,” “eighth” instead of “8th,” etc., unless using it repeatedly in a short span of text.
--   When numbering feathers (i.e., remiges and rectrices), use “p8,” “p9,” “s4,” “s6,” “r5,” “r6,” etc. Note that the letters should be lowercase. 
--   When referring to centuries, write, for example, “1700s” instead of “18th century.” 
--   Write “ca.” rather than “circa.” 
--   Spell out the phrases/words “personal communication,” “unpublished data,” “personal observation,” “Figure,” “County,” “Island(s),” “Mountain(s),” “River,” and “Saint.”
--   Use abbreviations for length/distance (mm, cm, m, km), area (cm2, m2, km2, ha), and mass (g, kg). 
--   Spell out “above sea level” when indicating elevations (do not use the abbreviation a.s.l.).
--   Use “km/h” instead of “kph.”
--   To denote population density, use “individuals/ha” instead of “ind/ha.”
--   Spell out “million years ago” instead of using “mya.”
--   On occasion, contributors will want to use abbreviations that are likely not widely known or that are specific to their species or account. Contributors may also want to use certain abbreviations when they need to use the same lengthy word or phrase repeatedly. In any case, please redefine the abbreviations when first used in each section (or, for short pages, the first time they are used on the page). The reason for this is that most users of these accounts do not read them through in their entirety from the beginning. Rather, they typically read a certain page or section while looking for specific information.
+-   Escriba "versus" en lugar de "vs." a menos que utilice el término repetidamente en un breve espacio de texto.
+-   Escriba "primero" en lugar de "1º", "octavo" en lugar de "8º", etc., a menos que lo utilice repetidamente en un breve espacio de texto.
+-   Al numerar las plumas (es decir, remiges y rectrices), utilice "p8", "p9", "s4", "s6", "r5", "r6", etc. tenga en cuenta que las letras deben ir en minúscula.
+-   Cuando se refiera a siglos, escriba, por ejemplo, "1700" en lugar de "siglo XVIII".
+-   Escriba "ca." en lugar de "circa".
+-   Deletrea las frases/palabras "comunicación personal", "datos inéditos", "observación personal", "figura", "condado", "isla(s)", "montaña(s)", "río" y "santo".
+-   Utiliza las abreviaturas de longitud/distancia (mm, cm, m, km), superficie (cm2, m2, km2, ha) y masa (g, kg).
+-   Escriba "sobre el nivel del mar" cuando indique elevaciones (no utilice la abreviatura a.s.l.).
+-   Utilice "km/h" en lugar de "kph".
+-   Para denotar la densidad de población, utilice "individuos/ha" en lugar de "ind/ha".
+-   Deletrea "hace millones de años" en lugar de utilizar "mya".
+-   En ocasiones, los colaboradores querrán utilizar abreviaturas que probablemente no sean muy conocidas o que sean específicas de su especie o ficha. También es posible que los colaboradores deseen utilizar ciertas abreviaturas cuando necesiten emplear repetidamente la misma palabra o frase larga. En cualquier caso, se ruega redefinir las abreviaturas cuando se utilicen por primera vez en cada sección (o, en el caso de páginas cortas, la primera vez que se utilicen en la página). La razón es que la mayoría de los usuarios de estas fichas no las leen completas desde el principio. Más bien, suelen leer una determinada página o sección mientras buscan información específica.
 
 ## Citas {#sec-app4-quotations}
 
--   Contributors are welcome to open a section with a quote. When doing so, use quotation marks and provide the author, reference tag, and page number. An example that starts off the Introduction in the [Mountain Bluebird](https://species.birds.cornell.edu/bow/species/moublu/cur/introduction) account is as follows: “These exquisites, in their quadruple-extract-of-azure garb, are justly ranked the topmost twig of the American ornithological tree.” —William L. Dawson ([Dawson 1897](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF26966): 181)
+-   Los colaboradores pueden abrir una sección con una cita. Al hacerlo, utilice comillas e indique el autor, la etiqueta de referencia y el número de página. Un ejemplo que inicia la Introducción en la ficha de [Mountain Bluebird ](https://species.birds.cornell.edu/bow/species/moublu/cur/introduction)es el siguiente: “These exquisites, in their quadruple-extract-of-azure garb, are justly ranked the topmost twig of the American ornithological tree.” —William L. Dawson ([Dawson 1897](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF26966): 181)
 -   When quoting material directly from other sources within the main body/text of a section, indicate the page number from which the quote was taken. For example: Criddle ([Criddle 1927](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF45926): 41) wrote that song “...is commenced soon after the first suffusion of light indicates a returning day and is at its height as the rising sun appears over the eastern landscape.” Note the space after the colon.
 -   Avoid structure such as the following when inserting direct quotes: Wheelock, in her 1904 publication, *Birds of California*, described the song as “a sweet, clear ‘*trually, tru-al-ly*’” (p. 507). Such structure makes it difficult to add a reference tag. The preferred structure would be along these lines: In her book, *Birds of California*, Wheelock ([Wheelock 1904](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF72947): 507) described the song as “a sweet, clear ‘*trually, tru-al-ly*.’”
 -   Regarding punctuation following quotes: Following standard U.S. English, place a period or comma inside the quotation marks, e.g., Johnson (1990) referred to this as the “copulation request display.” However, a semicolon or colon should go outside the quotation marks. Question marks and exclamation points go inside the quotation marks if part of the quotation but outside if not.
 
 ## Remisión a otras secciones de la ficha {#sec-app4-sections}
 
--   When referencing other sections of the BOW account, please indicate the entire string of page and section (capitalized), separated by a colon (e.g., “see [Field Identification: Similar Species](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)” or “see [Breeding: Young Birds](https://species.birds.cornell.edu/bow/species/kitmur/cur/breeding#young)”). **Do not include subsections.**
-    -   Sections within an account should be linked via the chain link icon (see @sec-edit-three).
--   In contrast to what was done with the original, printed accounts, DO NOT include directional terms like “above” and “below” (do not use, e.g., “see [Field Identification: Similar Species](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies) (above)” or “see below”).
+-   Cuando haga referencia a otras secciones de la ficha BOW, indique la cadena completa de página y sección (en mayúsculas), separada por dos puntos (por ejemplo, "véase [Identificación en el campo: Especies similares](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)" o "véase [Reproducción: Aves jóvenes](https://species.birds.cornell.edu/bow/species/kitmur/cur/breeding#young)"). **No incluya subsecciones.**
+
+    -   Las secciones de una ficha deben enlazarse mediante el icono de enlace en cadena (véase [Paso 3: Entender la barra de menús del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)).
+
+A diferencia de lo que se hacía con las fichas impresos originales, NO incluya términos direccionales como "arriba" y "abajo" (no utilice, por ejemplo, "véase [Identificación de campo: Especies similares ](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)(arriba)" o "véase abajo").
 
 ## Estadísticas {#sec-app4-statistics}
 
--   Statistics should include, wherever possible, the mean, standard deviation (SD), standard error (SE), coefficient of variation (CV), range (lowest–highest), sample size (*n*), and source of the data. It is fine to report test statistics, a confidence interval (CI), and a p value (*p*), but these are not used heavily in BOW accounts, with the exception being when contributors report unpublished data and analyses.
--   Provide the SD/SE following a ± symbol, without its own units, e.g., “84.8 mL ± 7.0 SD.” SD or SE can be added parenthetically, e.g., “84.8 mL (± 7.0 SD),”but generally do not do so unless added at end of sentence with other statistics.
--   When naming and reporting a mean, median, range, etc., do not use a colon or equals sign; e.g., use “Mean nest weight 13.7 g ± 0.11 SE (range 6.7–30.0, *n* = 71).” Note that the units do not need to be repeated for the range.
--   No colon should be used after a descriptor such as length, width, height, or weight that is immediately followed by a number, e.g., “From a sample of 71 nests in Arkansas: outside length 15.0 cm ± 0.41 SE (range 9.0–27.0); outside width 12.8 cm ± 0.24 SE (range 8.5–18.5)…”
--   Use an en dash (–) for a range of numbers (e.g., “29–35 mm,” “from 1–20 July,” or “3–4 eggs”). To insert an en dash, use the Option and hyphen keys on a Mac or the Control and hyphen keys on a PC. These symbols can be used in the find and replace function (see @sec-edit-three) if one needs to replace a large number of hyphens with en dashes.
--   When reporting multiple descriptive statistics, separate each by commas, not semicolons, e.g., “Parents made, on average, 16.4 trips/h to the nest to feed young (± 8.8 SD, range 6–25, *n* = 53 nests).” 
--   When reporting results of statistical tests, report the test statistic first, the *p* value second, and the sample size last, e.g., “The number of days young spent in the nest was inversely related to mean brood wing length on day 13 of the nestling stage (*r* = −0.61, *p* = 0.03, *n* = 45 broods).”
--   Use a minus sign (−), not a hyphen, to denote negative numbers.
+-   Las estadísticas deben incluir, siempre que sea posible, la media, la desviación estándar (DE), el error estándar (EE), el coeficiente de variación (CV), el rango (mínimo-máximo), el tamaño de la muestra (n) y la fuente de los datos. Está bien informar de los estadísticos de las pruebas, un intervalo de confianza (IC) y un valor p (p), pero no se utilizan mucho en los informes BOW, con la excepción de cuando los colaboradores informan de datos y análisis no publicados.
+
+-   Indique la DE/SE a continuación del símbolo ±, sin sus propias unidades, p. ej., "84,8 mL ± 7,0 DE". La DE o la SE pueden añadirse entre paréntesis, por ejemplo, "84,8 mL (± 7,0 DE)", pero generalmente no se hace así a menos que se añada al final de la frase con otras estadísticas.
+
+-   Al nombrar y notificar una media, mediana, intervalo, etc., no utilice dos puntos ni el signo igual; por ejemplo, utilice "Peso medio del nido 13,7 g ± 0,11 SE (intervalo 6,7-30,0, n = 71)". tenga en cuenta que no es necesario repetir las unidades para el rango.
+
+-   No deben utilizarse dos puntos después de un descriptor como longitud, anchura, altura o peso que vaya seguido inmediatamente de un número, p. ej., "De una muestra de 71 nidos en Arkansas: longitud exterior 15,0 cm ± 0,41 SE (intervalo 9,0-27,0); anchura exterior 12,8 cm ± 0,24 SE (intervalo 8,5-18,5)...".
+
+-   Utilice un guión (-) para un rango de números (por ejemplo, "29-35 mm", "del 1 al 20 de julio" o "3-4 huevos"). Para insertar un guión, utilice las teclas Opción y guión en un Mac o las teclas Control y guión en un PC. Estos símbolos pueden utilizarse en la función buscar y reemplazar (véase [Paso 3: Entender la barra de menús del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)) si se necesita reemplazar un gran número de guiones por guiones bajos.
+
+-   Cuando informe de múltiples estadísticas descriptivas, separe cada una por comas, no por punto y coma, por ejemplo, "Los padres hicieron, de media, 16,4 viajes/h al nido para alimentar a las crías (± 8,8 DE, rango 6-25, n = 53 nidos)". 
+
+-   Al comunicar los resultados de las pruebas estadísticas, indique en primer lugar el estadístico de la prueba, en segundo lugar el valor p y en último lugar el tamaño de la muestra, por ejemplo: "El número de días que las crías pasaron en el nido estuvo inversamente relacionado con la longitud media de las alas de la nidada el día 13 de la fase de nidificación (r = -0,61, p = 0,03, n = 45 nidadas)".
+
+-   Utilice un signo menos (-), no un guión, para indicar números negativos.
 
 ## Otros {#sec-app4-other}
 
--   Avoid Caucasian-centric descriptors like “flesh-colored” or “skin-colored.” 
--   Use “subspecies” instead of “race.”
--   When discussing birds, avoid gendered pronouns when possible (i.e., use “it” instead of “he” or “she”).
--   When discussing birds, avoid the terms “mother” and “father” (consider “female,” “male,” or “parent,” depending on context).
--   Use “mean” instead of “average.”
--   Use “mass” instead of “weight.”
--   When discussing ranges, “between” is paired with “and,” while “from” is paired with “to” (or an en dash) (e.g., “between 100 and 200 m” but “from 100–200 m”).
--   Commonly used Latin terms like “et al.,” “cf.,” and “sensu” should **not** be italicized.
--   In addition to denoting ranges, an en dash should be used to join the names of two or more people acting as a compound modifier of a noun (e.g. “Humphrey–Parkes terminology”) or two or more entities of equal importance in a descriptor (e.g., “the Zimbabwe–Mozambique border”).
--   When using a dash to set off information within a sentence, use an **em dash (—) with no spaces around it**. To type an em dash, use Option, Shift, and hyphen on a Mac or Control, Alt, and hyphen on a PC.
+-   Evite descriptores caucásico-céntricos como "color piel". 
+
+-   Utilice "subespecie" en lugar de "raza".
+
+-   Al hablar de aves, evite los pronombres sexistas siempre que sea posible (por ejemplo, utilice "eso" en lugar de "él" o "ella").
+
+-   Cuando hable de aves, evite los términos "madre" y "padre" (considere "hembra", "macho" o "progenitor", según el contexto).
+
+-   Utiliza "media" en lugar de "promedio".
+
+-   Utiliza "masa" en lugar de "peso".
+
+-   Cuando se habla de rangos, "entre" va emparejado con "y", mientras que "desde" va emparejado con "hasta" (o un guión) (por ejemplo, "entre 100 y 200 m" pero "desde 100-200 m").
+
+-   Los términos latinos de uso común como "et al.", "cf." y "sensu" **no deben** escribirse en cursiva.
+
+-   Además de denotar rangos, debe utilizarse un guión para unir los nombres de dos o más personas que actúan como modificador compuesto de un sustantivo (por ejemplo, "terminología Humphrey-Parkes") o dos o más entidades de igual importancia en un descriptor (por ejemplo, "la frontera entre Zimbabue y Mozambique").
+
+-   Cuando utilice un guión para separar información dentro de una frase, utilice un **guión bajo (-) sin espacios alrededor**. Para escribir un guión, utilice Opción, Mayúsculas y guión en un Mac o Control, Alt y guión en un PC.
 
 ## Símbolos útiles {#sec-app4-symbols}
 
