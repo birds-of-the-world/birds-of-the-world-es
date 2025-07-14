@@ -6,107 +6,114 @@ editor_options:
 
 # Apéndice 7: Políticas y procedimientos relativos a los medios de comunicación {#sec-app7 .unnumbered}
 
-Media galleries will be added to your revision by *Birds of the World* (BOW) staff. We suggest that you look over some examples of recently published BOW accounts to get a good sense of how media galleries, titles, and captions are typically composed.
+Las galerías multimedia serán añadidas a su revisión por el personal de Birds of the World (BOW). Le sugerimos que consulte algunos ejemplos de fichas BOW publicados recientemente para hacerse una idea de cómo suelen componerse las galerías multimedia, los títulos y los pies de foto.
 
-You can review your account’s older media in the “live” version of the account (i.e., **not** the “draft” version of your account). The draft version of your account may have “placeholder” galleries on pages where images and figures will appear. Once your account goes into the Editor Review phase, BOW staff will populate the account with semifinal media and associated captions, which you will be able to review during the Author Review period.
+Puede revisar la multimedia antiguos de su ficha en la versión "en vivo" de la misma (es decir, **no en** la versión "borrador" de su ficha). La versión borrador de su ficha puede tener galerías de "marcadores de posición" en las páginas donde aparecerán imágenes y figuras. Una vez que su ficha pase a la fase de Revisión por el Editor, el personal de BOW rellenará la ficha con la multimedia semifinal y los pies de foto asociados, que usted podrá revisar durante el periodo de Revisión por el Autor.
 
-**Instructions for specific types of media are below. It is assumed that you have read and agree to abide by these policies before you begin your BOW revision.**
+**A continuación encontrará instrucciones para determinados tipos de soportes. Se supone que ha leído y acepta cumplir estas normas antes de iniciar la revisión de BOW.**
 
 ## Cifras {#sec-intro-figures}
 
-We suggest that you review all figures in the account before submitting your revision for editorial review. If you have any new (or updated) figures to add to the account, please upload them at the largest size/highest quality possible to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send them to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
+Le sugerimos que revise todas las figuras de la ficha antes de enviar su revisión para la revisión editorial. Si tiene figuras nuevas (o actualizadas) que añadir a la ficha, por favor, cárguelas con el mayor tamaño/calidad posible en el Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)) o envíelas a María Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu) ).
 
-If you would like to include a figure that has been published elsewhere in a BOW account, please contact the publisher of the other source to confirm who has the reproduction rights to the figure. If you are the sole owner of the rights, BOW may publish the figure. If the publisher shares ownership rights with you, then we will need a representative from the publisher to sign the BOW [Contributor Agreement](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) before we can publish the figure in BOW. Please contact Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) or Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)) with any questions about this process.
+Si desea incluir una figura que ha sido publicada en otro sitio en una ficha de BOW, póngase en contacto con el editor de la otra fuente para confirmar quién tiene los derechos de reproducción de la figura. Si usted es el único titular de los derechos, BOW podrá publicar la figura. Si el editor comparte los derechos de propiedad con usted, necesitaremos que un representante del editor firme el [Acuerdo de Colaborador de ](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing)BOW antes de poder publicar la figura en BOW. Si tiene alguna duda sobre este proceso, póngase en contacto con Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
-BOW and eBird staff will procedurally evaluate the distribution map and the molt portion of the annual cycle diagram for revision and make changes as needed. You will be able to review these changes. Other figures will not be updated unless you provide specific instructions.
+El personal de BOW y eBird evaluará procedimentalmente el mapa de distribución y la parte de muda del diagrama del ciclo anual para su revisión y realizará los cambios necesarios. Usted podrá revisar estos cambios. Otras figuras no se actualizarán a menos que usted proporcione instrucciones específicas.
 
-If you would like BOW staff to generate any figures for you, please contact Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) to discuss specifics.
+Si desea que el personal de BOW genere alguna cifra para usted, póngase en contacto con Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) para hablar de los detalles.
 
-Please take note of the following:
+Tenga en cuenta que:
 
--   Whenever possible, numbered figures should be restricted to maps, graphs, charts, illustrations, etc. Photos are best displayed in the photo galleries and referenced in the text by their Macaulay Library asset numbers.
--   Figures should be ordered by their first appearance in the text.
--   If you have added/deleted any figures or want to rearrange the existing figure order, please provide a list of **all** of the figure numbers and titles that you would like in your revision (including both old and new figures).
--   Please provide a Word document with all new or revised figure captions and titles.
+-   Siempre que sea posible, las figuras numeradas deben limitarse a mapas, gráficos, cuadros, ilustraciones, etc. Las fotografías se exponen mejor en las galerías fotográficas y se referencian en el texto por sus códigos de la Macaulay Library.
+
+-   Las figuras deben ordenarse por su primera aparición en el texto.
+
+-   Si ha añadido/suprimido alguna figura o desea reorganizar el orden de las figuras existentes, facilite una lista de **todos los** números y títulos de las figuras que desea incluir en su revisión (incluyendo tanto las figuras antiguas como las nuevas).
+
+-   Proporcione un documento Word con todos los pies y títulos de figuras nuevos o revisados.
 
 ## Imágenes {#sec-intro-images}
 
-The main image gallery and the images on each page of the account will be curated and added to the revision by BOW staff. You will be able to review all images in the revision prior to publication. We welcome author suggestions for images (see instructions below).
+La galería de imágenes principal y las imágenes de cada página de la ficha serán curadas y añadidas a la revisión por el personal de BOW. Podrá revisar todas las imágenes de la revisión antes de su publicación. Se aceptan sugerencias de los autores para las imágenes (véanse las instrucciones más abajo).
 
-Please note, if you absolutely **do not** want BOW staff to populate the media galleries for your account, you must supply suitable gallery content consistent with BOW media standards and procedures yourself. We strongly recommend that you communicate extensively with BOW staff about your selections, as any media that fail to meet BOW media standards of content, size, quality, account organization, etc., will be omitted or replaced, without exception.
+Tenga en cuenta que si **no** desea que el personal de BOW rellene las galerías multimedia de su ficha, deberá proporcionar usted mismo el contenido adecuado para la galería, de acuerdo con las normas y procedimientos de BOW. Le recomendamos encarecidamente que se comunique ampliamente con el personal de BOW acerca de sus selecciones, ya que cualquier medio que no cumpla con los estándares de medios de BOW de contenido, tamaño, calidad, organización de la ficha, etc., será omitido o reemplazado, sin excepción.
 
 ### Envíe sus propias imágenes {#sec-intro-images-own}
 
-If you have specific images that you would like to contribute to your BOW account, they **must be uploaded to our content management system via eBird/Macaulay Library**. Note, you should only contribute images for which **you** are the photographer. If you would like to add images by others to your BOW revision, each individual photographer will need to upload their own work (even if you have the photographer’s permission to use the image in a BOW account).
+Si tiene imágenes específicas que le gustaría aportar a su ficha BOW, **debe cargarlas en nuestro sistema de gestión de contenidos a través de eBird/Macaulay Library**. tenga en cuenta que sólo debe contribuir con imágenes de las que **usted** sea el fotógrafo. Si desea añadir imágenes de otras personas a su revisión de BOW, cada fotógrafo individual tendrá que subir su propio trabajo (incluso si tiene el permiso del fotógrafo para utilizar la imagen en una ficha BOW).
 
-Although we absolutely encourage you to dig into eBird as deeply as you would like, for many BOW contributors, eBird will simply be an intake mechanism to allow you to upload images into a stable repository that archives and displays the best quality/largest size of an image, alongside organized, searchable metadata.
+Aunque le animamos absolutamente a que profundice en eBird tanto como desee, para muchos colaboradores de BOW, eBird será simplemente un mecanismo de entrada que le permitirá cargar imágenes en un repositorio estable que archiva y muestra la mejor calidad/tamaño más grande de una imagen, junto con metadatos organizados y con capacidad de búsqueda.
 
-To submit images to eBird/Macaulay Library, you will need to determine the best eBird protocol to use.
+Para enviar imágenes a eBird/Macaulay Library, deberá determinar cuál es el mejor protocolo eBird que puede utilizar.
 
-We strongly encourage any media submissions to abide by eBird and the Macaulay Library’s best practices for [data](https://support.ebird.org/en/support/solutions/articles/48000795623-ebird-rules-and-best-practices) and [media](https://support.ebird.org/en/support/solutions/articles/48001064357-photo-upload-guidelines); however, BOW authors who are interested only in adding images specifically for a BOW revision are under no obligation to enter “complete” eBird checklists. In eBird parlance, a complete checklist includes observation data for **all** of the species you were able to identify for a given location and date. Complete checklists are considered scientifically valid and thus must conform to a set of replicable standards. There is considerably more flexibility when adding media to an “incomplete” checklist.
+Sin embargo, los autores de BOW que sólo estén interesados en añadir imágenes específicamente para una revisión de BOW no tienen ninguna obligación de introducir listas de comprobación eBird "completas". En la jerga de eBird, una checklist completa incluye datos de observación de **todas las** especies que haya podido identificar en un lugar y fecha determinados. Las checklists completas se consideran científicamente válidas y, por tanto, deben ajustarse a una serie de normas reproducibles. Existe bastante más flexibilidad a la hora de añadir medios a una checklist "incompleta".
 
-The simplest way to upload media intended for an incomplete checklist is to use your BOW username/password to login to eBird. Select the “Submit” tab and indicate a location. On the next screen, enter the date the image was taken, and then select either a “**Historical**” or “**Incidental**” protocol.
+La forma más sencilla de subir material destinado a una checklist incompleta es utilizar su nombre de usuario/contraseña BOW para iniciar sesión en eBird. Seleccione la pestaña "Enviar" e indique una ubicación. En la siguiente pantalla, introduzca la fecha en que se tomó la imagen y, a continuación, seleccione un protocolo "**Histórico**" o **"Incidental**".
 
--   If you choose **Historical**, you need to know only the location and date of your image(s). You will be given the option to enter other metadata about your observations, but you do not have to fill out those fields. Once you are on the checklist screen, you can enter the quantity of your species (or “X,” if unknown) and click the “Add Details” button that pops up. There, you can drag and drop your image(s) into the “Media” field. Make sure to indicate that you are **not** submitting a complete checklist (there is a prompt before you can submit). You can find additional information on this protocol [here](https://support.ebird.org/en/support/solutions/articles/48001074151-uploading-historic-media).
+-   Si elige **Histórico**, sólo necesita conocer la ubicación y la fecha de su(s) imagen(es). Se le dará la opción de introducir otros metadatos sobre sus observaciones, pero no es necesario que rellene esos campos. Una vez en la pantalla de la checklist, puede introducir la cantidad de especies (o una "X" si no las conoce) y hacer clic en el botón "Añadir detalles" que aparece. A continuación, puede arrastrar y soltar su(s) imagen(es) en el campo "Medios". Asegúrese de indicar que **no** está enviando una checklist completa (hay una pregunta antes de poder enviarla). Puede encontrar más información sobre este protocolo [aquí](https://support.ebird.org/en/support/solutions/articles/48001074151-uploading-historic-media).
 
--   If you choose **Incidental**, then you will need to know the location, date, time, and party size. Enter the quantity of your species (or “X,” if unknown), click the “Add Details” button, and drag and drop your image(s) into the “Media” field. You’ll notice that “incomplete checklist” has already been selected for you.
+-   Si eliges **"Incidental"**, necesitarás saber el lugar, la fecha, la hora y el tamaño del grupo. Introduzca la cantidad de especies (o una "X" si no las conoce), haga clic en el botón "Añadir detalles" y arrastre y suelte las imágenes en el campo "Medios". Verás que ya se ha seleccionado "Lista incompleta".
 
-Using these two protocols, it is fine to enter older media and to keep your checklist as simple as possible.
+Utilizando estos dos protocolos, no hay problema en introducir multimedia antigua y mantener la lista de comprobación lo más simple posible.
 
-Similarly, it is fine (and encouraged!) for BOW authors to submit habitat images or other sorts of media that are atypical for eBird. You can now submit [checklist-level media](https://support.ebird.org/en/support/solutions/articles/48001269559-upload-checklist-media), including habitat photos that do not include birds, to an eBird list. Habitat photos should be tagged with birds observed in that habitat, which allows users to search for such photos in the Macaulay Library by clicking the “Habitat/Soundscape” button above the search bar. You can also search for habitat photos by location. If you have an image that *does* include the bird but primarily showcases the habitat rather than the bird itself, please upload it to your eBird checklist under the relevant bird species and use the “Habitat” tag. Photos of birds in the hand can also be uploaded to an eBird checklist under the relevant species; please use the “In-hand” tag to make these images easier to find.
+Del mismo modo, está bien (¡y se anima a ello!) que los autores de BOW envíen imágenes de hábitats u otros tipos de medios que sean atípicos para eBird. Ahora puede enviar estas fotos a nivel [de lista](https://support.ebird.org/en/support/solutions/articles/48001269559-upload-checklist-media), incluyendo fotos de hábitat que no incluyan aves, a una lista de eBird. Las fotos de hábitat deben etiquetarse con las aves observadas en ese hábitat, lo que permite a los usuarios buscar dichas fotos en la Macaulay Library pulsando el botón "Hábitat/Paisaje sonoro" situado encima de la barra de búsqueda. También puede buscar fotos de hábitats por ubicación. Si tiene una imagen que incluya el ave pero que muestre principalmente el hábitat en lugar del ave en sí, cárguela en su checklist de eBird bajo la especie de ave correspondiente y utilice la etiqueta "Hábitat". Las fotos de aves en la mano también se pueden subir a una checklist de eBird bajo la especie correspondiente; por favor, utilice la etiqueta "En la mano" para que estas imágenes sean más fáciles de encontrar.
 
-**Note:** If you would like to use photos of museum specimens in a BOW account, these should not be uploaded to eBird. Please contact Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)) for information on how to have these images added to the account as figures.
+**Nota:** Si desea utilizar fotos de especímenes de museo en una ficha BOW, éstas **no** deben subirse a eBird. Póngase en contacto con Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu) ) para obtener información sobre cómo añadir estas imágenes a la ficha como figuras.
 
-Upload your photos at their original resolution, whenever possible. eBird accepts images up to 10 MB in size, and each species on a checklist can accept 10 images. **Please do not include watermarks on your images.**
+Sube tus fotos en su resolución original, siempre que sea posible. eBird acepta imágenes de hasta 10 MB de tamaño, y cada especie de una lista puede aceptar 10 imágenes. **Por favor, no incluyas marcas de agua en tus imágenes.**
 
-Once you have uploaded your images, please provide the eBird checklist and/or Macaulay Library asset numbers (e.g., ML36340541), as well as a Word document with titles and captions for each image to be included (material must be received no later than one month prior to publication of the account). You can upload this information to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send it to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)). Please see recently published accounts for examples of the format and content of image titles and captions.
+Una vez que haya subido sus imágenes, por favor proporcione la checklist de eBird y/o los números de activos de la Macaulay Library (por ejemplo, ML36340541), así como un documento de Word con títulos y pies de foto para cada imagen que se incluirá (el material debe ser recibido a más tardar un mes antes de la publicación de la ficha). Puede cargar esta información en el Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)) o enviarla a Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu) ). Consulte las fichas publicados recientemente para ver ejemplos del formato y contenido de los títulos y pies de imagen.
 
-If you would like to submit your own images, we are particularly interested in:
+Si desea enviar sus propias imágenes, estamos especialmente interesados en:
 
--   Images that can be used for identification of sexes, age classes, and subspecies
--   Images that demonstrate important aspects of behavior (e.g., displays, interactions, or foraging) and natural history (e.g., nests or eggs)
--   Images that show anatomical details (e.g., spread wing, molt, bare parts, or portrait)
--   Images that portray coarse- and fine-scale habitat features
--   Images that depict conservation issues and/or human interactions with the species
+-   Imágenes que pueden utilizarse para la identificación de sexos, clases de edad y subespecies
 
-### Selección de imágenes que ya están en la Biblioteca Macaulay {#sec-intro-images-ML}
+-   Imágenes que muestren aspectos importantes del comportamiento (por ejemplo, exhibiciones, interacciones o búsqueda de alimento) y de la historia natural (por ejemplo, nidos o huevos).
 
-We also invite you to peruse the Macaulay Library (<http://macaulaylibrary.org>) for images to be included in your account. Some images in the Macaulay Library may be too small/low quality for inclusion in BOW, so it is useful to double check the size before suggesting an image. If you find images that you would like to include in your account, please provide the eBird checklist and/or Macaulay Library asset numbers (e.g., ML36340541), as well as a Word document with titles and captions for each image to be included (material must be received no later than one month prior to publication of the account). You can upload this information to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send it to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
+-   Imágenes que muestren detalles anatómicos (por ejemplo, ala desplegada, muda, partes desnudas o retrato)
+
+-   Imágenes que muestran las características del hábitat a gran y pequeña escala
+
+-   Imágenes que muestren problemas de conservación y/o interacciones humanas con la especie
+
+### Selección de imágenes que ya están en la Macaulay Library {#sec-intro-images-ML}
+
+También le invitamos a examinar la Macaulay Library (http://macaulaylibrary.org) en busca de imágenes para incluir en su ficha. Algunas imágenes de la Macaulay Library pueden ser demasiado pequeñas/de baja calidad para su inclusión en BOW, por lo que es útil comprobar el tamaño antes de sugerir una imagen. Si encuentra imágenes que le gustaría incluir en su ficha, por favor proporcione la lista de comprobación de eBird y/o los números de activo de la Macaulay Library (por ejemplo, ML36340541), así como un documento Word con títulos y pies de foto para cada imagen a incluir (el material debe recibirse a más tardar un mes antes de la publicación de la ficha). Puede cargar esta información en el Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)) o enviarla a Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
 ## Audio {#sec-intro-audio}
 
 ### Envíe su propio audio {#sec-intro-audio-own}
 
-Audio should be added following the same guidelines as images.
+El audio debe añadirse siguiendo las mismas directrices que las imágenes.
 
-### Seleccionar audio que ya está en la Biblioteca Macaulay {#sec-intro-audio-ML}
+### Seleccionar audio que ya está en la Macaulay Library {#sec-intro-audio-ML}
 
-We invite you to peruse the Macaulay Library (<http://macaulaylibrary.org>) for audio selections to be included in your account. If you find audio tracks that you would like to include in your account, please provide a Word document with Macaulay Library asset numbers (e.g., ML36340541), as well as titles and captions for each track and the specific timing of the selection of interest (e.g., 0:30–1:10 s), if applicable. You can upload this information to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send it to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
+Le invitamos a examinar la Macaulay Library (http://macaulaylibrary.org) en busca de selecciones de audio para incluir en su ficha. Si encuentra pistas de audio que le gustaría incluir en su ficha, proporcione un documento de Word con los números de activo de la Macaulay Library (por ejemplo, ML36340541), así como los títulos y subtítulos de cada pista y el tiempo específico de la selección de interés (por ejemplo, 0:30-1:10 s), si procede. Puede cargar esta información en el Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)) o enviarla a Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
 ## Vídeo {#sec-intro-video}
 
 ### Envíe su propio vídeo {#sec-intro-video-own}
 
-For video submissions, please contact Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) or Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)) for details.
+Para enviar vídeos, póngase en contacto con Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
-### Selección de vídeos que ya están en la Biblioteca Macaulay {#sec-intro-video-ML}
+### Selección de vídeos que ya están en la Macaulay Library {#sec-intro-video-ML}
 
-We invite you to peruse the Macaulay Library (<http://macaulaylibrary.org>) for video selections to be included in your account. If you find video that correlates to specific text in the account, please provide a list of Macaulay Library asset numbers (e.g., ML36340541), as well as titles, captions, and the locations where you would like the videos to be embedded within the account. You can upload this information to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send it to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
+Le invitamos a buscar en la Macaulay Library (http://macaulaylibrary.org) selecciones de vídeo para incluirlas en su ficha. Si encuentra un vídeo que se corresponda con un texto específico de la ficha, facilítenos una lista de los números de activo de la Macaulay Library (por ejemplo, ML36340541), así como los títulos, subtítulos y las ubicaciones en las que desea que se incluyan los vídeos dentro de la ficha. Puede cargar esta información en el Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)) o enviarla a Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
 ## Tablas {#sec-intro-tables}
 
-We suggest that you review all existing tables and appendices in the account before submitting your revision for editorial review. If you would like to **correct** an existing table/appendix, you may either list your corrections in a Word document or prepare an Excel file with a new version of the table/appendix.
+Le sugerimos que revise todas las tablas y apéndices existentes en la ficha antes de enviar su revisión para el examen editorial. Si desea **corregir** un cuadro/apéndice existente, puede enumerar sus correcciones en un documento Word o preparar un archivo Excel con una nueva versión del cuadro/apéndice.
 
-If you would like to **add** a table to the account, **please do not use the table function within the online BOW editor.** Please instead prepare an Excel file with your table. When constructing your table, **please note that we typically cannot display tables more than about seven columns wide** on the BOW website. Therefore, please try to construct your tables in a “tall” format rather than a “wide” format. In your file, please add a title for the table and any applicable footnotes. Ensure that all references used are either cited in the BOW account or listed with their full citations in the Excel file so that they can be included in the BOW reference list. List units for all measurements. Capitalize column names as if they are titles (see @sec-app4-headings). Finally, please indicate in the text of the BOW account where you would like the table to be included (you can simply add the text “(Table X)” where needed).
+Si desea **añadir** una tabla a la ficha, **no utilice la función de tabla del editor en línea de BOW.** En su lugar, prepare un archivo Excel con su tabla. Cuando elabore su **tabla, tenga en cuenta que normalmente no podemos mostrar tablas de más de siete columnas de ancho** en el sitio web de BOW. Por lo tanto, intente construir sus tablas en formato "alto" en lugar de "ancho". En el archivo, añada un título para la tabla y las notas a pie de página correspondientes. Asegúrese de que todas las referencias utilizadas se citan en la ficha BOW o se enumeran con sus citas completas en el archivo Excel para que puedan incluirse en la lista de referencias BOW. Indique las unidades de medida. Escriba los nombres de las columnas en mayúsculas como si fueran títulos (véase "Encabezamientos" en [el Apéndice 4](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.8ixbimxb8azj)). Por último, indique en el texto de la ficha BOW dónde desea que se incluya la tabla (puede añadir simplemente el texto "(Tabla X)" donde sea necesario).
 
-If you have added or deleted tables/appendices or want to rearrange the existing order, please provide a list of **all** of the table/appendix numbers (old and new) and titles to be included with your revision. Please note that BOW staff will rename all appendices as tables when preparing your account for publication since appendices are not supported in newly published accounts.
+Si ha añadido o eliminado tablas/apéndices o desea reorganizar el orden existente, facilite una lista de **todos los** números de tablas/apéndices (antiguos y nuevos) y los títulos que se incluirán con su revisión. tenga en cuenta que el personal de BOW renombrará todos los apéndices como tablas cuando prepare su ficha para la publicación, ya que los apéndices no se admiten en las fichas recién publicadas.
 
-You can upload your table files to the Draft Completion Form ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Spanish](https://forms.gle/4e3PifYqvKrbQ1tV8)) or send them to Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
+Puede cargar los archivos de sus tablas en el Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)) o enviarlos a Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
 ## Derechos de autor y autorizaciones {#sec-intro-copyright}
 
-The Macaulay Library archive is primarily a data repository for research purposes. It is not an open repository of rich media available to the general public for any and all use. Assets in the collection are owned by the original author (e.g., recorder or photographer), and the copyright lies with each author unless otherwise indicated.
+La Macaulay Library es principalmente un depósito de datos con fines de investigación. No es un repositorio abierto de medios enriquecidos a disposición del público en general para cualquier uso. Los activos de la colección son propiedad del autor original (por ejemplo, grabador o fotógrafo), y los derechos de autor corresponden a cada autor, a menos que se indique lo contrario.
 
-By submitting media to BOW and/or eBird/Macaulay Library, you consent to give us permission to use the content you have shared on the BOW website and/or other projects of the Cornell Lab of Ornithology (see full terms of use for media submitted to eBird/Macaulay Library: <http://macaulaylibrary.org/terms-of-use>).
+Al enviar material multimedia a BOW y/o eBird/Macaulay Library, da su consentimiento para que utilicemos el contenido que ha compartido en el sitio web de BOW y/o en otros proyectos del Laboratorio de Ornitología de Cornell (consulte las condiciones de uso completas para el material multimedia enviado a eBird/Macaulay Library: http://macaulaylibrary.org/terms-of-use).
 
-Any materials (maps, figures, etc.) generated by BOW staff for use in a BOW account are considered to be a component of your specific BOW account version. These materials are jointly owned by you, any other parties involved in their creation, and BOW. You may not use these materials in other situations without citing the BOW account, and you may not use them in a for-profit venture without express consent from BOW.
+Cualquier material (mapas, figuras, etc.) generado por el personal de BOW para su uso en una ficha BOW se considera un componente de la versión específica de su ficha BOW. Estos materiales son propiedad conjunta suya, de cualquier otra parte implicada en su creación y de BOW. Usted no puede utilizar estos materiales en otras situaciones sin citar la ficha de BOW, especialmente en casos de una empresa con fines de lucro sin el consentimiento expreso de BOW.
