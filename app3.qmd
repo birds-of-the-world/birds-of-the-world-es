@@ -10,33 +10,33 @@ En general, cuando no pueda encontrar información sobre un tema determinado, re
 
 Por favor, evite utilizar las palabras "reciente" o "recientemente" en las fichas. Se trata de términos relativos, y algunas fichas se actualizan con más frecuencia que otras, lo que puede inducir a error en algunos casos. Siempre que sea posible, indique el año correspondiente (o un intervalo de años).
 
-## [INTRODUCCIÓN]{style="color:purple;"} {#sec-app3-intro}
+## [INTRODUCTION/INTRODUCCIÓN]{style="color:purple;"} {#sec-app3-intro}
 
 Todos las fichas deben incluir una introducción concisa de 1 a 5 párrafos. Presente su especie al lector, haciendo hincapié en los aspectos que la hacen única, incluyendo (según proceda) la sistemática, el aspecto, la distribución, la migración, el hábitat, la alimentación, la reproducción, el tamaño de la población y la conservación. Las mejores introducciones no se limitan a resumir datos objetivos, sino que buscan la legibilidad sin dejar de reflejar los aspectos científicos de la ficha. Las descripciones del aspecto deben ser concisas y, por lo general, no constituyen el tema central de la introducción. Las descripciones del área de distribución deben ser generales (por ejemplo, "se da en los bosques montanos de Tanzania y Kenia, normalmente entre 2.600 y 3.400 m"). Por lo general, las introducciones no incluyen referencias citadas, a menos que se incluya una cita o se presente información que no esté citada en ninguna otra parte de la ficha. Algunas fichas han resumido aspectos de la especie que están bien estudiados, proporcionando citas, especialmente al final de la Introducción.
 
-## [IDENTIFICACIÓN EN EL CAMPO]{style="color:purple;"} {#sec-app3-id}
+## [FIELD IDENTIFICATION/IDENTIFICACIÓN EN EL CAMPO]{style="color:purple;"} {#sec-app3-id}
 
-### [Identificación en el campo (introducción)]{style="color:blue;"} {#sec-app3-id-intro}
+### [Field Identification (introduction)/Identificación en el campo (introducción)]{style="color:blue;"} {#sec-app3-id-intro}
 
 Si el artículo de identificación es especialmente largo, resuma los aspectos más importantes de la identificación de la especie, incluidas las marcas de campo esenciales. Una lista con viñetas puede ser adecuada en este caso. Evite las citas en esta sección.
 
-### [Identificación]{style="color:blue;"} {#sec-app3-id-id}
+### [Identification/Identificación]{style="color:blue;"} {#sec-app3-id-id}
 
 Proporcione una descripción resumida general de los principales puntos de identificación de adultos y juveniles por sexo (cuando puedan determinarse la edad y el sexo). Los términos "adultos" o "aves de primer ciclo" pueden utilizarse aquí, pero asegúrese de incluir el plumaje o plumajes entre paréntesis a continuación de los términos, como se indica en Plumajes. Se puede utilizar "juveniles" para las aves de plumaje juvenil, sin necesidad del término adicional. Incluya descripciones separadas para los adultos en Plumaje básico definitivo y Plumaje alternativo definitivo si difieren (o indique que son similares si se da un plumaje alternativo y es similar en apariencia al plumaje básico). Una vez descritos los adultos de cada sexo y plumaje, describa brevemente los plumajes juvenil, formativo (normalmente) y todos los demás plumajes predefinidos en una frase cada uno. Cuando proceda, puede incluirse brevemente una discusión sobre subespecies, morfos notables o variantes de color, o poblaciones únicas.
 
 El diagnóstico debe ser más científico que el de una guía de campo, pero también debe ser fácil de leer y digerir por los neófitos. Destaque las características de tamaño, forma, color o estructura que puedan reconocerse en las aves sobre el terreno. Indique la longitud total (general) y la masa de las aves vivas, acompañadas de una indicación del tamaño relativo en comparación con especies afines, si resulta útil para la identificación (por ejemplo, "un colibrí de tamaño mediano"). Indique las diferencias de longitud, masa o plumaje entre machos y hembras. Esta sección debe ser concisa. Las descripciones detalladas del tamaño, el color, etc., se pedirán en otras secciones. Esta sección no requiere subsecciones.
 
-### [Resumen sobre especies similares]{style="color:blue;"} {#sec-app3-id-sssum}
+### [Similar Species Summary/Resumen sobre especies similares]{style="color:blue;"} {#sec-app3-id-sssum}
 
 Si la sección de Especies Similares tiene una extensión considerable (más de 5 párrafos), utilice el Resumen de Especies Similares para resumir brevemente las cuestiones clave. No obstante, evite demasiadas repeticiones con Especies Similares.
 
-### [Especies similares]{style="color:blue;"} {#sec-app3-id-ss}
+### [Similar Species/Especies similares]{style="color:blue;"} {#sec-app3-id-ss}
 
 Resuma los principales puntos de identificación que distinguen a su especie de otras especies estrechamente emparentadas o similares. Cite cualquier artículo reciente en el que se exponga detalladamente cómo distinguir su especie de especies similares sobre el terreno, pero en principio, no incluya referencias a guías de campo estándar. La identificación entre subespecies (o morfos, variantes, etc.) también puede incluirse brevemente aquí, aunque cualquier descripción detallada del aspecto de las subespecies debe incluirse en la sección Subespecies de la página Sistemática. Esta sección debe ser concisa. Las descripciones detalladas de tamaño, color, etc., se incluirán en otras secciones. No se necesitan subsecciones para esta sección.
 
-## [PLUMAJES, MUDAS Y ESTRUCTURA]{style="color:purple;"} {#sec-app3-plumages}
+## [PLUMAGES, MOLTS, AND STRUCTURE/PLUMAJES, MUDAS Y ESTRUCTURA]{style="color:purple;"} {#sec-app3-plumages}
 
-### [Plumajes]{style="color:blue;"} {#sec-app3-plumages-plumages}
+### [Plumages/Plumajes]{style="color:blue;"} {#sec-app3-plumages-plumages}
 
 Aquí se describen los detalles de cada plumaje por edad y estación. Base su descripción en una subespecie, normalmente la subespecie nominal, o la subespecie más extendida si no hay suficiente información para la nominal. La variación entre subespecies debe limitarse a la sección Variación geográfica de la página Sistemática. Indique si las descripciones del plumaje se aplican a todas las poblaciones (por ejemplo, para las especies monotípicas o aquellas en las que las subespecies no varían mucho en el aspecto del plumaje). Si procede, incluya un análisis de los distintos morfos. Incluya la frase siguiente en todos las fichas: "Véase Mudas para la terminología sobre mudas y plumaje".
 
@@ -56,7 +56,7 @@ Intente utilizar términos de color sencillos y de uso extendido, como "marrón 
 
 La Biblioteca Macaulay puede utilizarse ampliamente para describir plumajes, especialmente cuando no existen otras descripciones (por ejemplo, para muchas especies no norteamericanas). Se pueden establecer filtros para "Juvenil", "Inmaduro" y meses del año para describir plumajes básicos y alternativos, y para "volar" para buscar imágenes de las coberteras superiores e inferiores abiertas y de las plumas de vuelo. En general, es mejor ordenar las imágenes por "Mejor calidad" para encontrar las mejores imágenes en las que basar las descripciones.
 
-### [Mudas]{style="color:blue;"} {#sec-app3-plumages-molts}
+### [Molts/Mudas]{style="color:blue;"} {#sec-app3-plumages-molts}
 
 Debe resumir brevemente cualquier variación relevante en las estrategias de muda dentro de la especie. Comience cada sección con un párrafo que describa la estrategia de muda y la terminología utilizada. Incluya la frase: "La terminología de muda y plumaje sigue a Humphrey y Parkes (enlace de referencia), modificada por Howell et al. (enlace de referencia)"; véanse las referencias en las fichas de ejemplo. Luego indique qué estrategia de muda se sigue con una frase como "XXX exhibe una Estrategia Alternativa Compleja (cf. enlaces de referencia), incluyendo mudas prebásicas completas, una muda preformativa parcial a incompleta, y mudas prealternas ausentes a limitadas en ambos grupos de edad (enlaces a citas específicas sobre muda y al diagrama de la carta de muda)". De nuevo, véanse los ejemplos para una redacción diferente. Indique aquí si existe alguna variación geográfica en las estrategias de muda. Generalmente, las estrategias no diferirán, pero el momento y la extensión de las mudas pueden diferir, especialmente para especies con una amplia ocurrencia latitudinal (por ejemplo, poblaciones templadas del norte, tropicales y templadas del sur). Indique si hay alguna variación específica del sexo en las mudas; esto es raro pero ocurre en algunas especies, como las aves acuáticas con plumajes alternos.
 
@@ -64,18 +64,18 @@ Las subsecciones siguen las presentadas en Plumajes e incluyen (en el mismo orde
 
 En cada epígrafe, describa el alcance de la muda como uno o más de los siguientes: "ausente" si ninguna pluma puede ser reemplazada en algunos individuos; "limitada" si algunas pero no todas las plumas del cuerpo son reemplazadas; "parcial" si la mayoría o todas las plumas del cuerpo, algunas o todas las coberteras supra-alares, y a menudo 1-3 terciarias y/o 1-2 rectrices centrales son reemplazadas; "incompleta" si algunas pero no todas las primarias, secundarias distintas de las terciarias, y/o rectrices distintas del par central son reemplazadas; o "completa" si todas las plumas son reemplazadas. A menudo se necesita más de una categoría para describir las mudas, por ejemplo, mudas prealternas que son "ausentes a limitadas", mudas preformativas que son "parciales a incompletas", o mudas prebásicas que son "incompletas a completas" (por ejemplo, para especies con patrones de Staffelmauser). A continuación, indique el momento (si se conoce) y dé detalles sobre la variación en la extensión, incluyendo cuántas coberteras alares o plumas de vuelo pueden ser reemplazadas (de nuevo, si se conoce). Para las especies fuera de Norteamérica o Europa, la referencia a las imágenes de la Macaulay Library a menudo puede ayudar a determinar esto cuando la extensión de la muda no se describe en la literatura. Bajo Muda Prebásica Definitiva, describa la secuencia en la cual las plumas de vuelo son reemplazadas, a menudo algo como "Las primarias son reemplazadas distalmente desde p1 hasta p10, las secundarias bilateralmente desde el segundo tercio y proximalmente desde s1, y las rectrices generalmente distalmente a cada lado de la cola, aunque pueden ocurrir excepciones". Estas secuencias tienden a ser muy fijas dentro de las familias de aves y se puede suponer que siguen para las especies en las que se desconocen. No utilice los términos "descendente", "ascendente", "centrífuga" o "centrípeta" para describir las secuencias de muda. Resuma el calendario y el alcance de las mudas en el diagrama del ciclo anual (comunique al personal de BOW si desea crear o introducir cambios en esta figura).
 
-### [Partes descubiertas]{style="color:blue;"} {#sec-app3-plumages-bare}
+### [Bare Parts/Partes descubiertas]{style="color:blue;"} {#sec-app3-plumages-bare}
 
 Describa la coloración, el tamaño y la forma de estas partes desde el nido hasta la edad adulta, relacionando los cambios con la edad. En general, es mejor describir la edad en términos de meses que de plumajes, ya que el cambio de plumaje es independiente del cambio de color de las partes desnudas. Describa el desarrollo progresivo o estacional de estructuras como las crestas oculares de algunos urogallos y las placas del pico de los procelariformes y frailecillos. Indique los colores de aves vivas o recién muertas, ya sea a partir de la observación directa o de notas en las etiquetas de los especímenes. No se fíe necesariamente de las pieles de museo o de las fotografías en color para conocer las sutilezas del color.
 
-### [Medidas]{style="color:blue;"} {#sec-app3-plumages-measurements}
+### [Measurements/Medidas]{style="color:blue;"} {#sec-app3-plumages-measurements}
 
 Utiliza unidades métricas siempre que sea posible, y convierte los valores que no utilicen unidades métricas. Siga las instrucciones sobre estadísticas (véase [el Apéndice 4](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.39kk8xu)). En situaciones limitadas, pueden incluirse unidades imperiales junto con unidades métricas cuando resulte útil. Tanto para las medidas lineales como para las masas, enumere las medidas de las hembras antes que las de los machos. También puede presentarse la variación por edad, subespecie o región geográfica. Si es posible, comente la variación clinal o haga referencia a un artículo en el que se trate el tema.
 
 \
 Si realiza usted mismo las mediciones, asegúrese de hacerlo de acuerdo con las orientaciones normalizadas que figuran a continuación para que sean repetibles. Clasifique los datos por sexo, edad, población/subespecie o área geográfica cuando sea posible. Indique la media, la DE o SE y el intervalo cuando sea posible. Evite utilizar mediciones de guías de campo porque es probable que sean secundarias o inexactas. Si el método normal de medición de su especie difiere de los diagnósticos que figuran a continuación, siga el método utilizado normalmente, **pero especifique cuál es**. Si una fuente no especifica cómo se tomó una medida, indique que el método utilizado fue "no especificado".
 
-**Linear Measurements**
+**Linear Measurements/Medidadas lineales**
 
 Agrupe las medidas (en mm) en los siguientes epígrafes. En la mayoría de los casos, utilice encabezamientos en negrita y en línea, como los que se muestran a continuación (por ejemplo, en el caso de [*Tyrannus vociferans*](https://birdsoftheworld.org/bow/species/caskin/cur/appearance#meas)). Sin embargo, si se necesitan varios párrafos bajo cada encabezamiento, utilice el estilo de texto Encabezamiento 2 (para un ejemplo, véase [*Geositta rufipennis*](https://birdsoftheworld.org/bow/species/rubmin1/cur/appearance#meas)).
 
@@ -91,13 +91,13 @@ Agrupe las medidas (en mm) en los siguientes epígrafes. En la mayoría de los c
 
 Indique (o dé referencias de) otras medidas externas o internas de que pueda disponer, especialmente las que puedan ser útiles para la identificación de la especie, la edad o el sexo, por ejemplo, la envergadura, la anchura de las alas, la distancia entre la punta del ala plegada y la punta de la cola, la distancia entre la punta del ala plegada y la punta de las coberteras infracaudales o la distancia entre la punta del ala plegada y la punta de las rémiges secundarias. Inserte dichas medidas adicionales en un orden lógico entre los encabezamientos anteriores (por ejemplo, coloque "Longitud de la cabeza" antes de "Longitud del pico").
 
-**Mass**
+**Mass/Masa**
 
 Indique la masa total (en g), clasificada cuando sea posible por sexo, edad, época del año, reproducción, migración, población, subespecie, etc. Indique la localidad y las estadísticas básicas (media, DE o SE y rango). Si esta información existe, puede añadir masas de órganos internos publicadas.
 
-## [SISTEMÁTICA]{style="color:purple;"} {#sec-app3-systematics}
+## [SYSTEMATICS/SISTEMÁTICA]{style="color:purple;"} {#sec-app3-systematics}
 
-### [Historia de la sistemática]{style="color:blue;"} {#sec-app3-systematics-history}
+### [Systematics History/Historia de la sistemática]{style="color:blue;"} {#sec-app3-systematics-history}
 
 Esta sección debe tratar de abarcar la historia taxonómica de la especie, centrándose principalmente en las publicaciones desde el volumen correspondiente de la Lista de Peters, incluyendo cualquier discusión relevante sobre sinonímias o debates sobre la validez de los nombres científicos. Esta es también la sección en la que discutir cualquier dato que pueda entrar en conflicto con la taxonomía actual de la especie o del género, por ejemplo, para destacar investigaciones genéticas o de otro tipo que puedan, en el futuro, llevar a disposiciones diferentes. Mencione, cuando proceda, las discrepancias taxonómicas a nivel de especie entre las cuatro principales listas mundiales (las diferencias en el enfoque subespecífico deben incluirse en Subespecies, más adelante). Si la especie ha sido recientemente dividida o agrupada, esta es también la sección en la que se debe discutir brevemente de qué taxón/taxa fue dividida, o con qué taxón/taxa fue agrupada, así como cualquier dato relevante que haya llevado al cambio.
 
@@ -154,31 +154,31 @@ Sinónimos:\
 
 Los especímenes originales de Latham son muy raros en las colecciones ([31](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF200779)), y no se conoce la existencia del espécimen original de esta especie. Algunas fuentes han considerado que el nombre de Latham encajaba mejor con [*Anser brachyrhynchus*](https://birdsoftheworld.org/bow/species/pifgoo/cur/)) que con un ánsar careto (p. ej., [32](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF6716), [33](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF201590)), pero como señala Bourne ([34](https://birdsoftheworld.org/bow/species/taibeg1/cur/references#REF166350)) la ambigua descripción original de esta ave en Pennant va acompañada de una [figura](https://www.biodiversitylibrary.org/item/127014#page/234/mode/1up) inequívoca que representa un ánsar careto de Taiga.
 
-### [Variación geográfica]{style="color:blue;"} {#sec-app3-systematics-geographic}
+### [Geographic Variation/Variación geográfica]{style="color:blue;"} {#sec-app3-systematics-geographic}
 
 Resuma brevemente las tendencias en tamaño, color, vocalizaciones o cualquier otro rasgo que sea importante dentro de su especie. Esta sección debe ser sucinta, pero probablemente sea el mejor lugar para tratar cualquier componente geográfico del polimorfismo. Las descripciones detalladas del tamaño, el color, etc., se tratarán en otras secciones. Además de la variación en los rasgos físicos, la discusión de la variación genética intraespecífica, especialmente la variación no estrictamente relacionada con la divergencia entre subespecies, es apropiada para esta sección. Los ejemplos incluyen la discusión de estudios de flujo genético entre diferentes poblaciones a lo largo del área de distribución de una especie, la estructura genética no vinculada a las rupturas entre subespecies conocidas (por ejemplo, barreras biogeográficas importantes que podrían sugerir una diversidad críptica) y las metapoblaciones. Al resumir las tendencias en las características físicas y genéticas, mencione especialmente cualquier tendencia clinal notable en el área de distribución de una especie. Señale también las tendencias en la variación geográfica que no se correspondan con subespecies reconocidas, o los casos en los que las tendencias en un rasgo sean contrarias a las de otros rasgos. En los casos en que haya mucho material para discutir, puede ser útil subdividirlo mediante las subsecciones "Variación fenotípica" y "Variación genética".
 
-### [Subespecies]{style="color:blue;"} {#sec-app3-systematics-subspecies}
+### [Subspecies/Subespecies]{style="color:blue;"} {#sec-app3-systematics-subspecies}
 
 Enumere las subespecies reconocidas actualmente. Incluya la misma información (combinación original, autoridad, especímenes tipo, etc.) que para las especies monotípicas (véase más arriba) en la subsección Historia Sistemática para cada subespecie. Incluya también los mismos datos para los sinónimos, cuando proceda. Describa las áreas de distribución y las características distintivas generales. La subsección Resumen de identificación debe centrarse en las diferencias con la subespecie nominal o con taxones geográficamente próximos, pero en algunos casos puede resultar apropiado una mezcla de estos enfoques, o incluso uno completamente distinto. En cualquier caso, el objetivo es dilucidar sucintamente los caracteres que hacen que el taxón sea único. En algunos casos, puede ser necesario consultar las descripciones originales para obtener información, pero tenga en cuenta que las descripciones más antiguas (especialmente de 1800 y principios de 1900) se basaban a menudo en muy pocos especímenes (incluso de taxones de comparación), y los autores eran más propensos a reconocer variaciones relativamente triviales, lo que podría hacer que los caracteres utilizados en tales casos merezcan una advertencia. Señale las discrepancias y ofrezca su opinión sobre la validez de las subespecies, en caso de que tratamientos alternativos puedan ser más apropiados. En tales casos, informe también a Pamela Rasmussen (pcr44\@cornell.edu) de sus conclusiones para que el equipo de eBird/Clements Checklist pueda considerar la revisión de nuestro tratamiento.
 
-### [Especies emparentadas]{style="color:blue;"} {#sec-app3-systematics-related}
+### [Related Species/Especies emparentadas]{style="color:blue;"} {#sec-app3-systematics-related}
 
 Céntrese en los estudios basados en datos genéticos, dado que se han muestreado la mayoría de las especies ampliamente reconocidas, y sólo las especies más estrechamente relacionadas con su especie focal. Comente brevemente la solidez de las relaciones inferidas (por ejemplo, el número de muestras o loci analizados) y cualquier incertidumbre en los análisis sobre esas relaciones inferidas. En algunos casos, puede ser interesante contrastar brevemente los conocimientos actuales basados en la genética con las clasificaciones basadas en la morfología, cuando éstas difieran de forma especialmente dramática o cuando los datos genéticos no sean particularmente robustos. En general, sin embargo, la atención debe centrarse en estudios recientes que incorporen datos genéticos cuando estén disponibles. En general, no es necesario proporcionar una discusión más amplia de las relaciones a nivel de familia o incluso a nivel de género, especialmente para agrupaciones comparativamente grandes (más especiosas). Sin embargo, para los géneros o familias monoespecíficos, puede ser pertinente una breve exposición de los parientes conocidos más cercanos en otros géneros o familias, pero tenga en cuenta que nuestros textos a nivel de familia ya sirven para este propósito. En unos pocos casos, puede ser necesario discutir las relaciones sin el beneficio de los datos moleculares (por ejemplo, "12 especies de *Accipiter* permanecen sin analizar genéticamente"). Incluso en los casos en los que una especie concreta no ha sido muestreada genéticamente, puede suponerse que está muy estrechamente emparentada con una especie que sí lo ha sido; en este caso, conviene mencionar las relaciones genéticas de las especies que han sido muestreadas e indicar que se supone que la especie actual también forma parte de este grupo.
 
-### [Hibridación]{style="color:blue;"} {#sec-app3-systematics-hybrid}
+### [Hybridization/Hibridación]{style="color:blue;"} {#sec-app3-systematics-hybrid}
 
 Comente el grado de hibridación con otras especies, si se conoce. Si la hibridación con otras especies es frecuente, o si la especie forma una zona híbrida con otra especie, cite cualquier estudio pertinente que hable de esta hibridación, así como las marcas de campo pertinentes que identifiquen los híbridos.
 
-### [Fósiles]{style="color:blue;"} {#sec-app3-systematics-fossils}
+### [Fossils/Fósiles]{style="color:blue;"} {#sec-app3-systematics-fossils}
 
 Aunque esta sección puede estar en blanco o ser breve para algunas especies, debe incluirse siempre que sea posible para mostrar que la mayoría de las aves tienen una historia fósil importante. En muchos casos, no hay historia fósil para una especie en particular, pero puede haber datos fósiles para taxones extintos estrechamente relacionados que pueden representar un antepasado extinto de la especie actual, o incluso taxones cuyas identidades son ambiguas debido a material incompleto; también está bien incluir esto en esta sección. Por favor, aclare si se refiere a un fósil de la especie actual o a una especie parecida a la actual. Cuando describa el fósil, indique dónde se descubrió y de qué época procede (incluya el nombre de la época y el intervalo de fechas aproximado).
 
-## [DISTRIBUCIÓN]{style="color:purple;"} {#sec-app3-distribution}
+## [DISTRIBUTION/DISTRIBUCIÓN]{style="color:purple;"} {#sec-app3-distribution}
 
 No se limite a remitir al lector a su mapa de distribución, sino que describa la distribución geográfica actual de su especie en términos de límites estatales, provinciales y nacionales. Comente cualquier detalle significativo que no aparezca fácilmente en el mapa de distribución, en particular en relación con el área de reproducción (por ejemplo, "dentro del área de reproducción, la especie sólo se da en elevaciones superiores a..."). Consulte el [Apéndice 4](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.39kk8xu) para obtener orientación sobre el uso de mayúsculas en las regiones geográficas.
 
-### [Distribución (introducción)]{style="color:blue;"} {#sec-app3-distribution-intro}
+### [Distribution (introduction)/Distribución (introducción)]{style="color:blue;"} {#sec-app3-distribution-intro}
 
 Utilice las subsecciones de área de reproducción y área de no reproducción si son relevantes para su especie. Si no, simplemente cubra la información relevante sin usar una subsección o añada diferentes subsecciones que sean útiles.
 
@@ -200,7 +200,7 @@ Utilice las subsecciones de área de reproducción y área de no reproducción s
 
 **Casual.** La especie se ha registrado unas pocas veces dentro de un área designada, no lo suficiente como para constituir una presencia regular, pero lo suficiente como para sugerir que los registros posteriores no son improbables.
 
-**Breeding Range/Nonbreeding Range**
+**Breeding Range/Nonbreeding Range/Área de reproducción/Área de distribución no reproductora**
 
 Estas secciones deben proporcionar la mejor aproximación a la distribución de la especie en toda su área de distribución y a lo largo de la estación pertinente (es decir, reproductora o no reproductora). Puede que desee proporcionar una lista de descripciones detalladas por condado o estado (u otra subdivisión pertinente), o puede que prefiera resumir esta información. Cualquiera de los dos enfoques es adecuado. 
 
@@ -208,29 +208,29 @@ Su texto irá acompañado de un mapa (morado) del área de distribución general
 
 Siempre que sea posible, consulte los atlas de aves reproductoras u otros proyectos de distribución normalizados. Estas referencias contienen excelente información sobre el estado actual de reproducción, así como sobre los cambios históricos en la distribución. Cuando proceda, el Conteo Navideño de Aves puede ser útil para las áreas de distribución no reproductoras y la abundancia. Si desea incluir un enlace a estos atlas, utilice texto con hipervínculos, en lugar de incluir una URL en el texto.
 
-**Elevational Range**
+**Elevational Range/Rango de elevación**
 
 Indique la altitud (en metros sobre el nivel del mar) a la que se encuentra la especie. Incluya la variación geográfica y/o estacional en el rango de elevación si procede.
 
-**Introduced Range**
+**Introduced Range/Rango donde está introducida**
 
 Discutir la historia y la distribución de las introducciones de especies en las que se han establecido poblaciones.
 
-**Extralimital Records**
+**Extralimital Records/Registros fuera del límite de distribución**
 
 Notifique registros auténticos (con referencias) de presencia fuera del área de distribución normal. Se recomienda enlazar con la documentación a través de eBird o la Biblioteca Macaulay, siempre que sea posible.
 
-### [Cambios históricos en la distribución]{style="color:blue;"} {#sec-app3-distribution-historical}
+### [Historical Changes to the Distribution/Cambios históricos en la distribución]{style="color:blue;"} {#sec-app3-distribution-historical}
 
 Resuma cualquier ampliación o contracción significativa de la distribución y los factores causales de la misma.
 
-## [HÁBITAT]{style="color:purple;"} {#sec-app3-habitat}
+## [HABITAT/HÁBITAT]{style="color:purple;"} {#sec-app3-habitat}
 
-### [Hábitat (introducción)]{style="color:blue;"} {#sec-app3-habitat-intro}
+### [Habitat (introduction)/Hábitat (introducción)]{style="color:blue;"} {#sec-app3-habitat-intro}
 
 Un resumen general del hábitat de la especie y una breve mención de cualquier punto de especial interés. Evite las citas en esta sección.
 
-**Habitat Keywords**
+**Habitat Keywords/Palabras clave del habitat**
 
 En la medida de lo posible, enumere las categorías y subcategorías de hábitat utilizadas por la especie, tal y como las definen Campbell et al. (2021) en el libro Habitats of the World u otros libros de esa serie (descritos en @sec-app3-habitat-categories más abajo), de más a menos importantes. Enumere la categoría seguida de dos puntos y cualquier subcategoría aplicable. No incluya ningún otro texto en esta sección. El uso de estas categorías servirá de base para un próximo producto de datos BOW que contendrá información clave sobre todas las especies de aves y que será útil para análisis a gran escala. Por ejemplo:
 
@@ -238,7 +238,7 @@ Conifer forests: taiga (boreal forest), temperate conifer forest
 
 Temperate deciduous forests: temperate deciduous forest, temperate moist mixed forest
 
-### [Hábitat general]{style="color:blue;"} {#sec-app3-habitat-general}
+### [General Habitat/Hábitat general]{style="color:blue;"} {#sec-app3-habitat-general}
 
 **Para las especies residentes**, comience con una descripción general de su hábitat, y luego cubra detalles más específicos según sea necesario. Puede utilizar las categorías y subcategorías de hábitats definidas por Campbell et al. (2021) en el libro Habitats of the World (descritas en @sec-app3-habitat-categories más adelante). Si tiene acceso a una copia de este libro o de cualquiera de sus libros complementarios para continentes específicos, las categorías de hábitat a escala más fina que se discuten también podrían ser útiles, pero tenga en cuenta que la consulta de estos libros no es en absoluto obligatoria. Caracterice el hábitat en términos de su rango latitudinal y elevacional y sus límites climáticos, y describa la topografía, el sustrato y la vegetación (incluyendo las etapas de crecimiento y/o sucesión vegetal, las especies dominantes y su estado, y el espaciado). Si lo desea, puede ampliar la información más allá de las categorías indicadas a continuación.
 
@@ -248,15 +248,15 @@ Los detalles de los microhábitats funcionales, es decir, los lugares utilizados
 
 **Deje esta sección en blanco para las especies migratorias** (a menos que existan poblaciones no migratorias, que podrían tratarse aquí).
 
-### [Hábitat en rango reproductivo]{style="color:blue;"} {#sec-app3-habitat-breeding}
+### [Habitat in Breeding Range/Hábitat en rango reproductivo]{style="color:blue;"} {#sec-app3-habitat-breeding}
 
 **En el caso de las especies migratorias**, trate el hábitat o los hábitats como se indica más arriba en Hábitat general, en función de la zona de distribución estacional de la especie. Deje estas secciones en blanco para las especies residentes.
 
-### [Hábitat en migración]{style="color:blue;"} {#sec-app3-habitat-migration}
+### [Habitat in Migration/Hábitat en migración]{style="color:blue;"} {#sec-app3-habitat-migration}
 
 **En el caso de las especies migratorias**, trate el hábitat o los hábitats como se indica más arriba en Hábitat general, en función de la zona de distribución estacional de la especie. Deje estas secciones en blanco para las especies residentes.
 
-### [Hábitat en rango no reproductivo]{style="color:blue;"} {#sec-app3-habitat-nonbreeding}
+### [Habitat in Nonbreeding Range/Hábitat en rango no reproductivo]{style="color:blue;"} {#sec-app3-habitat-nonbreeding}
 
 **En el caso de las especies migratorias**, trate el hábitat o los hábitats como se indica más arriba en Hábitat general, en función de la zona de distribución estacional de la especie. Deje estas secciones en blanco para las especies residentes.
 
@@ -321,95 +321,95 @@ Categorías y subcategorías de hábitats definidas por Campbell et al. (2021) e
     -   **Cultivated lands:** areas in which humans produce crops
     -   **Human habitation:** areas directly inhabited by humans
 
-## [MOVIMIENTOS Y MIGRACIÓN]{style="color:purple;"} {#sec-app3-movements}
+## [MOVEMENTS AND MIGRATION/MOVIMIENTOS Y MIGRACIÓN]{style="color:purple;"} {#sec-app3-movements}
 
-### [Movimientos y migraciones (introducción)]{style="color:blue;"} {#sec-app3-movements-intro}
+### [Movements and Migration (introduction)/Movimientos y migraciones (introducción)]{style="color:blue;"} {#sec-app3-movements-intro}
 
 Breve descripción general de los movimientos anuales de la especie (o de la ausencia de ellos) y de cualquier aspecto que destaque. Evite las citas en esta sección.
 
-### [Dispersión y fidelidad al sitio]{style="color:blue;"} {#sec-app3-movements-dispersal}
+### [Disperal and Site Fidelity/Dispersión y fidelidad al sitio]{style="color:blue;"} {#sec-app3-movements-dispersal}
 
 Comunique todos los datos disponibles sobre la tendencia de un ave a ser fiel a un lugar o dispersiva. Las subsecciones se explican por sí mismas (véase [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)). Cualquier discusión sobre el tamaño del territorio o del área de distribución debe incluirse en la sección de métricas espaciales de la población.
 
-### [Movimientos no migratorios]{style="color:blue;"} {#sec-app3-movements-nomigratory}
+### [Nonmigratory Movements/Movimientos no migratorios]{style="color:blue;"} {#sec-app3-movements-nomigratory}
 
 Comente los desplazamientos de la especie que no se consideren migración o dispersión fuera de las zonas de cría (por ejemplo, desplazamientos nómadas o desplazamientos diarios para buscar alimento o posarse).  Pueden incluirse subapartados especialmente relevantes para la especie (por ejemplo, "Desplazamientos hacia y desde un dormidero comunitario").
 
-### [Visión general de la migración]{style="color:blue;"} {#sec-app3-movements-overview}
+### [Migration Overview/Visión general de la migración]{style="color:blue;"} {#sec-app3-movements-overview}
 
 Caracterice los movimientos estacionales de los individuos entre zonas geográficas y hábitats. Proporcione una visión general del comportamiento migratorio diferencial de las clases de edad y sexo en el tiempo y el espacio (debe proporcionar detalles en Calendario y rutas de migración, más abajo). Señale cualquier variación entre las poblaciones de su especie.
 
-### [Calendario y rutas de migración]{style="color:blue;"} {#sec-app3-movements-timing}
+### [Timing and Routes of Migration/Calendario y rutas de migración]{style="color:blue;"} {#sec-app3-movements-timing}
 
 Describa el calendario y las rutas de migración a una escala geográfica amplia, pero señale las diferencias conocidas entre las poblaciones. Remitir a obras regionales para obtener detalles y fechas representativas.
 
-### [Conducta migratoria]{style="color:blue;"} {#sec-app3-movements-behavior}
+### [Migratory Behavior/Conducta migratoria]{style="color:blue;"} {#sec-app3-movements-behavior}
 
 La sección anterior trataba del "dónde" y el "cuándo" de la migración; esta sección y la siguiente se refieren al "cómo" de la migración. Estas secciones variarán mucho de una ficha a otra, reflejando las diferencias en el conocimiento del comportamiento migratorio de las especies. Incluya información y referencias sobre temas como la hora habitual del día, la altitud y la velocidad de la migración; el método o métodos de orientación; las respuestas a las condiciones meteorológicas; y el grado de bandadas y formaciones de vuelo. Si alguno de estos temas se ha estudiado de forma intensiva en su especie, resuma los principales resultados y facilite referencias bibliográficas.
 
-### [Control y fisiología de la migración]{style="color:blue;"} {#sec-app3-movements-control}
+### [Control and Physiology of Migration/Control y fisiología de la migración]{style="color:blue;"} {#sec-app3-movements-control}
 
 Si se han estudiado en su especie, los temas a tratar incluyen la inquietud migratoria, la hiperfagia y la deposición de grasa, la respuesta al fotoperiodo y el papel de las hormonas. Mencione las variaciones conocidas entre poblaciones, sexos o clases de edad, pero consulte la bibliografía para más detalles. Incluya cualquier información que indique que el comportamiento migratorio es aprendido, por ejemplo, de los padres, o en gran medida innato.
 
-## [DIETA Y ALIMENTACIÓN]{style="color:purple;"} {#sec-app3-diet}
+## [DIET AND FORAGING/DIETA Y ALIMENTACIÓN]{style="color:purple;"} {#sec-app3-diet}
 
 Por lo general, trate una especie como un todo, pero señale las variaciones conocidas en función del sexo, la edad, la estación o la localidad. En el caso de las especies migratorias, haga un esfuerzo especial por facilitar información sobre los hábitos alimentarios en el área de distribución no reproductora, así como sobre los hábitos más conocidos en el área reproductora. Si las poblaciones o subespecies están muy separadas u ocupan entornos muy diferentes, puede ser mejor tratarlas por separado. Céntrese en esta sección en los hábitos alimentarios de los adultos, dejando los de las aves jóvenes (incluidos los elementos suministrados a las aves jóvenes por los adultos) para las secciones pertinentes de Breeding.
 
-### [Dieta y alimentación (introducción)]{style="color:blue;"} {#sec-app3-diet-intro}
+### [Diet and Foraging (introduction)/Dieta y alimentación (introducción)]{style="color:blue;"} {#sec-app3-diet-intro}
 
 Un resumen general de la biología de la especie en relación con la alimentación y una breve mención de cualquier punto especial. Evite las citas en esta sección.
 
-### [Alimentación]{style="color:blue;"} {#sec-app3-diet-feeding}
+### [Feeding/Alimentación]{style="color:blue;"} {#sec-app3-diet-feeding}
 
-**Microhabitat for Foraging**
+**Microhabitat for Foraging/Microhábitat para la alimentación**
 
 Esta subsección abarca el lugar donde se produce la búsqueda de alimento, incluidos los sustratos de los que se obtiene (por ejemplo, especies vegetales específicas o tipos de plantas y posición dentro de la vegetación, altura de búsqueda de alimento, tipo de sustrato, tipos de humedales, distancia de la orilla o profundidad del agua).
 
-**Food Capture and Consumption**
+**Food Capture and Consumption/Captación y consumo de alimentos**
 
 Esta subsección trata de cómo se obtiene y consume el alimento. Además del comportamiento en sí, indique lo siguiente si se conoce y es apropiado: momento del día para buscar alimento, porcentaje de tiempo dedicado a cada táctica de búsqueda durante la alimentación, cualquier adaptación anatómica o fisiológica específica para la alimentación, interacciones relacionadas con la alimentación (por ejemplo, caza cooperativa por parejas o bandadas, comensalismo o piratería) y capacidad para aprovechar oportunidades inusuales para alimentarse.
 
-### [Dieta]{style="color:blue;"} {#sec-app3-diet-diet}
+### [Diet/Dieta]{style="color:blue;"} {#sec-app3-diet-diet}
 
-**Major Food Items**
+**Major Food Items/Principales alimentos**
 
 Incluya un resumen de los tipos generales de alimentos ingeridos (añada el orden, la familia o el nombre científico, según proceda). Por ejemplo: "Dieta principalmente de insectos, especialmente saltamontes y grillos (Orthoptera), hormigas (Hymenoptera: Formicidae), saltahojas (Homoptera), chinches (Hemiptera), escarabajos (Coleoptera), así como arañas (Araneae)". Si la información está tomada de la bibliografía, cite los nombres tal como se publicaron originalmente y ponga entre corchetes las correcciones o revisiones necesarias. Indique el intervalo de tamaño (longitud o masa) de los artículos.
 
-**Quantitative Analysis**
+**Quantitative Analysis/Análisis cuantitativo**
 
 Resuma los estudios cuantitativos detallados para mostrar las proporciones de los diferentes tipos de alimentos en la dieta. Indique la naturaleza de los datos analizados (por ejemplo, observaciones de la alimentación, contenido del esófago o la molleja o egagrópilas) y el tamaño de la muestra. Prevenga el sesgo causado por la digestibilidad diferencial de los alimentos o la digestión postmortem y la acción bacteriana. Identifique el método o métodos utilizados para expresar las cantidades de alimentos (por ejemplo, porcentaje de volumen, frecuencia de aparición o masa \[húmeda o seca\] del total de alimentos ingeridos). Teniendo en ficha estas variables de metodología, informe de las diferencias publicadas en la composición de la dieta, pero sea prudente al compararlas.
 
-### [Selección y almacenamiento de alimentos]{style="color:blue;"} {#sec-app3-diet-storage}
+### [Food Selection and Storage/Selección y almacenamiento de alimentos]{style="color:blue;"} {#sec-app3-diet-storage}
 
 Comunique brevemente cualquier información sobre los sentidos del gusto y el olfato, el reconocimiento y la elección de alimentos, o el almacenamiento y la recuperación. Cite las referencias para más detalles. Puede colocar este material en la subsección Captación y consumo de alimentos (en Alimentación) si eso facilita la redacción.
 
-### [Nutrición y energética]{style="color:blue;"} {#sec-app3-diet-nutrition}
+### [Nutrition and Energetics/Nutrición y energética]{style="color:blue;"} {#sec-app3-diet-nutrition}
 
 Las necesidades nutricionales de las aves silvestres sólo se han estudiado en unas pocas especies, pero se incluye esta sección como recordatorio de un tema que merece atención. Indique, cuando sea posible, la ingesta alimentaria diaria y los valores nutricionales y calóricos de los alimentos. Exprese la importancia relativa de los distintos alimentos en función de la energía metabólica que proporcionan.
 
-### [Metabolismo y regulación de la temperatura]{style="color:blue;"} {#sec-app3-diet-metabolism}
+### [Metabolism and Temperature Regulation/Metabolismo y regulación de la temperatura]{style="color:blue;"} {#sec-app3-diet-metabolism}
 
 Resumir la bibliografía relativa a la tasa metabólica y la regulación de la temperatura por sexo, estación, edad y población cuando sea posible.
 
-### [Ingesta, egagrópilas y defecación]{style="color:blue;"} {#sec-app3-diet-drinking}
+### [Driking, Pellet Casting, and Defecation/Ingesta, egagrópilas y defecación]{style="color:blue;"} {#sec-app3-diet-drinking}
 
 Incluya una descripción de los aspectos inusuales o estudios cuantitativos de estos hábitos.
 
-## [SONIDOS Y CONDUCTA VOCAL]{style="color:purple;"} {#sec-app3-sounds}
+## [SOUNDS AND VOCAL BEHAVIOR/SONIDOS Y CONDUCTA VOCAL]{style="color:purple;"} {#sec-app3-sounds}
 
 Utilice los términos bioacústicos tal y como se definen en el Glosario ([Apéndice 6](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1302m92)) para evitar confusiones y errores. No utilice términos como "teléfono", "frase" o "sílaba" a menos que sea absolutamente necesario, en cuyo caso defínalos. La forma más sencilla de explicar lo que quiere decir es etiquetar las características en un espectrograma.
 
-### [Sonidos y conducta vocal (introducción)]{style="color:blue;"} {#sec-app3-sounds-intro}
+### [Sounds and Vocal Behavior (introduction)/Sonidos y conducta vocal (introducción)]{style="color:blue;"} {#sec-app3-sounds-intro}
 
 Un resumen general de la biología de la especie en relación con los sonidos y una breve mención de cualquier punto de especial interés. Evite las citas en esta sección.
 
-### [Vocalización]{style="color:blue;"} {#sec-app3-sounds-vocalizations}
+### [Vocalizations/Vocalización]{style="color:blue;"} {#sec-app3-sounds-vocalizations}
 
-**Vocal Development**
+**Vocal Development/Desarrollo vocal**
 
 Proporcione mediciones, espectrogramas sonoros y referencias para documentar los cambios relacionados con la edad y el aprendizaje vocal, si es posible.
 
-**Vocal Array**
+**Vocal Array/Conjunto vocal**
 
 Describa verbalmente los tipos de vocalización importantes (interpretación fonética en inglés) y proporcione mediciones (duración, tasas de repetición y cadencia) y espectrogramas si es posible. Si su especie tiene un gran repertorio vocal, no lo presente todo, pero elija los sonidos más frecuentes y significativos desde el punto de vista del comportamiento y cite las referencias. 
 
@@ -417,191 +417,191 @@ Esta sección variará considerablemente entre especies, reflejando las diferenc
 
 Si no existen distinciones entre cantos y llamadas en su especie, mencione cualquier ambigüedad en el uso de "canto" al hablar de las vocalizaciones.
 
-**Geographic Variation**
+**Geographic Variation/Variación geográfica**
 
 Describa la variación (o la falta de ella) en las vocalizaciones y/o en la respuesta a las vocalizaciones según la zona geográfica. 
 
-**Phenology**
+**Phenology/Fenología**
 
 Identifique las temporadas de mayor y menor vocalización, incluyendo cualquier actividad durante la migración y en las zonas no reproductivas. Si es posible, mencione cualquier variación en el patrón según la estación (incluyendo el rango de meses) o el contexto social. Si es posible, mencione cualquier variación en el número de tipos de canto por individuo según la edad, el individuo, la estación o la zona geográfica.
 
-**Daily Pattern of Vocalizing**
+**Daily Pattern of Vocalizing/Patrón diario de vocalización**
 
 Resuma el patrón de vocalización de la mañana a la noche.
 
-**Places of Vocalizing**
+**Places of Vocalizing/Lugares de vocalización**
 
 Caracterice el lugar o lugares de vocalización (por ejemplo, en el suelo, desde una percha elevada o en vuelo) y compárelos con los lugares utilizados para alimentarse o anidar. Resuma el patrón diario de actividad vocal.
 
-**Sex Differences**
+**Sex Differences/Diferencias entre sexos**
 
 Describe las diferencias entre las vocalizaciones de los machos y las hembras de tu especie. En una lista de cantos y llamadas, considere la posibilidad de clasificarlos por sexos. Anote el sexo de los cantantes (si se conoce) en los espectrogramas que presente.
 
-**Repertoire and Delivery of Songs**
+**Repertoire and Delivery of Songs/Repertorio y ejecución de canciones**
 
 Discuta el tamaño del repertorio de canto de cada ave. Discuta el patrón o patrones con los que se emiten los elementos de la canción. Por ejemplo, ¿el ave emite una serie de diferentes tipos de canto sin repetición, o el mismo tipo de canto se repite varias veces antes de que el ave cambie a un nuevo tipo de canto?
 
-**Social Context and Presumed Functions of Vocalizations**
+**Social Context and Presumed Functions of Vocalizations/Contexto social y supuestas funciones de las vocalizaciones**
 
 Para cada canto/llamada, indique su contexto social (presencia, estatus y actividad de otros individuos del mismo sexo, del sexo opuesto o de otra especie) y sus presuntas funciones, además de cualquier otra prueba de esa función. El hábitat, el comportamiento y el contexto social de un ave proporcionan a menudo pistas sobre las funciones de sus señales sonoras. Por lo tanto, conviene hacer breves generalizaciones sobre estas condiciones cuando sea razonable. Se puede encontrar mucha información de este tipo en las notas de campo que acompañan a las grabaciones sonoras.
 
 Evite la interpretación funcional y los nombres (por ejemplo, "llamada de cortejo") para los sonidos sin tener en ficha la calidad de las pruebas, y cite dichas pruebas. En particular, no asuma sin pruebas que un sonido determinado está implicado en la atracción de la pareja, la defensa territorial o ambas. Señale cualquier problema interesante para la investigación sobre las señales acústicas de su especie.
 
-### [Sonidos no vocales]{style="color:blue;"} {#sec-app3-sounds-nonvocal}
+### [Nonvocal Sounds/Sonidos no vocales]{style="color:blue;"} {#sec-app3-sounds-nonvocal}
 
 Los sonidos producidos por el pico, las patas, las alas o la cola deben tratarse de la misma manera general que las vocalizaciones, según proceda y exista información.
 
-## [CONDUCTA]{style="color:purple;"} {#sec-app3-behavior}
+## [BEHAVIOR/CONDUCTA]{style="color:purple;"} {#sec-app3-behavior}
 
 Esta página está organizada como un compromiso entre la serie tradicional de subsecciones separadas y el tratamiento exhaustivo que preferiría un conductista. Abarca la forma en que un ave se desplaza, cuida de sí misma e interactúa con otros individuos de la misma especie o de especies diferentes. Otros aspectos del comportamiento se tratan en las páginas sobre Migración, Alimentación y búsqueda de alimento, Sonidos, Reproducción y Demografía y poblaciones. En todas las secciones, procure progresar desde los patrones de acción hasta los niveles superiores de los patrones de comportamiento.
 
-### [Conducta (introducción)]{style="color:blue;"} {#sec-app3-behavior-intro}
+### [Behavior (introduction)/Conducta (introducción)]{style="color:blue;"} {#sec-app3-behavior-intro}
 
 Un resumen general de la biología de la especie en relación con el comportamiento y una breve mención de cualquier punto destacable. Evite las citas en esta sección.
 
-### [Locomoción]{style="color:blue;"} {#sec-app3-behavior-locomotion}
+### [Locomotion/Locomoción]{style="color:blue;"} {#sec-app3-behavior-locomotion}
 
 Describa los movimientos físicos, incluida la postura y los movimientos frecuentes como el balanceo de la cola. Mencione cualquier adaptación anatómica o fisiológica específica para la locomoción e indique cualquier medida de rendimiento (por ejemplo, velocidad de desplazamiento, número de aleteos por segundo, altitud de vuelo o profundidad y duración de la inmersión). Intente relacionar estas acciones con su contexto o factores de control y presuntas funciones. Señale las formas conocidas de variación, ya sean relacionadas con la edad, sexuales, estacionales o geográficas.
 
-### [Auto-mantenimiento]{style="color:blue;"} {#sec-app3-behavior-self}
+### [Self-Maintenance/Auto-mantenimiento]{style="color:blue;"} {#sec-app3-behavior-self}
 
 Describa lo que se sabe sobre cómo la especie mantiene su estado. Véase la lista de subsecciones en [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj). Utilice la terminología definida en el Glosario ([Apéndice 6](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1302m92)). Si la situación de su especie no se ajusta a ninguna de estas categorías, descríbala en lugar de basarse en etiquetas.
 
-### [Conducta agonística]{style="color:blue;"} {#sec-app3-behavior-agonistic}
+### [Agonistic Behavior/Conducta agonística]{style="color:blue;"} {#sec-app3-behavior-agonistic}
 
 Describa los comportamientos antagónicos de una especie hacia sus congéneres en el contexto de interacciones físicas, interacciones comunicativas o interacciones territoriales. El texto relativo a las interacciones territoriales debe hacer hincapié en el uso estacional y espacial del territorio, así como en la forma en que se anuncian los territorios (los detalles del canto, el tamborileo, etc., se tratan en Sonidos y comportamiento vocal). En la medida de lo posible, los autores deben incluir subsecciones en las que se describan los comportamientos tanto en el periodo reproductor como en el no reproductor.
 
-### [Conducta sexual]{style="color:blue;"} {#sec-app3-behavior-sexual}
+### [Sexual Behavior/Conducta sexual]{style="color:blue;"} {#sec-app3-behavior-sexual}
 
 Para todas las subsecciones enumeradas en [el Apéndice](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)2, utilice la terminología de los sistemas de apareamiento definida en el Glosario ([Apéndice 6](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1302m92)). Si la situación de su especie no se ajusta a ninguna de estas categorías, descríbala en lugar de basarse en etiquetas. Evite los términos "polygamy" y "promiscuous" -porque es ambiguo-. Señala si el sistema de apareamiento está influido por el hábitat en determinadas poblaciones.
 
-### [Comportamiento social e interespecífico]{style="color:blue;"} {#sec-app3-behavior-social}
+### [Social and Interspecific Behavior/Comportamiento social e interespecífico]{style="color:blue;"} {#sec-app3-behavior-social}
 
 Repase todas las subsecciones enumeradas en [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj). Sitúe su especie en un continuo que vaya de solitaria a muy gregaria, anotando las fluctuaciones estacionales, el tamaño aproximado de las agregaciones y la actividad de dichos grupos o bandadas.
 
-### [Depredación]{style="color:blue;"} {#sec-app3-behavior-predation}
+### [Predation/Depredación]{style="color:blue;"} {#sec-app3-behavior-predation}
 
 Escriba esta sección desde el punto de vista de su especie como presa, no como depredador. Este último tema se habrá tratado en la página Dieta y alimentación
 
-## [REPRODUCCIÓN]{style="color:purple;"} {#sec-app3-breeding}
+## [BREEDING/REPRODUCCIÓN]{style="color:purple;"} {#sec-app3-breeding}
 
 Para cada subsección, describa primero la condición típica, es decir, la que muestran aves experimentadas en la población mejor conocida. A continuación, informe de cualquier variación entre individuos, en reproductores más jóvenes o en otras poblaciones. Sin embargo, si las subespecies de su especie difieren en al menos varios aspectos importantes de su cría, puede ser más sensato tratarlas en secciones separadas y exhaustivas.
 
-### [Reproducción (introducción)]{style="color:blue;"} {#sec-app3-breeding-intro}
+### [Breeding (introduction)/Reproducción (introducción)]{style="color:blue;"} {#sec-app3-breeding-intro}
 
 Un resumen general de la biología reproductora de la especie y una breve mención de cualquier punto de especial interés. Evite las citas en esta sección.
 
-### [Fenología]{style="color:blue;"} {#sec-app3-breeding-phenology}
+### [Phenology/Fenología]{style="color:blue;"} {#sec-app3-breeding-phenology}
 
 Utilice las subsecciones sugeridas sólo si dispone de información suficiente para cada etapa del ciclo reproductor. En este apartado deben indicarse fechas representativas y otros datos, siempre que sea posible, mientras que el diagrama del ciclo anual muestra el patrón estacional de la reproducción en relación con la migración y la muda. El momento de la formación de la pareja y de la construcción del nido debe indicarse en el texto, pero suele omitirse en el diagrama porque no puede registrarse con tanta precisión como el de los sucesivos episodios reproductivos. Para algunas especies, incluso estos últimos son tan poco conocidos que sería inútil intentar incluirlos en el diagrama.
 
 Mencione lo que se sabe sobre los factores que controlan el momento de la reproducción en su especie. Indique cómo afectan las condiciones meteorológicas al crecimiento de la vegetación y a la disponibilidad de alimento y lugares de nidificación. No obstante, evite establecer correlaciones a partir de estudios que abarquen sólo unos pocos años, ya que la situación puede ser más compleja de lo que parece a primera vista.
 
-### [Sitios de nidificación]{style="color:blue;"} {#sec-app3-breeding-site}
+### [Nest Site/Sitios de nidificación]{style="color:blue;"} {#sec-app3-breeding-site}
 
 Las subsecciones incluyen el Proceso de selección (sólo conocido en raras ocasiones) y las Características del lugar. En este último caso, defina el entorno utilizado para la nidificación, incluidas las especies vegetales dominantes presentes, su tamaño (altura o diámetro y altura del pecho) y espaciado. Incluya detalles sobre la ubicación específica del nido en sí (por ejemplo, altura del nido, especies vegetales para la colocación del nido y ubicación específica), e indique las ubicaciones de los nidos que sean atípicas.
 
-### [Nidos]{style="color:blue;"} {#sec-app3-breeding-nest}
+### [Nest/Nidos]{style="color:blue;"} {#sec-app3-breeding-nest}
 
 Comience describiendo el tipo y la forma del nido. Describa cómo se construye el nido, cuánto tiempo lleva, de dónde se recoge el material para el nido y quién construye el nido. Si se trata de una especie que anida en cavidades, describa tanto el tamaño como la forma del orificio de entrada y/o del túnel y si se construye un nido adicional en la cavidad. Al hablar de los materiales utilizados para la construcción del nido, incluya los diferentes materiales utilizados para las diferentes partes del nido, así como los tamaños de los materiales si es relevante/conocido. Las dimensiones pueden incluir (pero no se limitan necesariamente a) las dimensiones exteriores e interiores del nido, la altura y la masa.
 
-### [Huevos]{style="color:blue;"} {#sec-app3-breeding-eggs}
+### [Eggs/Huevos]{style="color:blue;"} {#sec-app3-breeding-eggs}
 
 Comente cualquier adaptación o variación en la forma de los huevos. Si incluye datos sobre el tamaño/masa de los huevos o las puestas, indique los extremos de la variación normal, así como la(s) moda(s), si es posible. Mencione cualquier patrón conocido de variación asociado con la edad de la hembra, el momento estacional de la puesta o la posición del huevo en la puesta. Al igual que en el caso anterior, deben señalarse las variaciones geográficas o subespecíficas. Si puede dar mediciones del grosor de la cáscara de los huevos, incluya, si es posible, los años en que se pusieron los huevos, por si se adelgazaron por contaminantes ambientales. Para el tamaño de la puesta, indique la media, la DE o SE y el rango, recordando que el tamaño de la puesta se tratará con más detalle en Demografía y Poblaciones.
 
-### [Incubación]{style="color:blue;"} {#sec-app3-breeding-incubation}
+### [Incubation/Incubación]{style="color:blue;"} {#sec-app3-breeding-incubation}
 
 El periodo de incubación suele medirse como el tiempo en días (o en horas, cuando es posible) desde la puesta del último huevo hasta la eclosión del último huevo de la nidada. Indique si sus datos se miden de forma diferente. Indique el intervalo normal y señale cualquier patrón de variación.
 
-### [Eclosión]{style="color:blue;"} {#sec-app3-breeding-hatching}
+### [Hatching/Eclosión]{style="color:blue;"} {#sec-app3-breeding-hatching}
 
 Esta sección abarca el periodo que va desde justo antes hasta justo después de la eclosión de los huevos. Comente cualquier comportamiento o vocalización (de los polluelos o de los padres) que se produzca antes de la eclosión, el proceso de romper la cáscara y salir del huevo, si los huevos tienden a eclosionar de forma sincrónica o asincrónica (y durante cuánto tiempo), y si los padres prestan algún tipo de ayuda para la eclosión o se deshacen de las cáscaras de los huevos.
 
-### [Aves jóvenes]{style="color:blue;"} {#sec-app3-breeding-young}
+### [Young Birds/Aves jóvenes]{style="color:blue;"} {#sec-app3-breeding-young}
 
 Esta sección abarca la historia de las aves jóvenes desde la eclosión hasta que las plumas de vuelo juveniles están completamente desarrolladas ("volantón"; véase [el Apéndice 6](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.m4ljq1hoco40)), fase en la que las aves son capaces de volar. El tratamiento variará necesariamente porque las especies difieren en tres aspectos principales: cantidad de plumaje velloso al nacer (psilopédico/ptilopédico), duración de la estancia en el nido (nidícolo/nidífugo) y capacidad para desplazarse y encontrar su alimento poco después de nacer (altricial/precocial). Las condiciones a lo largo de estos ejes coinciden aproximadamente, pero existen numerosas excepciones entre los no paseriformes. Debido a estas discrepancias, no se base en los términos; en su lugar, describa las condiciones en su especie. En el caso de los pollos nidífugos, añada la subsección Salida del nido (enumerada en el [Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)bajo Etapa de volantón) en esta sección directamente después de Condición en el momento de la eclosión. Al describir el aspecto de las aves jóvenes, utilice la misma terminología para los plumajes, las partes del cuerpo y la pterilosis que para las aves de más edad. ¿Es críptico el patrón de coloración del plumón natal o del plumaje juvenil?
 
-### [Cuidado parental]{style="color:blue;"} {#sec-app3-breeding-parental}
+### [Parental Care/Cuidado parental]{style="color:blue;"} {#sec-app3-breeding-parental}
 
 Adapte esta sección en función de si las aves jóvenes son nidícolas o nidífugas. Anote cualquier variación diaria o estacional, así como la variación geográfica de las actividades.
 
-### [Cría cooperativa]{style="color:blue;"} {#sec-app3-breeding-cooperative}
+### [Cooperative Breeding/Cría cooperativa]{style="color:blue;"} {#sec-app3-breeding-cooperative}
 
 Si la especie se reproduce de forma cooperativa (es decir, más de dos individuos participan en el cuidado parental), aborde este comportamiento aquí. Describa a los miembros del grupo que ayudan con el cuidado de las crías, incluyendo su parentesco con los padres de las crías que se están criando (por ejemplo, crías anteriores de uno o ambos padres, otros parientes de los padres o no parientes), sus edades y los tipos de cuidados que proporcionan (por ejemplo, construcción del nido, incubación o alimentación de los polluelos). Indique la frecuencia de cría cooperativa en varias poblaciones (por ejemplo, porcentaje de parejas que tienen ayudantes) si se conoce. La nidificación en común (en la que más de una pareja se reproduce utilizando el mismo nido) debe considerarse un tipo de reproducción cooperativa.
 
-### [Parasitismo de cría]{style="color:blue;"} {#sec-app3-breeding-parasitism}
+### [Brood Parasitism/Parasitismo de cría]{style="color:blue;"} {#sec-app3-breeding-parasitism}
 
 Muchas especies de aves son objeto de parasitismo de cría, y algunas son ellas mismas parásitas de cría. Si procede, analice el parasitismo de las especies focales sobre sus congéneres y otras especies en las subsecciones pertinentes. La subsección Parasitismo de cría por otras especies debe tratar de las especies que parasitan a la especie focal (es decir, tratar de las situaciones en las que la especie focal es el huésped). ¿Cuáles son los principales parásitos de este hospedador, cómo reacciona el hospedador ante el parásito y cómo se ve afectado el hospedador por el parasitismo de cría? Para la subsección Éxito del parásito con este hospedador, intente dar el porcentaje de crías parasitadas que abandonan el nido.
 
-### [Etapa de volantones]{style="color:blue;"} {#sec-app3-breeding-fledgling}
+### [Fledgling Stage/Etapa de volantones]{style="color:blue;"} {#sec-app3-breeding-fledgling}
 
 Esta sección cubre el periodo desde la adquisición de las plumas de vuelo y la capacidad de volar hasta la independencia de los padres (y hasta el primer intento de cría si se dispone de dicha información). El tratamiento variará en función de si las aves jóvenes de su especie son nidífugas o nidícolas (por ejemplo, la subsección Salida del nido deberá indicarse en Aves jóvenes, y no aquí, para las especies nidífugas). Omita los siguientes temas porque han sido o serán incluidos en otra parte: plumajes y mudas, hábitos alimenticios, vocalizaciones y dispersión desde el lugar de nacimiento. La última subsección, Comportamiento después de la independencia, abarca el comportamiento de las aves en ese período descuidado pero crítico que va desde la obtención de la independencia hasta el primer intento de cría. Indique, si es posible, los hábitos diarios y el presupuesto de tiempo durante este periodo. Las descripciones del aspecto inmaduro deben ir en Plumajes. La supervivencia de estas aves debe tratarse en la página Demografía y poblaciones, en el apartado Duración de la vida y supervivencia.
 
-## [DEMOGRAFÍA Y POBLACIONES]{style="color:purple;"} {#sec-app3-demography}
+## [DEMOGRAPHY AND POPULATIONS/DEMOGRAFÍA Y POBLACIONES]{style="color:purple;"} {#sec-app3-demography}
 
-### [Demografía y poblaciones (introducción)]{style="color:blue;"} {#sec-app3-demography-intro}
+### [Demography and Populations (introduction)/Demografía y poblaciones (introducción)]{style="color:blue;"} {#sec-app3-demography-intro}
 
 Un resumen general de la información demográfica sobre la especie y una breve mención de cualquier punto de especial interés. Evite las citas en esta sección.
 
-### [Medidas de la actividad reproductiva]{style="color:blue;"} {#sec-app3-demography-measures}
+### [Measures of Breeding Activity/Medidas de la actividad reproductiva]{style="color:blue;"} {#sec-app3-demography-measures}
 
 Muchas medidas de éxito reproductor están mal definidas en la bibliografía. Por lo tanto, si presenta estos datos, le rogamos que utilice los términos del Glosario ([Apéndice 6](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1302m92)): éxito de eclosión, éxito de vuelo, éxito de nidificación y éxito reproductor anual. Si desea utilizar otros términos, en particular "éxito reproductor" y "éxito de nidificación", defínalos. Una medida del éxito reproductor que parece ser importante, pero de la que rara vez se informa, es la probabilidad de que una hembra críe una o más nidadas hasta la independencia o abandone el nido durante una temporada de cría. Este valor puede calcularse dividiendo el número de hembras con éxito (según la definición anterior) de una muestra de población por el número total de hembras reproductoras de la muestra. Si puede calcular este valor, proporcione, si es posible, una estimación de la varianza.
 
-### [Tiempo de vida y supervivencia]{style="color:blue;"} {#sec-app3-demography-life}
+### [Life Span and Survivorship/Tiempo de vida y supervivencia]{style="color:blue;"} {#sec-app3-demography-life}
 
 Asegúrese de que sólo comunica medidas sólidas de supervivencia (por ejemplo, marcaje-recaptura o recaptura por anillamiento, reavistamiento o recuperación). Salvo raras excepciones, las estimaciones de supervivencia basadas en cualquier método que no incorpore estos procedimientos estadísticos no son válidas porque no diferencian las probabilidades de avistamiento de las probabilidades de mortalidad y no tienen en ficha la variación anual de la supervivencia.
 
 Como mínimo, el colaborador debe indicar cómo se han calculado las tasas de supervivencia, pero sería mejor excluir los datos no válidos; ningún dato es siempre mejor que un dato erróneo. Incluso con estadísticas sólidas, algunas estimaciones tienen sus limitaciones. Por ejemplo, los datos de marcado y recaptura siempre confunden la emigración con la mortalidad. Por ello, siempre es necesario indicar cómo se han calculado las tasas.
 
-### [Patógenos y parásitos]{style="color:blue;"} {#sec-app3-demography-pathogens}
+### [Pathogens and Parasites/Patógenos y parásitos]{style="color:blue;"} {#sec-app3-demography-pathogens}
 
-**Pathogens**
+**Pathogens/Patógenos**
 
 Describa y comente los patógenos (es decir, los agentes causantes de enfermedades) que se sabe que afectan a la especie. Describa tanto el agente patógeno en sí como la enfermedad asociada a él. Si es posible, facilite datos sobre la incidencia de la infección. Incluya los parásitos patógenos en esta subsección y no en la subsección Parásitos. Si procede, hable también de los vectores de la enfermedad.
 
-**Parasites**
+**Parasites/Parásitos**
 
 Describa y comente los parásitos internos y externos de la especie, incluidos sus efectos sobre el hospedador, si se conocen. Si es posible, facilite datos sobre la incidencia de los parásitos.
 
-### [Causas de mortalidad]{style="color:blue;"} {#sec-app3-demography-mortality}
+### [Causes of Mortality/Causas de mortalidad]{style="color:blue;"} {#sec-app3-demography-mortality}
 
 Hable de las causas naturales de mortalidad en adultos y jóvenes, pero no repita la información de otras secciones, simplemente remita al lector a esas secciones.
 
-### [Métricas espaciales poblaciones]{style="color:blue;"} {#sec-app3-demography-spatial}
+### [Population Spatial Metrics/Métricas espaciales poblaciones]{style="color:blue;"} {#sec-app3-demography-spatial}
 
 En esta sección se deben discutir las métricas del espaciamiento, incluyendo la distancia individual, el tamaño del territorio, el tamaño del área de campeo y la densidad de población. La distancia individual puede incluir el espacio entre nidos, la distancia entre territorios, la distancia entre aves posadas o dentro de bandadas de forrajeo, etc. Véanse las definiciones en [el Apéndice 6](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1302m92)para las diferencias entre territorio y homerange. Los comportamientos territoriales deben incluirse en la página Comportamiento bajo Comportamiento agonístico. La densidad puede incluir medidas como el número de aves por hectárea, el número de aves por hora por red, etc.
 
-### [Estado de las poblaciones]{style="color:blue;"} {#sec-app3-demography-status}
+### [Population Status/Estado de las poblaciones]{style="color:blue;"} {#sec-app3-demography-status}
 
 A excepción de las especies poco conocidas que carecen de datos sobre el tamaño y las tendencias de la población, esta sección debe incluir las subsecciones Números y Tendencias. Para las cifras, facilite en la primera frase la estimación de población global publicada más reciente (con intervalo de confianza y años de estimación), seguida de las estimaciones para países, regiones o ecorregiones con poblaciones significativas (se prefieren las regiones ecológicas a las áreas más pequeñas definidas por fronteras políticas). Para las especies norteamericanas, consulte las [estimaciones de población del Observatorio de Aves de las Montañas Rocosas (Partners in Flight)](https://pif.birdconservancy.org/population-estimates-database/). A continuación, añada información sobre densidades o abundancia relativa dentro de los hábitats, recordando indicar la medida de densidad utilizada (por ejemplo, número de machos cantores o número de individuos). Presente los datos de los estudios del periodo reproductor antes que los de los periodos no reproductores. En la subsección Tendencias, facilite las estimaciones publicadas de los cambios de la población a lo largo del tiempo, incluyendo la estimación de la tendencia, el marco temporal (años) y el intervalo de confianza (si está disponible). Concentre los resultados de las tendencias en las zonas con poblaciones más numerosas y los datos más fiables.
 
-### [Regulación poblacional]{style="color:blue;"} {#sec-app3-demography-regulation}
+### [Population Regulation/Regulación poblacional]{style="color:blue;"} {#sec-app3-demography-regulation}
 
 Discuta aquí el impacto de los factores físicos, la competencia o la depredación en las poblaciones, señalando la variación geográfica cuando se conozca.
 
-## [CONSERVACIÓN Y MANEJO]{style="color:purple;"} {#sec-app3-conservation}
+## [CONSERVATION AND MANAGEMENT/CONSERVACIÓN Y MANEJO]{style="color:purple;"} {#sec-app3-conservation}
 
-### [Estado de conservación]{style="color:blue;"} {#sec-app3-conservation-status}
+### [Conservation Status/Estado de conservación]{style="color:blue;"} {#sec-app3-conservation-status}
 
 Divida la información de esta sección en Evaluación Global (es decir, por la Lista Roja de la UICN) y Evaluaciones Regionales (es decir, por países, estados, provincias, etc.). Incluya el estado de conservación de la especie y un resumen del estado y las tendencias de la población de la especie (remita al lector a la sección Estado de la población de la página Demografía y poblaciones para más detalles). Cuando sea posible, incluya una justificación del estado de conservación de la especie. Escriba los estados de conservación oficiales (por ejemplo, de la Lista Roja de la UICN) con cada palabra en mayúscula (por ejemplo, En Peligro Crítico, Preocupación Menor), y no utilice comillas.
 
-### [Efectos de la actividad humana]{style="color:blue;"} {#sec-app3-conservation-effects}
+### [Effects of Human Activity/Efectos de la actividad humana]{style="color:blue;"} {#sec-app3-conservation-effects}
 
 La mayoría de las subsecciones de esta sección (véase [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)) se explican por sí mismas. Si la presión de la caza humana tiene efectos sobre la población, hay que tratarlos en Caza, trampeo y capturas accesorias. Los aspectos económicos e impulsores de la caza humana, así como la caza a una escala lo suficientemente pequeña como para que no afecte a las poblaciones, deben tratarse en el apartado Importancia económica y utilitaria de la página Relación con los humanos. Las "colisiones" incluyen los choques contra faros y otros edificios altos, cables eléctricos, torres de televisión y ventanas, así como los atropellos por coches, aviones, barcos, etc. 
 
 Para cada subsección de la que se disponga de información, describa los lugares y épocas del año y la forma en que se produce la mortalidad, así como el número de individuos muertos, si se conoce. Si una subsección se ha tratado en otra sección, remita al lector allí y resuma brevemente, pero no repita, toda la información aquí.
 
-### [Manejo]{style="color:blue;"} {#sec-app3-conservation-management}
+### [Management/Manejo]{style="color:blue;"} {#sec-app3-conservation-management}
 
 La mayoría de las subsecciones (véase [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)) de esta sección se explican por sí mismas. Para las zonas de conservación, enumere y comente las zonas protegidas utilizadas por la especie. Si hay demasiadas zonas para enumerarlas todas, céntrese en las más grandes, importantes o relevantes. También puede comentar las zonas habitadas por la especie que aún no han sido protegidas pero que se beneficiarían de la protección.
 
-## [RELACIONES CON EL SER HUMANO]{style="color:purple;"} {#sec-app3-humans}
+## [RELATIONSHIP WITH HUMANS/RELACIONES CON EL SER HUMANO]{style="color:purple;"} {#sec-app3-humans}
 
-### [Relaciones con el ser humano (introducción)]{style="color:blue;"} {#sec-app3-humans-intro}
+### [Relationship with Humans (introduction)/Relaciones con el ser humano (introducción)]{style="color:blue;"} {#sec-app3-humans-intro}
 
 Resumen general de la relación de la especie con el ser humano y breve mención de cualquier punto destacable. Evite las citas en esta sección.
 
-### [Nombres vernaculares]{style="color:blue;"} {#sec-app3-humans-vernacular}
+### [Vernacular Names/Nombres vernaculares]{style="color:blue;"} {#sec-app3-humans-vernacular}
 
 Enumere los nombres vernaculares de una especie determinada que se utilizan en su área de distribución, ordenados alfabéticamente por idioma, y comente su etimología y uso. [Avibase](https://avibase.bsc-eoc.org/avibase.jsp?lang=EN)es un excelente punto de partida para buscar estos nombres. Mencione también otros nombres comunes utilizados con regularidad/ampliamente para la misma disposición taxonómica u otras disposiciones ampliamente reconocidas, por ejemplo, en guías de campo regionales y otras listas de control importantes. Uno de los principales objetivos debe ser eliminar la confusión en la mente de los lectores que se fomenta con el uso de diferentes nombres vernáculos. No es necesario proporcionar información relativa a la etimología de los nombres científicos, ya que la información del Dictionary of Scientific Bird Names de James Jobling está disponible haciendo clic en el icono "i" situado junto al nombre de la especie en la parte superior de la página.
 
@@ -609,56 +609,56 @@ Nota: No es necesario proveer información sobre la etimología del nombre cient
 
 Tenga en cuenta que en la ficha se proporciona una lista genérica de nombres comunes en otros idiomas en forma de ventana emergente en la página de Introducción (en "Nombres" junto al estado de conservación de la especie); sin embargo, no es exhaustiva ni necesariamente representativa de todos los nombres e idiomas relevantes dentro del área de distribución de la especie. El mantenimiento de esta lista corre a cargo del grupo local de eBird, por lo que cualquier propuesta de adición o modificación debe remitirse a dicho proyecto.
 
-### [Significado cultural, simbólico y estético]{style="color:blue;"} {#sec-app3-humans-cultural}
+### [Cultural, Symbolic, and Aesthetic Significance/Significado cultural, simbólico y estético]{style="color:blue;"} {#sec-app3-humans-cultural}
 
-**Early History**
+**Early History/Historia temprana**
 
 Describa cómo se ha registrado la especie en la historia de la humanidad, incluidas las pruebas arqueológicas de la interacción de la especie con los humanos antes de la historia registrada.
 
-**Presence in Folklore, Religion, and Symbolism**
+**Presence in Folklore, Religion, and Symbolism/Presencia en el folclore, la religión y el simbolismo**
 
 Hable de las apariciones de la especie en las religiones y el folclore de diferentes culturas y de los usos simbólicos de la especie (como su designación como ave nacional o su uso en una bandera).
 
-**Depictions in Media**
+**Depictions in Media/Representaciones en los medios de comunicación**
 
 Menciona las representaciones de la especie en los medios de comunicación, el arte, la literatura, estampas, etc., y el impacto social de esas representaciones.
 
-**Public Perception**
+**Public Perception/Percepción pública**
 
 Discutir la percepción pública general de la especie por parte de las comunidades en las que se da.
 
-### [Significado económico y utilitario]{style="color:blue;"} {#sec-app3-humans-economic}
+### [Economic and Utilitarian Significance/Significado económico y utilitario]{style="color:blue;"} {#sec-app3-humans-economic}
 
-**Use by Humans**
+**Use by Humans/Uso humano**
 
 Ejemplos de uso por parte de los seres humanos, incluidos tanto los que generalmente tienen un impacto negativo sobre la especie focal (por ejemplo, la captura, la puesta de huevos o el comercio de plumas) como los que pueden tener un impacto mixto o más positivo (por ejemplo, el turismo o, los comederos de aves). Céntrese en breves descripciones sobre la naturaleza y la historia del uso, incluida la normativa pertinente, el valor económico de ese uso y el contexto social y la percepción de ese uso. Discuta los impactos positivos o negativos relativos de ese uso sobre la especie focal. Los impactos sustanciales del uso a nivel poblacional pueden discutirse aquí pero, si son negativos, es mejor discutirlos en la página de Conservación y Gestión bajo Efectos de la Actividad Humana.
 
-**Harm Inflicted by Focal Species**
+**Harm Inflicted by Focal Species/Daños infligidos por especie focal**
 
 Discuta cualquier impacto social, medioambiental o económico negativo causado por la especie focal, por ejemplo, como plaga de cultivos, por colisiones con aeronaves o como especie invasora. Comente las medidas preventivas adoptadas contra tales efectos y sus repercusiones ecológicas y económicas.
 
-**Aviculture and Domestication**
+**Aviculture and Domestication/Avicultura y domesticación**
 
 Comente la presencia de esta especie en la avicultura, incluyendo su historia, el número de ejemplares que se crían, las regiones donde se crían, las poblaciones de origen y si está establecida la cría en cautividad. Si se trata de una especie domesticada, exponga brevemente el origen y el momento de la domesticación y los usos de las aves domésticas. No se deben incluir detalles sobre la cría.
 
-**Use as a Research Model**
+**Use as a Research Model/Utilización como modelo de investigación**
 
 Discuta la importancia de esta especie para la investigación científica más allá del estudio de la propia especie focal.
 
-## [PRIORIDADES PARA LA INVESTIGACIÓN FUTURA]{style="color:purple;"} {#sec-app3-priorities}
+## [PRIORITIES FOR FUTURE RESEARCH/PRIORIDADES PARA LA INVESTIGACIÓN FUTURA]{style="color:purple;"} {#sec-app3-priorities}
 
 Teniendo en ficha lo que sabe sobre su especie, resuma los aspectos de su biología que necesitan más estudio. Intente adoptar una perspectiva amplia en lugar de limitarse a las áreas en las que se ha centrado su propia investigación. Desde el punto de vista geográfico, ¿hay poblaciones de esta especie que se hayan descuidado? Ecológicamente, ¿hay datos que ayudarían a gestionarla mejor? ¿Qué aspectos clave de la biología de esta especie se han ignorado? Trate de limitar su discusión a 2 ó 3 párrafos, teniendo en ficha que las secciones anteriores pueden haber señalado áreas en las que faltan datos. Esta sección le da la oportunidad de resumir y discutir esas lagunas, señalando las áreas en las que los futuros investigadores deberían concentrar sus esfuerzos.
 
-## [OTROS]{style="color:purple;"} {#sec-app3-other}
+## [OTHER/OTROS]{style="color:purple;"} {#sec-app3-other}
 
 Comente aquí cualquier aspecto de su especie que no encaje convenientemente en otro lugar y que, sin embargo, contribuya al conocimiento total de la especie.
 
-## [AGRADECIMIENTOS]{style="color:purple;"} {#sec-app3-acknowledgments}
+## [ACKNOWLEDGMENTS/AGRADECIMIENTOS]{style="color:purple;"} {#sec-app3-acknowledgments}
 
 Mencione en un párrafo a las personas o instituciones que le hayan proporcionado datos inéditos, préstamo de especímenes, referencias, ayuda de campo o de laboratorio, instalaciones especiales o apoyo financiero. Si ha tomado prestados especímenes o ha recibido servicios de una institución, mencione a la institución y a la persona que se los ha prestado.
 
 **Nota:** Si es necesario, añada un párrafo separado para cada versión de la ficha y etiquételo como "**ficha revisada (año)**"**.**
 
-## [SOBRE LOS/LAS AUTORES/AS]{style="color:purple;"} {#sec-app3-authors}
+## [ABOUT THE AUTHOR(S)/SOBRE LOS/LAS AUTORES/AS]{style="color:purple;"} {#sec-app3-authors}
 
 Escriba una breve biografía (de un párrafo) de cada autor mencionado en la cita. La biografía debe escribirse en tercera persona. Si es posible, incluya al final una dirección de correo electrónico. Las direcciones postales no son necesarias, pero pueden utilizarse si no se dispone de correo electrónico. Procure actualizar las biografías de TODOS los autores que figuran en la cita, incluso de aquellos que no hayan contribuido a la versión más reciente de la ficha o hayan fallecido. Es posible que tenga que ponerse en contacto con los autores originales o con el personal de BOW para actualizar algunas biografías. Consulte ejemplos de fechas BOW publicados recientemente.

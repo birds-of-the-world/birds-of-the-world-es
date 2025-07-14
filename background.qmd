@@ -6,7 +6,7 @@ editor_options:
 
 # Información general {#sec-background .unnumbered}
 
-**Por favor, revise [el Apéndice 1](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.qsh70q)para conocer todas las políticas relativas a la autoría, conducta y contenido. Se supone que los colaboradores han leído y respetarán estas normas y que han firmado el [Acuerdo de Colaboración de BOW](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) antes de comenzar su revisión.**
+**Por favor, revise [**el Apéndice 1**](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.qsh70q) para conocer todas las políticas relativas a la autoría, conducta y contenido. Se supone que los colaboradores han leído y respetarán estas normas y que han firmado el [**Acuerdo de Colaboración de BOW**](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) antes de comenzar su revisión.**
 
 Los colaboradores de BOW no reciben compensación económica, aunque sí recibirán acceso gratuito a BOW de por vida. 
 

@@ -8,35 +8,35 @@ editor_options:
 
 A continuación se muestran las páginas (en morado), secciones (en azul) y subsecciones (en negro) que deberían aparecer en la mayoría o en todas las fichas, en el orden en que deberían aparecer. tenga en cuenta que, a medida que la ciencia ha evolucionado, hemos añadido nuevas secciones y subsecciones que nos gustaría que se incluyeran en todas las fichas. Los colaboradores deben utilizar la siguiente lista como guía sobre lo que deben incluir al completar una revisión, ya que la estructura de la ficha puede haber cambiado recientemente.
 
-Como se explica en la sección @sec-content-structure los colaboradores tienen cierta flexibilidad para incluir, o a veces excluir, determinadas subsecciones y, más raramente, secciones, en función de la biología de sus especies y de la información disponible. No obstante, debe respetarse el orden en que aparece el material a continuación. [En el Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.hjoo9cq14meu)se dan orientaciones sobre la información específica que debe figurar en las distintas páginas y secciones..
+Como se explica en la sección @sec-content-structure los colaboradores tienen cierta flexibilidad para incluir, o a veces excluir, determinadas subsecciones y, más raramente, secciones, en función de la biología de sus especies y de la información disponible. No obstante, debe respetarse el orden en que aparece el material a continuación. [En el Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.hjoo9cq14meu) se dan orientaciones sobre la información específica que debe figurar en las distintas páginas y secciones.
 
-## [INTRODUCCIÓN]{style="color:purple;"} {#sec-app2-intro}
+## [INTRODUCTION/INTRODUCCIÓN]{style="color:purple;"} {#sec-app2-intro}
 
-## [IDENTIFICACIÓN EN EL CAMPO]{style="color:purple;"} {#sec-app2-id}
+## [FIELD IDENTIFICATION/IDENTIFICACIÓN EN EL CAMPO]{style="color:purple;"} {#sec-app2-id}
 
 -   @sec-app3-id-intro
 -   @sec-app3-id-id
 -   @sec-app3-id-sssum
 -   @sec-app3-id-ss
 
-## [PLUMAJES, MUDAS Y ESTRUCTURA]{style="color:purple;"} {#sec-app2-plumages}
+## [PLUMAGES, MOLTS, AND STRUCTURE/PLUMAJES, MUDAS Y ESTRUCTURA]{style="color:purple;"} {#sec-app2-plumages}
 
 -   @sec-app3-plumages-plumages
-    -   Plumaje natal
-    -   Juvenil
-    -   Adultos
+    -   Natal Down/Plumaje natal
+    -   Juvenile/Juvenil
+    -   Adult/Adultos
 -   @sec-app3-plumages-molts
 -   @sec-app3-plumages-bare
-    -   Pico y comisura
-    -   Iris
-    -   Piel del rostro
-    -   Tarsos y dedos
+    -   Bill and Gape/Pico y comisura
+    -   Iris/Iris
+    -   Facial Skin/Piel del rostro
+    -   Tarsi and Toes/Tarsos y dedos
 -   @sec-app3-plumages-measurements
-    -   Medidas lineales
-    -   Masa
-    -   Superficie alar, relación de aspecto alar y carga alar
+    -   Linear Measurements/Medidas lineales
+    -   Mass/Masa
+    -   Wing Area, Wing Aspect Ratio, and Wing Loading/Superficie alar, relación de aspecto alar y carga alar
 
-## [SISTEMÁTICA]{style="color:purple;"} {#sec-app2-systematics}
+## [SYSTEMATICS/SISTEMÁTICA]{style="color:purple;"} {#sec-app2-systematics}
 
 -   @sec-app3-systematics-history
 -   @sec-app3-systematics-geographic
@@ -45,250 +45,238 @@ Como se explica en la sección @sec-content-structure los colaboradores tienen c
 -   @sec-app3-systematics-hybrid
 -   @sec-app3-systematics-fossils
 
-## [DISTRIBUCIÓN]{style="color:purple;"} {#sec-app2-distribution}
+## [DISTIBUTION/DISTRIBUCIÓN]{style="color:purple;"} {#sec-app2-distribution}
 
 -   @sec-app3-distribution-intro
-    -   Área de reproducción
-    -   Área de distribución no reproductora
-    -   Rango de elevación
-    -   Rango donde está introducida
-    -   Registros fuera del límite de distribución
+    -   Breeding Range/Área de reproducción
+    -   Nonbreeding Range/Área de distribución no reproductora
+    -   Elevational Range/Rango de elevación
+    -   Introduced Range/Rango donde está introducida
+    -   Extralimital Records/Registros fuera del límite de distribución
 -   @sec-app3-distribution-historical
 
-## [HÁBITAT]{style="color:purple;"} {#sec-app2-habitat}
+## [HABITAT/HÁBITAT]{style="color:purple;"} {#sec-app2-habitat}
 
 -   @sec-app3-habitat-intro
-    -   Palabras clave del Habitat
+    -   Habitat Keywords/Palabras clave del habitat
 -   @sec-app3-habitat-general
 -   @sec-app3-habitat-breeding
 -   @sec-app3-habitat-migration
 -   @sec-app3-habitat-nonbreeding
 
-## [MOVIMIENTOS Y MIGRACIÓN]{style="color:purple;"} {#sec-app2-movements}
+## [MOVEMENTS AND MIGRATION/MOVIMIENTOS Y MIGRACIÓN]{style="color:purple;"} {#sec-app2-movements}
 
 -   @sec-app3-movements-intro
 -   @sec-app3-movements-dispersal
-    -   Filopatría natal y dispersión
-    -   Fidelidad de los adultos al lugar de cría y dispersión
-    -   Fidelidad al área de campeo no reproductora
+    -   Natal Philopatry and Dispersal/Filopatría natal y dispersión
+    -   Adult Fidelity to Breeding Site and Dispersal/Fidelidad de los adultos al lugar de cría y dispersión
+    -   Fidelity to Nonbreeding Home Range/Fidelidad al área de campeo no reproductora
 -   @sec-app3-movements-nomigratory
 -   @sec-app3-movements-overview
 -   @sec-app3-movements-timing
-    -   Post-reproductivos
-    -   Pre-reproductivos
+    -   Postbreeding/Post-reproductivos
+    -   Prebreeding/Pre-reproductivos
 -   @sec-app3-movements-behavior
-    -   Momento diario de la migración
-    -   Fidelidad a las rutas migratorias 
-    -   Fidelidad a las escalas migratorias
-    -   Comportamiento durante la parada
-    -   Duración de la escala
-    -   Duración del periodo migratorio
+    -   Daily Timing of Migration/Momento diario de la migración
+    -   Fidelity to Migratory Routes/Fidelidad a las rutas migratorias 
+    -   Fidelity to Stopover Sites/Fidelidad a las escalas migratorias
+    -   Movement During Stopover/Comportamiento durante la parada
+    -   Duration of Stopover Period/Duración de la escala
+    -   Duration of Migratory Period/Duración del periodo migratorio
 -   @sec-app3-movements-control
 
-## [DIETA Y ALIMENTACIÓN]{style="color:purple;"} {#sec-app2-diet}
+## [DIET AND FORAGING/DIETA Y ALIMENTACIÓN]{style="color:purple;"} {#sec-app2-diet}
 
 -   @sec-app3-diet-intro
 -   @sec-app3-diet-feeding
-    -   Microhábitat para la alimentación
-    -   Captación y consumo de alimentos
+    -   Microhabitat for Foraging/Microhábitat para la alimentación
+    -   Food Capture and Consumption/Captación y consumo de alimentos
 -   @sec-app3-diet-diet
-    -   Principales alimentos
-    -   Análisis cuantitativo
+    -   Major Food Items/Principales alimentos
+    -   Quantitative Analysis/Análisis cuantitativo
 -   @sec-app3-diet-storage
 -   @sec-app3-diet-nutrition
 -   @sec-app3-diet-metabolism
 -   @sec-app3-diet-drinking
 
-## [SONIDOS Y CONDUCTA VOCAL]{style="color:purple;"} {#sec-app2-sounds}
+## [SOUNDS AND VOCAL BEHAVIOR/SONIDOS Y CONDUCTA VOCAL]{style="color:purple;"} {#sec-app2-sounds}
 
 -   @sec-app3-sounds-intro
 -   @sec-app3-sounds-vocalizations
-    -   Desarrollo vocal
-
-    -   Conjunto vocal
-
-        ```         
-        Cantos
-
-        Llamadas
-        ```
-
-    -   Variación geográfica
-
-    -   Fenología
-
-    -   Patrón diario de vocalización
-
-    -   Lugares de vocalización
-
-    -   Diferencias entre sexos
-
-    -   Repertorio y ejecución de canciones
-
-    -   Contexto social y supuestas funciones de las vocalizaciones
+    -   Vocal Development/Desarrollo vocal
+    -   Vocal Array/Conjunto vocal
+        -   Songs/Cantos
+        -   Calls/Lllamadas
+    -   Geographic Variation/Variación geográfica
+    -   Phenology/Fenología
+    -   Daily Pattern of Vocalizing/Patrón diario de vocalización
+    -   Places of Vocalizing/Lugares de vocalización
+    -   Sex Differences/Diferencias entre sexos
+    -   Repertoire and Delivery of Songs/Repertorio y ejecución de canciones
+    -   Social Context and Presumed Functions of Vocalizations/Contexto social y supuestas funciones de las vocalizaciones
 -   @sec-app3-sounds-nonvocal
 
-## [CONDUCTA]{style="color:purple;"} {#sec-app2-behavior}
+## [BEHAVIOR/CONDUCTA]{style="color:purple;"} {#sec-app2-behavior}
 
 -   @sec-app3-behavior-intro
 -   @sec-app3-behavior-locomotion
-    -   Postura y movimientos corporales
-    -   Caminar, correr, saltar y trepar
-    -   Vuelo
-    -   Natación y buceo
+    -   Posture and Body Movements/Postura y movimientos corporales
+    -   Walking, Running, Hopping, and Climbing/Caminar, correr, saltar y trepar
+    -   Flight/Vuelo
+    -   Swimming and Diving/Natación y buceo
 -   @sec-app3-behavior-self
-    -   Acicalarse, rascarse la cabeza, estirarse, tomar el sol, bañarse y hormiguear
-    -   Descanso y sueño
-    -   Presupuesto diario
+    -   Preening, Head Scratching, Stretching, Sunbathing, Bathing, and Anting/Acicalarse, rascarse la cabeza, estirarse, tomar el sol, bañarse y hormiguear
+    -   Roosting and Sleeping/Descanso y sueño
+    -   Daily Time Budget/Presupuesto diario
 -   @sec-app3-behavior-agonistic
-    -   Interacciones físicas y comunicativas
-    -   Comportamiento territorial
+    -   Physical and Communicative Interactions/Interacciones físicas y comunicativas
+    -   Territorial Behavior/Comportamiento territorial
 -   @sec-app3-behavior-sexual
-    -   Sistema de apareamiento y proporción de sexos operativos
-    -   Cortejo, cópula y vínculo de pareja
-    -   Comportamiento de apareamiento extrapareja/Paternidad
+    -   Mating System and Operational Sex Ratio/Sistema de apareamiento y proporción de sexos operativos
+    -   Courtship, Copulation, and Pair Bond/Cortejo, cópula y vínculo de pareja
+    -   Extrapair Mating Behavior/Paternity/Comportamiento de apareamiento extrapareja/paternidad
 -   @sec-app3-behavior-social
-    -   Grado de socialidad
-    -   Juego
-    -   Interacciones interespecíficas no depredadoras
+    -   Degree of Sociality/Grado de socialidad
+    -   Play/Juego
+    -   Nonpredatory Interspecific Interactions/Interacciones interespecíficas no depredadoras
 -   @sec-app3-behavior-predation
-    -   Tipos de depredadores
-    -   Forma de depredación
-    -   Respuesta a los depredadores
+    -   Types of Predators/Tipos de depredadores
+    -   Manner of Depredation/Forma de depredación
+    -   Response to Predators/Respuesta a los depredadores
 
-## [REPRODUCCIÓN]{style="color:purple;"} {#sec-app2-breeding}
+## [BREEDING/REPRODUCCIÓN]{style="color:purple;"} {#sec-app2-breeding}
 
 -   @sec-app3-breeding-intro
 -   @sec-app3-breeding-phenology
-    -   Formación de parejas
-    -   Construcción de nidos 
-    -   Primera nidada
-    -   Segunda nidada
+    -   Pair Formation/Formación de parejas
+    -   Nest Building/Construcción de nidos 
+    -   First Brood/Primera nidada
+    -   Second/Later Broods/Segunda nidada
 -   @sec-app3-breeding-site
-    -   Proceso de selección
-    -   Características del sitio
+    -   Selection Process/Proceso de selección
+    -   Site Characteristics/Características del sitio
 -   @sec-app3-breeding-nest
-    -   Proceso de construcción
-    -   Estructura y composición 
-    -   Dimensiones
-    -   Microclima
-    -   Mantenimiento o reutilización de nidos
-    -   Nidos no reproductores
+    -   Construction Process/Proceso de construcción
+    -   Structure and Composition/Estructura y composición 
+    -   Dimensions/Dimensiones
+    -   Microclimate/Microclima
+    -   Maintenance or Reuse of Nests/Mantenimiento o reutilización de nidos
+    -   Nonbreeding Nests/Nidos no reproductores
 -   @sec-app3-breeding-eggs
-    -   Forma
-    -   Tamaño
-    -   Masa
-    -   Espesor de la cáscara de huevo 
-    -   Color y textura de la superficie
-    -   Tamaño de la nidada
-    -   Puesta de huevos
+    -   Shape/Forma
+    -   Size/Tamaño
+    -   Mass/Masa
+    -   Eggshell Thickness/Espesor de la cáscara de huevo 
+    -   Color and Surface Texture/Color y textura de la superficie
+    -   Clutch Size/Tamaño de la nidada
+    -   Egg Laying/Puesta de huevos
 -   @sec-app3-breeding-incubation
-    -   Inicio de la cría e incubación en relación con la puesta
-    -   Parches de incubación 
-    -   Periodo de incubación 
-    -   Comportamiento de los padres 
-    -   Resistencia de los huevos al estrés térmico
+    -   Onset of Broodiness and Incubation in Relation to Laying/Inicio de la cría e incubación en relación con la puesta
+    -   Incubation Patches/Parches de incubación 
+    -   Incubation Period/Periodo de incubación 
+    -   Parental Behavior/Comportamiento de los padres 
+    -   Hardiness of Eggs Against Temperature Stress/Resistencia de los huevos al estrés térmico
 -   @sec-app3-breeding-hatching
-    -   Actos Preliminares y Vocalizaciones
-    -   Rotura y aparición del caparazón
-    -   Sincronía de eclosión
-    -   Asistencia parental y eliminación de cáscaras de huevo
+    -   Preliminary Events and Vocalizations/Actos Preliminares y Vocalizaciones
+    -   Shell Breaking and Emergence/Rotura y aparición del caparazón
+    -   Hatching Synchrony/Sincronía de eclosión
+    -   Parental Assistance and Disposal of Eggshells/Asistencia parental y eliminación de cáscaras de huevo
 -   @sec-app3-breeding-young
-    -   Estado en el momento de la eclosión
-    -   Crecimiento y desarrollo
-    -   Proporciones y asignación por sexo
+    -   Condition at Hatching/Estado en el momento de la eclosión
+    -   Growth and Development/Crecimiento y desarrollo
+    -   Sex Ratios and Sex Allocation/Proporciones y asignación por sexo
 -   @sec-app3-breeding-parental
-    -   Cría
-    -   Alimentación
-    -   Saneamiento de nidos
-    -   Defensa del nido
-    -   Transporte de huevos o crías
+    -   Brooding/Cría
+    -   Feeding/Alimentación
+    -   Nest Sanitation/Saneamiento de nidos
+    -   Nest Defense/Defensa del nido
+    -   Carrying of Eggs or Young/Transporte de huevos o crías
 -   @sec-app3-breeding-cooperative
 -   @sec-app3-breeding-parasitism
-    -   Parasitismo de crías de congéneres
-    -   Parasitismo de cría de otras especies
-    -   Parasitismo de cría por otras especies
-        -   Identidad de la especie parasitaria
-        -   Frecuencia de aparición
-        -   Variación estacional o geográfica
-        -   Momento de la colocación en relación con la colocación del anfitrión
-        -   Respuesta a hembras, huevos o polluelos parasitados
-        -   Efectos del parasitismo en el hospedador
-        -   Éxito del parásito con este huésped
+    -   Brood Parasitism of Conspecifics/Parasitismo de crías de congéneres
+    -   Brood Parasitism of Other Species/Parasitismo de cría de otras especies
+    -   Brood Parasitism by Other Species/Parasitismo de cría por otras especies
+        -   Identity of the Parasitic Species/Identidad de la especie parasitaria
+        -   Frequency of Occurrence/Frecuencia de aparición
+        -   Seasonal or Geographic Variation/Variación estacional o geográfica
+        -   Timing of Laying in Relation to Host's Laying/Momento de la colocación en relación con la colocación del anfitrión
+        -   Response to Parasitic Female, Eggs, or Nestlings/Respuesta a hembras, huevos o polluelos parasitados
+        -   Effects of Parasitism on Host/Efectos del parasitismo en el hospedador
+        -   Success of Parasite with This Host/Éxito del parásito con este huésped
 -   @sec-app3-breeding-fledgling
-    -   Salida del nido
-    -   Crecimiento 
-    -   Asociación con padres u otros jóvenes
-    -   Capacidad para desplazarse, alimentarse y cuidar de sí mismo
-    -   Comportamiento tras la independencia
+    -   Departure from the Nest/Salida del nido
+    -   Growth/Crecimiento 
+    -   Association with Parents or Other Young/Asociación con padres u otros jóvenes
+    -   Ability to Get Around, Feed, and Care for Self/Capacidad para desplazarse, alimentarse y cuidar de sí mismo
+    -   Behavior After Independence/Comportamiento tras la independencia
 
-## [DEMOGRAFÍA Y POBLACIONES]{style="color:purple;"} {#sec-app2-demography}
+## [DEMOGRAPHY AND POPULATIONS/DEMOGRAFÍA Y POBLACIONES]{style="color:purple;"} {#sec-app2-demography}
 
 -   @sec-app3-demography-intro
 -   @sec-app3-demography-measures
-    -   Edad de la primera cría
-    -   Intervalos entre crías
-    -   Tamaño de la puesta y número de puestas por temporada
-    -   Éxito reproductivo anual y vitalicio 
-    -   Número de crías criadas normalmente por temporada 
-    -   Proporción del total de hembras que crían al menos una cría hasta la salida del nido
+    -   Age at First Breeding/Edad de la primera cría
+    -   Intervals Between Breeding/Intervalos entre crías
+    -   Clutch Size and Number of Clutches per Season/Tamaño de la puesta y número de puestas por temporada
+    -   Annual and Lifetime Reproductive Success/Éxito reproductivo anual y vitalicio 
+    -   Number of Broods Normally Reared per Season/Número de crías criadas normalmente por temporada 
+    -   Proportion of Total Females That Rear at Least One Brood to Nest Leaving/Proporción del total de hembras que crían al menos una cría hasta la salida del nido
 -   @sec-app3-demography-life
 -   @sec-app3-demography-pathogens
-    -   Patógenos
-    -   Parásitos
+    -   Pathogens/Patógenos
+    -   Parasites/Parásitos
 -   @sec-app3-demography-mortality
-    -   Exposición
-    -   Depredación
-    -   Enfermedad
-    -   Impactos humanos directos
+    -   Exposure/Exposición
+    -   Predation/Depredación
+    -   Disease/Enfermedad
+    -   Direct Human Impacts/Impactos humanos directos
 -   @sec-app3-demography-spatial
-    -   Distancia individual
-    -   Tamaño del territorio
-    -   Tamaño del área de distribución
-    -   Densidad
+    -   Individual Distance/Distancia individual
+    -   Territory Size/Tamaño del territorio
+    -   Home Range Size/Tamaño del área de distribución
+    -   Density/Densidad
 -   @sec-app3-demography-status
-    -   Números
-    -   Tendencias
+    -   Numbers/Números
+    -   Trends/Tendencias
 -   @sec-app3-demography-regulation
 
-## [CONSERVACIÓN Y MANEJO]{style="color:purple;"} {#sec-app2-conservation}
+## [CONSERVATION AND MANAGEMENT/CONSERVACIÓN Y MANEJO]{style="color:purple;"} {#sec-app2-conservation}
 
 -   @sec-app3-conservation-status
-    -   Evaluación global
-    -   Evaluaciones regionales
+    -   Global Assessment/Evaluación global
+    -   Regional Assessments/Evaluaciones regionales
 -   @sec-app3-conservation-effects
-    -   Pérdida y degradación del hábitat
-    -   Cambio climático
-    -   Contaminación acústica y lumínica
-    -   Efectos de las especies invasoras
-    -   Caza, captura con trampas y capturas incidentales
-    -   Plaguicidas y otros contaminantes/tóxicos
-    -   Colisiones con estructuras u objetos
-    -   Otros impactos humanos o de investigación
+    -   Habitat Loss and Degradation/Pérdida y degradación del hábitat
+    -   Climate Change/Cambio climático
+    -   Noise and Light Pollution/Contaminación acústica y lumínica
+    -   Effects of Invasive Species/Efectos de las especies invasoras
+    -   Hunting, Trapping, and Bycatch/Caza, captura con trampas y capturas incidentales
+    -   Pesticides and Other Contaminants/Toxics/Plaguicidas y otros contaminantes/tóxicos
+    -   Collisions with Structures or Objects/Colisiones con estructuras u objetos
+    -   Other Human or Research Impacts/Otros impactos humanos o de investigación
 -   @sec-app3-conservation-management
-    -   Áreas protegidas
-    -   Medidas de conservación y gestión de hábitats
-    -   Eficacia de las medidas
+    -   Conservation Areas/Áreas protegidas
+    -   Conservation Measures and Habitat Management/Medidas de conservación y gestión de hábitats
+    -   Effectiveness of Measures/Eficacia de las medidas
 
-## [RELACIONES CON EL SER HUMANO]{style="color:purple;"} {#sec-app2-humans}
+## [RELATIONSHIP WITH HUMANS/RELACIONES CON EL SER HUMANO]{style="color:purple;"} {#sec-app2-humans}
 
 -   @sec-app3-humans-intro
 -   @sec-app3-humans-vernacular
 -   @sec-app3-humans-cultural
-    -   Historia temprana
-    -   Presencia en el folclore, la religión y el simbolismo
-    -   Representaciones en los medios de comunicación
-    -   Percepción pública
+    -   Early History/Historia temprana
+    -   Presence in Folklore, Religion, and Symbolism/Presencia en el folclore, la religión y el simbolismo
+    -   Depictions in Media/Representaciones en los medios de comunicación
+    -   Public Perception/Percepción pública
 -   @sec-app3-humans-economic
-    -   Uso humano
-    -   Daños infligidos por especie focal
-    -   Avicultura y domesticación
-    -   Utilización como modelo de investigación
+    -   Use by Humans/Uso humano
+    -   Harm Inflicted by Focal Species/Daños infligidos por especie focal
+    -   Aviculture and Domestication/Avicultura y domesticación
+    -   Use as a Research Model/Utilización como modelo de investigación
 
-## [PRIORIDADES PARA LA INVESTIGACIÓN FUTURA]{style="color:purple;"} {#sec-app2-priorities}
+## [PRIORITIES FOR FUTURE RESEARCH/PRIORIDADES PARA LA INVESTIGACIÓN FUTURA]{style="color:purple;"} {#sec-app2-priorities}
 
-## [OTROS]{style="color:purple;"} {#sec-app2-other}
+## [OTHER/OTROS]{style="color:purple;"} {#sec-app2-other}
 
-## [AGRADECIMIENTOS]{style="color:purple;"} {#sec-app2-acknowledgments}
+## [ACKNOWLEDGMENTS/AGRADECIMIENTOS]{style="color:purple;"} {#sec-app2-acknowledgments}
 
-## [SOBRE LOS/LAS AUTORES/AS]{style="color:purple;"} {#sec-app2-authors}
+## [ABOUT THE AUTHOR(S)/SOBRE LOS/LAS AUTORES/AS]{style="color:purple;"} {#sec-app2-authors}
