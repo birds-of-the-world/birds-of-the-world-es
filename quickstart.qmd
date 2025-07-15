@@ -10,7 +10,7 @@ Para editar o revisar una ficha, trabajará con un borrador de ficha no es visib
 
 -   <div>
 
-    Vaya a <https://birdsoftheworld.org/bow/home>e inicie sesión en su ficha de Cornell Lab (si se le solicita). Puede comprobar que ha iniciado sesión si ve una silueta negra de una persona en la parte superior derecha de la página seguida de su nombre y nombre de usuario entre paréntesis.
+    Vaya a <https://birdsoftheworld.org/bow/home> e inicie sesión en su cuenta de Cornell Lab (si se le solicita). Puede comprobar que ha iniciado sesión si ve una silueta negra de una persona en la parte superior derecha de la página seguida de su nombre y nombre de usuario entre paréntesis.
 
     **Tenga en cuenta que éste debe ser su nombre de usuario individual, NO un nombre/login institucional o de grupo.**
 
@@ -58,4 +58,4 @@ Para editar o revisar una ficha, trabajará con un borrador de ficha no es visib
 
     </div>
 
-Consulte las instrucciones completas para autores para obtener más detalles sobre el acceso al sistema, el formato, el estilo y cualquier otro aspecto relevante para la revisión o corrección de una ficha. Si necesita más ayuda o tiene alguna pregunta, póngase en contacto con Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu) ) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu) ).
+Consulte las instrucciones completas para autores para obtener más detalles sobre el acceso al sistema, el formato, el estilo y cualquier otro aspecto relevante para la revisión o corrección de una ficha. Si necesita más ayuda o tiene alguna pregunta, póngase en contacto con Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).

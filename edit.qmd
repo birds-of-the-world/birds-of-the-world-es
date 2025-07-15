@@ -8,7 +8,7 @@ editor_options:
 
 ## Paso 1: Crear una cuenta {#sec-edit-one}
 
-Necesitará un **nombre de usuario** y una **contraseña** del Cornell Lab of Ornithology para acceder a la(s) ficha(s) de proyecto. Si ya tiene una cuenta para uno o más proyectos del Cornell Lab (por ejemplo, BOW, eBird, Merlin, Great Backyard Bird Count o NestWatch), utilice ese nombre de usuario y contraseña. 
+Necesitará un **nombre de usuario** y una **contraseña** del Cornell Lab of Ornithology para acceder a la(s) ficha(s) BOW. Si ya tiene una cuenta para uno o más proyectos del Cornell Lab (por ejemplo, BOW, eBird, Merlin, Great Backyard Bird Count o NestWatch), utilice ese nombre de usuario y contraseña. 
 
 Si aún no tiene un nombre de usuario individual, puede crearlo (o acceder a una ficha existente) aquí: <https://secure.birds.cornell.edu/identity/account/create>
 
@@ -103,7 +103,7 @@ El último botón (una página con flechas dentro) le permite **ver el código H
 
 ## Paso 4: Revisar el borrador de ficha {#sec-edit-four}
 
-Su borrador de ficha contendrá los títulos y todo el texto que aparecía en la versión publicada más reciente de la ficha. Es posible que el contenido y la estructura no se ajusten a las normas actuales de las fichas BOW, por lo que debe comparar el borrador con el [Apéndice 2 ](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)y el [Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.hjoo9cq14meu). 
+Su borrador de ficha contendrá los títulos y todo el texto que aparecía en la versión publicada más reciente de la ficha. Es posible que el contenido y la estructura no se ajusten a las normas actuales de las fichas BOW, por lo que debe comparar el borrador con el [Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)y el [Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.hjoo9cq14meu). 
 
 Al revisar un borrador de ficha, puede modificar el texto, y/o añadirle o quitarle texto, a medida que añade nuevo texto y referencias. El texto de las fichas apiladas verticalmente (por ejemplo, las fichas HBW) se habrá incorporado a BOW en su forma original (es decir, sin referencias y en un único bloque de texto que puede corresponder a varias secciones/subsecciones diferentes en la estructura de fichas ampliada de BOW). Debe leer este texto detenidamente y eliminar los enlaces inactivos. Siempre que sea posible, sustituya este texto por su propio resumen referenciado de la bibliografía primaria. No asuma que este texto se ha colocado en la sección más apropiada de la ficha: puede que partes de ese texto se correlacionen mejor con otras secciones o subsecciones de la ficha, por lo que deberá analizarlo adecuadamente.
 
@@ -125,7 +125,7 @@ Puede navegar entre las páginas en modo revisión utilizando el índice de pág
 
 ## Paso 5: Enlazar y añadir referencias {#sec-edit-five}
 
-Antes de trabajar con citas y referencias, recomendamos encarecidamente a los colaboradores que consulten una [ficha publicada recientemente ](https://birdsoftheworld.org/bow/latest-updates)para ver cómo aparecen ahora las citas y referencias numeradas.
+Antes de trabajar con citas y referencias, recomendamos encarecidamente a los colaboradores que consulten una [ficha publicada recientemente](https://birdsoftheworld.org/bow/latest-updates)para ver cómo aparecen ahora las citas y referencias numeradas.
 
 Para añadir una referencia enlazada a su texto, coloque el cursor donde desea que aparezca la referencia, o resalte el texto que desea sustituir con una referencia enlazada, y haga clic en la opción azul "Referencias" que aparece en la parte superior derecha de la ventana del editor.
 
@@ -149,7 +149,7 @@ Si desea añadir una referencia que no aparece en la búsqueda, puede hacer clic
 
 En primer lugar, seleccione el tipo de publicación que desea introducir (artículo de revista, capítulo de libro, libro u otro). A continuación, rellene (o copie y pegue) los campos tal y como aparecen en el formulario "Crear nueva referencia".
 
-Para el campo "Referencia completa", introducirá la referencia en el campo de texto. La cita que introduzca en ese campo es la que aparecerá en la bibliografía. **No introduzca información DOI o URL en este campo** (véase más abajo). Siga el formato indicado en [el Apéndice 5 ](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1opuj5n)para añadir referencias.
+Para el campo "Referencia completa", introducirá la referencia en el campo de texto. La cita que introduzca en ese campo es la que aparecerá en la bibliografía. **No introduzca información DOI o URL en este campo** (véase más abajo). Siga el formato indicado en [el Apéndice 5](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1opuj5n)para añadir referencias.
 
 Más abajo, el texto del campo "Prefijo del autor" determinará cómo deben aparecer los nombres de los autores en las citas en línea (por ejemplo, Smith, Smith y Jones, o Smith et al.). **No utilice "&" en este campo; escriba "and" en su lugar.**
 
