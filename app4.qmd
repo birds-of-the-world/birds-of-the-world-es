@@ -25,15 +25,10 @@ Birds of the World (BOW) suele seguir *The Chicago Manual of Style*, 18th editio
         -   Los títulos de las subsecciones deben aparecer en negrita, seguidos de un punto en negrita (p. ej., "**Hembra**, partes superiores grises con bordes pálidos..."). Véanse también ejemplos en Medidas en [el Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.kf76324meenu). Escriba este encabezamiento en mayúsculas como en un título (véase más adelante). A este texto debe aplicársele el estilo "Normal".
 -   Mayúsculas en los títulos:
     -   Las únicas palabras que deben ir en minúscula (en inglés) son las conjunciones coordinadas (por ejemplo, "y" o "pero"), los artículos (por ejemplo, "a", "un" o "el") y las preposiciones (por ejemplo, "a", "de" o "para") **con cuatro o menos letras**.
-
     -   Todas las palabras con cinco o más letras deben ir en mayúsculas (por ejemplo, "Contra").
-
     -   Todos los verbos y pronombres deben escribirse con mayúscula, independientemente de su longitud (por ejemplo, "Es", "Son", "Ser", "Su" o "Ella").
-
     -   "Esto" y "Eso" deben ir siempre en mayúsculas.
-
     -   Escriba en mayúsculas la primera palabra después de dos puntos en un título, sea cual sea.
-
     -   Los elementos segundo y posteriores de los términos con guión deben ir en minúsculas.
 
 ## Referencia a las especies {#sec-app4-species}
