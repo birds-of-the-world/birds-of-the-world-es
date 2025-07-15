@@ -40,7 +40,7 @@ Para mantener el estatus de autor, se anima a los autores a participar activamen
 
 ## 3. Mantener el estatus de "autor activo" {#sec-app1-active}
 
-A partir de 2025, los colaboradores deben revisar y renovar su Formulario de Información de autoras y autores de BOW ([inglés](https://forms.gle/C3MySs5DtQZ1NR6b8), [español](https://forms.gle/EZes93EWtmtrvtXi7)) y el [Acuerdo del Colaborador ](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing)asociado cada dos años para mantener el estatus de colaborador "activo". Los colaboradores activos pueden consultar cómo y cuándo se actualiza su trabajo, y los editores de BOW harán todos los esfuerzos razonables para adaptarse a sus preferencias y facilitar su participación continuada en el proyecto. 
+A partir de 2025, los colaboradores deben revisar y renovar su Formulario de Información de autoras y autores de BOW ([inglés](https://forms.gle/C3MySs5DtQZ1NR6b8), [español](https://forms.gle/EZes93EWtmtrvtXi7)) y el [Acuerdo del Colaborador](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing)asociado cada dos años para mantener el estatus de colaborador "activo". Los colaboradores activos pueden consultar cómo y cuándo se actualiza su trabajo, y los editores de BOW harán todos los esfuerzos razonables para adaptarse a sus preferencias y facilitar su participación continuada en el proyecto. 
 
 Este requisito garantiza que la información de contacto esté actualizada y que se mantenga el compromiso con el proyecto BOW. Los colaboradores que se vuelvan "inactivos" pueden perder su capacidad de influir en el calendario y la aplicación de las revisiones, y el personal de BOW ya no estará obligado a ponerse en contacto con ellos.
 
@@ -98,7 +98,7 @@ BOW mantiene estrictas normas éticas y tiene tolerancia cero con:
 
 -   insensibilidad cultural al describir los conocimientos o prácticas indígenas 
 
-Tenga en cuenta que el plagio se define aquí como el uso de contenido derivado no acreditado. Todo el texto debe estar redactado con sus propias palabras originales, y cualquier texto tomado directamente de otra fuente, incluido el texto que haya escrito en otros contextos citables, debe ir entre comillas. Toda la información procedente de otra fuente debe citarse (véase [Gramática y formato: Referencias/Citaciones ](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.35nkun2)y [Apéndice 5](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1opuj5n)).
+Tenga en cuenta que el plagio se define aquí como el uso de contenido derivado no acreditado. Todo el texto debe estar redactado con sus propias palabras originales, y cualquier texto tomado directamente de otra fuente, incluido el texto que haya escrito en otros contextos citables, debe ir entre comillas. Toda la información procedente de otra fuente debe citarse (véase [Gramática y formato: Referencias/Citaciones](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.35nkun2)y [Apéndice 5](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1opuj5n)).
 
 Al participar en el proyecto BOW, los colaboradores afirman que su contenido y comportamiento se atienen a estas normas y que su contenido es obra original de los colaboradores a los que se atribuye. Las infracciones pueden dar lugar al cese inmediato de la participación y a la eliminación de los contenidos. El personal de BOW investigará cualquier problema de forma rápida y exhaustiva.
 
