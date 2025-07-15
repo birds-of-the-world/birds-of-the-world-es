@@ -11,9 +11,7 @@ Birds of the World (BOW) suele seguir *The Chicago Manual of Style*, 18th editio
 ## General {#sec-app4-general}
 
 -   No colocar sangría los párrafos.
-
 -   Lo normal es dejar un espacio después del punto.
-
 -   Incluya un espacio entre las iniciales, por ejemplo, "J. L. Smith".
 
 ## Idioma {#sec-app4-language}
@@ -23,13 +21,9 @@ Birds of the World (BOW) suele seguir *The Chicago Manual of Style*, 18th editio
 ## Rúbricas {#sec-app4-headings}
 
 -   Las subsecciones deben ir en "Título 1", sin negrita (al aplicar el estilo Título 1, el texto queda automáticamente en negrita).
-
     -   Los títulos dentro de una subsección deben ser "Título 2", sin negrita. Deben reservarse para varios párrafos de texto. Para un solo párrafo de texto, utilice el formato siguiente para los títulos dentro de las subsecciones.
-
         -   Los títulos de las subsecciones deben aparecer en negrita, seguidos de un punto en negrita (p. ej., "**Hembra**, partes superiores grises con bordes pálidos..."). Véanse también ejemplos en Medidas en [el Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.kf76324meenu). Escriba este encabezamiento en mayúsculas como en un título (véase más adelante). A este texto debe aplicársele el estilo "Normal".
-
 -   Mayúsculas en los títulos:
-
     -   Las únicas palabras que deben ir en minúscula (en inglés) son las conjunciones coordinadas (por ejemplo, "y" o "pero"), los artículos (por ejemplo, "a", "un" o "el") y las preposiciones (por ejemplo, "a", "de" o "para") **con cuatro o menos letras**.
 
     -   Todas las palabras con cinco o más letras deben ir en mayúsculas (por ejemplo, "Contra").
@@ -45,35 +39,20 @@ Birds of the World (BOW) suele seguir *The Chicago Manual of Style*, 18th editio
 ## Referencia a las especies {#sec-app4-species}
 
 -   Cualquier especie de ave mencionada en una ficha debe incluirse utilizando el botón Nombre de la especie (o "etiqueta de especie").
-
     -   La especie por defecto es la especie cuya ficha está editando. Para incluir el nombre de cualquier otra especie, escriba el nombre en la barra de búsqueda.
-
 -   Añada tanto el nombre común como el científico (y marque el botón "Enlace HTML a la ficha") en **la primera mención de una especie de ave por sección** (seleccione "Ambos" en el desplegable "Mostrar nombre como" de la ventana Nombre de la especie) cuando se refiera a especies distintas de **la especie focal de la ficha**. Para las menciones posteriores de dicha especie no focal en la misma sección, no se necesita ni el nombre científico ni un enlace a la ficha. En las páginas cortas, puede utilizar el nombre científico y el enlace a la ficha sólo la primera vez que se mencione la especie en la página. Cuando se hace referencia a la especie focal, no se suele utilizar el nombre científico, excepto en determinadas discusiones en la página Sistemática, en las que resulta útil utilizarlo.
-
     -   El botón Nombre de especie etiqueta un nombre de forma que el nombre común puede cambiarse en función de la configuración del usuario y el nombre puede actualizarse automáticamente en caso de cambios en la taxonomía o la nomenclatura. Si hay casos en los que desea utilizar un nombre y no quiere que cambie nunca (ni con el idioma ni con la taxonomía), **no** utilice la etiqueta de especie. Esto puede ser útil si se discute la historia de un nombre o taxón o se mencionan nombres locales de especies.
-
 -   El botón Nombre de especie no incluye subespecies, géneros independientes (es decir, sin nombre de especie) ni familias, por lo que **no debe** utilizarse en estas situaciones.
-
     -   Un género, o un nombre de especie más una subespecie, debe ir en cursiva utilizando la etiqueta "Sci Name" (y enlazado a la URL correspondiente si se trata de un género; véase [Paso 3: Entender la barra de menú del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)). Por ejemplo: ["*Zosterops*",](https://birdsoftheworld.org/bow/species/zoster2/cur/species#genusZosterops)"*Zosterops c. conspicillatus*".
-
 -   **Las especies de aves deben mencionarse en singular**, por ejemplo: "El halcón de cola roja se da en una gran variedad de hábitats".
-
     -   La etiqueta de especie es singular para los nombres comunes, y le animamos a estructurar sus frases de esta manera. Por favor, no utilice una s o una 's como texto plano directamente después de la etiqueta de especie gris, ya que no se traducirá correctamente. Para referirse al plural de una especie, recomendamos utilizar simplemente la etiqueta de especie en singular si la frase no puede reestructurarse (por ejemplo, "Se observaron tres halcones de cola roja").
-
 -   Cuando hables de especies, intenta utilizar el singular (por ejemplo, "el macho" o "come") en lugar del plural (por ejemplo, "machos" o "comen") siempre que sea posible.
-
 -   Por favor, evite el uso de términos generales como "colibríes" o "rieles" para referirse a la especie focal. Utilice siempre que sea posible la etiqueta de la especie en cuestión. Si se refiere a un grupo general de aves, utilice el nombre del género o de la familia siempre que sea posible y enlace a la página del género o de la familia correspondiente en BOW (véase [Paso 3: Entender la barra de menú del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)). Esto ayudará a evitar ambigüedades a la hora de traducir las descripciones de las especies.
-
 -   Asegúrese de que se menciona la especie focal (utilizando su nombre común y la etiqueta de la especie) al principio de cada página. Evite empezar una página con "Eso", ya que primero debe quedar claro que "eso" se refiere a la especie focal.
-
 -   Utilice comillas entre los nombres antiguos de aves que ya no sean reconocidos por la Lista eBird/Clements, incluidos los conceptos taxonómicos antiguos aunque el nombre actual siga existiendo.
-
 -   Cuando se haga referencia a un nombre vernáculo de una especie en un idioma distinto del inglés, utilice las convenciones de uso de mayúsculas acordes con el idioma de origen. Encierre el nombre entre comillas dobles, asegurándose de que los puntos y las comas van dentro de las comillas.
-
 -   En las tablas, referencias y leyendas de medios/figuras, en las que no se admiten etiquetas de especies, asegúrese de que los nombres comunes de las aves se escriben en mayúsculas y se puntúan de acuerdo con la lista de comprobación de eBird/Clements [(](http://www.birds.cornell.edu/clementschecklist/)http://www.birds.cornell.edu/clementschecklist/).
-
 -   No escriba en mayúsculas los nombres de mamíferos, plantas, insectos o especies de cualquier otro taxón, a menos que incluyan un nombre propio.
-
     -   En general, seguimos los criterios utilizados por iNaturalist como norma para los nombres científicos de especies distintas de las aves. Puede buscar en su base de datos de especies [(](https://www.inaturalist.org/observations)https://www.inaturalist.org/observations) y consultar su Guía del Conservador [(https://www.inaturalist.org/pages/curator+guide#authorities](https://www.inaturalist.org/pages/curator+guide#authorities)) para obtener información detallada sobre las autoridades taxonómicas que utilizan.
 
     -   Para las especies no disponibles en iNaturalist, puede ser útil consultar el Global Biodiversity Information Facility [(](https://www.gbif.org/)https://www.gbif.org/) o, para las especies marinas, el World Register of Marine Species [(](https://www.marinespecies.org/)https://www.marinespecies.org/).
@@ -88,129 +67,71 @@ Si el nombre científico de una especie ha cambiado desde la publicación de una
 ## Referencia a ubicaciones geográficas {#sec-app4-geographic}
 
 -   Utilice las grafías anglicisas aceptadas, pero conserve los signos diacríticos si el nombre procede de un alfabeto latino. Si un lugar se translitera a partir de un alfabeto no latino, no se suelen utilizar los signos diacríticos. Utilice tildes para las lenguas indígenas si están escritas en alfabeto latino. Los alfabetos no latinos pueden no tener equivalentes directos en español; consulte un sistema de transliteración aceptado o una autoridad regional cuando sea necesario.
-
 -   En el caso de lugares con varios nombres, dé prioridad al nombre utilizado en el idioma local siempre que sea posible e indique a continuación el nombre en inglés entre paréntesis.
-
 -   Escriba los nombres de los estados y provincias, condados y países (por ejemplo, Dakota del Norte, Columbia Británica, Maricopa County). Sin embargo, "U.S." debe usarse generalmente para Estados Unidos (aunque hay que hacer una excepción en las referencias) y "UK" puede usarse para el Reino Unido, pero no es obligatorio.
-
 -   Utilice "Washington, D.C.". (aunque hay que tener en ficha la excepción en las referencias).
-
 -   La primera vez que se mencione un lugar en una sección determinada de la ficha, especifique el lugar, estado/provincia/departamento/región, país (por ejemplo, "Ithaca, Nueva York, EE.UU.). Para posteriores menciones del lugar en la misma sección, puede utilizar simplemente el lugar (por ejemplo, "Ithaca"). Si la página es corta, puede proporcionar esta información sólo la primera vez que se utilice el lugar en la página.
-
 -   A diferencia de lo que se hacía en las fichas impresos originales, cuando se haga referencia a zonas concretas dentro de un estado, provincia, país, etc., se deletrearán las referencias direccionales como "norte" o "noreste", por ejemplo, "norte de Wyoming", "noreste de México" o "suroeste de Ontario". Utilice también "centro-sur", "centro-norte", etc. tenga en cuenta que estos términos **no se escriben con mayúsculas**, excepto cuando se refieren a unas pocas regiones formales específicas con nombres ingleses bien conocidos.
-
 -   Siga la lista que figura a continuación, que suele ajustarse al Manual de Estilo de Chicago (18ª edición):
-
     -   Central America
-
     -   central Asia
-
     -   central Europe
-
     -   the East (in the U.S.)
-
     -   East Africa
-
     -   the East Coast (in the U.S.)
-
     -   the Eastern Hemisphere
-
     -   eastern Europe
-
     -   the equator
-
     -   equatorial
-
     -   Falkland Islands/Islas Malvinas
-
     -   the Far North
-
     -   the Great Plains
-
     -   the Middle East
-
     -   the Midwest (in the U.S.)
-
     -   Neotropical
-
     -   the Neotropics
-
     -   New York State (official name; to distinguish it from New York City)
-
     -   North Africa
-
     -   North America
-
     -   the North Atlantic
-
     -   the North Pole
-
     -   the Northeast (in the U.S.)
-
     -   the Northern Hemisphere
-
     -   the Northwest (in the U.S.)
-
     -   prairie pothole region (of the U.S.)
-
     -   the South (in the U.S.)
-
     -   South America
-
     -   the South Pole
-
     -   the Southeast (in the U.S.)
-
     -   Southeast Asia
-
     -   southern Africa
-
     -   the Southern Hemisphere
-
     -   the Southwest (in the U.S.)
-
     -   the subtropics
-
     -   transequatorial
-
     -   the tropics
-
     -   the Upper Peninsula (of Michigan, U.S.)
-
     -   upstate New York
-
     -   Washington state
-
     -   the West (in the U.S.)
-
     -   West Africa
-
     -   the West Coast (in the U.S.)
-
     -   western Europe
-
     -   the Western Hemisphere
-
     -   the Western Palearctic
-
 -   Regiones geográficas con nombres formales en lenguas distintas del inglés: No escriba en mayúsculas términos traducidos del inglés como "state" o "department" que se aplican a los nombres de dichas regiones. Por ejemplo, cuando hables de regiones de Sudamérica, utiliza términos como "el departamento de Antioquia", "el departamento de Antioquia", "el estado de Falcón", "la región de Arica", etc.
-
 -   Utilice un espacio entre las coordenadas y N, O, S o E, pero no entre los símbolos de grado o primo y los números siguientes (ejemplo: 19°29′59″ N, 107°45′36″ O).
-
 -   Al referirse a varios accidentes geográficos con nombre, escriba en mayúsculas los términos plurales que les siguen, incluidos "Ríos" y "Valles". Por ejemplo, ponga "Ríos" en mayúsculas en "los ríos Misisipi y Misuri".
 
 ## Referencia a medidas de tiempo {#sec-app4-time}
 
 -   Designe la hora del reloj en el sistema de 24 horas (por ejemplo, "0930 h" o "1645 h").
-
 -   Escribe los nombres de los meses. Escribe las fechas con el siguiente formato: 1 de enero de 2009.
-
 -   Utilice abreviaturas para el tiempo (ms, s, min, h, d, wk, mo, yr) cuando se haya medido algo (por ejemplo, "Esta visualización dura, de media, 10,5 s"). Deletrea las referencias temporales cuando no se hayan realizado mediciones o cuando se refieran a un periodo de tiempo más amplio, y escribe los números inferiores a 10 en estos casos (por ejemplo, "Los volantones suelen ser independientes cuando alcanzan los 30 días de edad", "Se reproducen cuando tienen dos años o más" y "Las plumas primarias comienzan a emerger el día 11").
 
 ## En referencia a la edad {#sec-app4-age}
 
 -   Los individuos pueden denominarse de "segundo año", "después del segundo año" o "después del tercer año". Las abreviaturas estándar para estas clasificaciones de edad, por ejemplo, "SY", "ASY" o "ATY", pueden utilizarse en situaciones en las que los términos vayan a emplearse repetidamente en un breve espacio de texto; de lo contrario, no se abreviarán. Sin embargo, dado que estos términos y las abreviaturas asociadas se malinterpretan con facilidad, los colaboradores deben definir el significado de estos términos la primera vez que se utilicen. Por ejemplo, "Individuos de segundo año (es decir, los que están en su primer año natural completo)...".
-
 -   Cuando se refiera a un día concreto de una fase concreta del ciclo de cría, utilice el formato "día 13" en lugar de "día 13º", como en "Los investigadores midieron la longitud de las alas el día 13 de la fase de anidamiento". Utilice números, incluso si el número es inferior a 10 (por ejemplo, "en el día 2 de la fase de anidamiento").
 
 ## Numeración y cuestiones asociadas {#sec-app4-numbering}
@@ -273,25 +194,15 @@ Si el nombre científico de una especie ha cambiado desde la publicación de una
 ## Comas {#sec-app4-commas}
 
 -   Utilice una coma después de "e.g.,".
-
 -   Utilice una coma entre elementos de una serie de tres o más, antes de la conjunción que une los dos últimos elementos de una serie (la coma "Oxford"), entre cláusulas independientes a menos que las cláusulas sean inusualmente cortas, y para separar elementos individuales en fechas, direcciones y topónimos. Ejemplos:
-
     -   Coma de Oxford:
-
         -   "Esta especie se encuentra en Chile, Argentina y Bolivia".
-
     -   Para unir dos cláusulas independientes (cada una de las cuales podría ser una frase por sí sola):
-
         -   "Esta especie suele aparecer en bandadas mixtas y consume tanto fruta como insectos". (Nótese la coma antes de "y", ya que "es" es el sujeto de la segunda cláusula).
-
     -   **No** utilice una coma entre las partes de una frase que no tengan un nuevo sujeto (a menos que la primera parte de la frase sea muy larga o la coma sea necesaria para evitar interpretaciones erróneas).
-
         -   "Esta especie suele aparecer en bandadas mixtas y consume tanto frutas como insectos". (Obsérvese la ausencia de coma antes de "y", ya que en esta frase sólo hay un sujeto: "especie").
-
     -   Para activar elementos individuales:
-
         -   "Se observaron aves en Ithaca, Nueva York..."
-
 -   Utilice comas (no punto y coma) para separar una lista de citas (por ejemplo, Bush 1990, Smith 2018).
 
 ## Abreviaturas {#sec-app4-abbreviations}
@@ -312,7 +223,7 @@ Si el nombre científico de una especie ha cambiado desde la publicación de una
 
 ## Citas {#sec-app4-quotations}
 
--   Los colaboradores pueden abrir una sección con una cita. Al hacerlo, utilice comillas e indique el autor, la etiqueta de referencia y el número de página. Un ejemplo que inicia la Introducción en la ficha de [Mountain Bluebird ](https://species.birds.cornell.edu/bow/species/moublu/cur/introduction)es el siguiente: “These exquisites, in their quadruple-extract-of-azure garb, are justly ranked the topmost twig of the American ornithological tree.” —William L. Dawson ([Dawson 1897](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF26966): 181)
+-   Los colaboradores pueden abrir una sección con una cita. Al hacerlo, utilice comillas e indique el autor, la etiqueta de referencia y el número de página. Un ejemplo que inicia la Introducción en la ficha de [Mountain Bluebird](https://species.birds.cornell.edu/bow/species/moublu/cur/introduction)es el siguiente: “These exquisites, in their quadruple-extract-of-azure garb, are justly ranked the topmost twig of the American ornithological tree.” —William L. Dawson ([Dawson 1897](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF26966): 181)
 -   When quoting material directly from other sources within the main body/text of a section, indicate the page number from which the quote was taken. For example: Criddle ([Criddle 1927](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF45926): 41) wrote that song “...is commenced soon after the first suffusion of light indicates a returning day and is at its height as the rising sun appears over the eastern landscape.” Note the space after the colon.
 -   Avoid structure such as the following when inserting direct quotes: Wheelock, in her 1904 publication, *Birds of California*, described the song as “a sweet, clear ‘*trually, tru-al-ly*’” (p. 507). Such structure makes it difficult to add a reference tag. The preferred structure would be along these lines: In her book, *Birds of California*, Wheelock ([Wheelock 1904](https://species.birds.cornell.edu/bow/species/moublu/cur/references#REF72947): 507) described the song as “a sweet, clear ‘*trually, tru-al-ly*.’”
 -   Regarding punctuation following quotes: Following standard U.S. English, place a period or comma inside the quotation marks, e.g., Johnson (1990) referred to this as the “copulation request display.” However, a semicolon or colon should go outside the quotation marks. Question marks and exclamation points go inside the quotation marks if part of the quotation but outside if not.
@@ -320,49 +231,32 @@ Si el nombre científico de una especie ha cambiado desde la publicación de una
 ## Remisión a otras secciones de la ficha {#sec-app4-sections}
 
 -   Cuando haga referencia a otras secciones de la ficha BOW, indique la cadena completa de página y sección (en mayúsculas), separada por dos puntos (por ejemplo, "véase [Identificación en el campo: Especies similares](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)" o "véase [Reproducción: Aves jóvenes](https://species.birds.cornell.edu/bow/species/kitmur/cur/breeding#young)"). **No incluya subsecciones.**
-
     -   Las secciones de una ficha deben enlazarse mediante el icono de enlace en cadena (véase [Paso 3: Entender la barra de menús del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)).
 
-A diferencia de lo que se hacía con las fichas impresos originales, NO incluya términos direccionales como "arriba" y "abajo" (no utilice, por ejemplo, "véase [Identificación de campo: Especies similares ](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)(arriba)" o "véase abajo").
+A diferencia de lo que se hacía con las fichas impresos originales, NO incluya términos direccionales como "arriba" y "abajo" (no utilice, por ejemplo, "véase [Identificación de campo: Especies similares](https://species.birds.cornell.edu/bow/species/kitmur/cur/identification#simspecies)(arriba)" o "véase abajo").
 
 ## Estadísticas {#sec-app4-statistics}
 
 -   Las estadísticas deben incluir, siempre que sea posible, la media, la desviación estándar (DE), el error estándar (EE), el coeficiente de variación (CV), el rango (mínimo-máximo), el tamaño de la muestra (n) y la fuente de los datos. Está bien informar de los estadísticos de las pruebas, un intervalo de confianza (IC) y un valor p (p), pero no se utilizan mucho en los informes BOW, con la excepción de cuando los colaboradores informan de datos y análisis no publicados.
-
 -   Indique la DE/SE a continuación del símbolo ±, sin sus propias unidades, p. ej., "84,8 mL ± 7,0 DE". La DE o la SE pueden añadirse entre paréntesis, por ejemplo, "84,8 mL (± 7,0 DE)", pero generalmente no se hace así a menos que se añada al final de la frase con otras estadísticas.
-
 -   Al nombrar y notificar una media, mediana, intervalo, etc., no utilice dos puntos ni el signo igual; por ejemplo, utilice "Peso medio del nido 13,7 g ± 0,11 SE (intervalo 6,7-30,0, n = 71)". tenga en cuenta que no es necesario repetir las unidades para el rango.
-
 -   No deben utilizarse dos puntos después de un descriptor como longitud, anchura, altura o peso que vaya seguido inmediatamente de un número, p. ej., "De una muestra de 71 nidos en Arkansas: longitud exterior 15,0 cm ± 0,41 SE (intervalo 9,0-27,0); anchura exterior 12,8 cm ± 0,24 SE (intervalo 8,5-18,5)...".
-
 -   Utilice un guión (-) para un rango de números (por ejemplo, "29-35 mm", "del 1 al 20 de julio" o "3-4 huevos"). Para insertar un guión, utilice las teclas Opción y guión en un Mac o las teclas Control y guión en un PC. Estos símbolos pueden utilizarse en la función buscar y reemplazar (véase [Paso 3: Entender la barra de menús del editor](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1y810tw)) si se necesita reemplazar un gran número de guiones por guiones bajos.
-
 -   Cuando informe de múltiples estadísticas descriptivas, separe cada una por comas, no por punto y coma, por ejemplo, "Los padres hicieron, de media, 16,4 viajes/h al nido para alimentar a las crías (± 8,8 DE, rango 6-25, n = 53 nidos)". 
-
 -   Al comunicar los resultados de las pruebas estadísticas, indique en primer lugar el estadístico de la prueba, en segundo lugar el valor p y en último lugar el tamaño de la muestra, por ejemplo: "El número de días que las crías pasaron en el nido estuvo inversamente relacionado con la longitud media de las alas de la nidada el día 13 de la fase de nidificación (r = -0,61, p = 0,03, n = 45 nidadas)".
-
 -   Utilice un signo menos (-), no un guión, para indicar números negativos.
 
 ## Otros {#sec-app4-other}
 
 -   Evite descriptores caucásico-céntricos como "color piel". 
-
 -   Utilice "subespecie" en lugar de "raza".
-
 -   Al hablar de aves, evite los pronombres sexistas siempre que sea posible (por ejemplo, utilice "eso" en lugar de "él" o "ella").
-
 -   Cuando hable de aves, evite los términos "madre" y "padre" (considere "hembra", "macho" o "progenitor", según el contexto).
-
 -   Utiliza "media" en lugar de "promedio".
-
 -   Utiliza "masa" en lugar de "peso".
-
 -   Cuando se habla de rangos, "entre" va emparejado con "y", mientras que "desde" va emparejado con "hasta" (o un guión) (por ejemplo, "entre 100 y 200 m" pero "desde 100-200 m").
-
 -   Los términos latinos de uso común como "et al.", "cf." y "sensu" **no deben** escribirse en cursiva.
-
 -   Además de denotar rangos, debe utilizarse un guión para unir los nombres de dos o más personas que actúan como modificador compuesto de un sustantivo (por ejemplo, "terminología Humphrey-Parkes") o dos o más entidades de igual importancia en un descriptor (por ejemplo, "la frontera entre Zimbabue y Mozambique").
-
 -   Cuando utilice un guión para separar información dentro de una frase, utilice un **guión bajo (-) sin espacios alrededor**. Para escribir un guión, utilice Opción, Mayúsculas y guión en un Mac o Control, Alt y guión en un PC.
 
 ## Símbolos útiles {#sec-app4-symbols}
