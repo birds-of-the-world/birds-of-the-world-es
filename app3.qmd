@@ -265,61 +265,79 @@ Los detalles de los microhábitats funcionales, es decir, los lugares utilizados
 Categorías y subcategorías de hábitats definidas por Campbell et al. (2021) en el libro Habitats of the World, con definiciones adaptadas del libro:
 
 -   **Conifer forests:** bosques dominados por coníferas (que normalmente no pierden las hojas).
-    -   **Taiga (boreal forest):** spruce and fir forest in the Far North
-    -   **Temperate conifer forest:** humid coniferous forest in temperate areas (including mountains)
-    -   **Dry conifer forest:** conifer-dominated forest/woodland in dry temperate and tropical areas
--   **Deserts and arid scrubs:** arid habitats characterized by little plant growth
-    -   **Barren desolate desert:** harsh desert with rock, sand dunes, and very little plant growth
-    -   **Hot desert:** tropical or subtropical desert with hot summers and cool/warm winters
+    -   **Taiga (boreal forest):** Bosque de "píceas" y abetos de la zona boreal
+    -   **Temperate conifer forest:** bosque húmedo de coníferas en zonas templadas (incluidas las montañas)
+    -   **Dry conifer forest:** bosque dominado por coníferas en zonas secas templadas y tropicales
+-   **Deserts and arid scrubs:** hábitats áridos caracterizados por un escaso crecimiento vegetal
+    -   **Barren desolate desert:** desierto duro con rocas, dunas de arena y muy poco crecimiento vegetal.
+    -   **Hot desert:** desierto tropical o subtropical con veranos calurosos e inviernos frescos y templados
     -   **Cold desert:** temperate desert with hot/warm summers and cold winters
-    -   **Desert and semidesert shrubland:** open arid area characterized by small shrubs (typically with small leaves); may contain cacti or euphorbias
-    -   **Desert steppe:** very arid area with sparse and ephemeral grass growth
-    -   **Desert and semidesert thornscrub:** arid area characterized by thickets of tall thorn bushes and little grass
-    -   **Arctic polar desert:** extremely cold and dry area with virtually no plant growth
--   **Temperate deciduous forests:** forest with either entirely broadleaf deciduous trees or a mix of deciduous trees and evergreen trees
-    -   **Temperate deciduous forest:** temperate broadleaf deciduous forest in which most trees lose their leaves in winter
-    -   **Temperate moist mixed forest:** temperate forest with a mix of broadleaf deciduous trees and evergreen trees (broadleaf trees and/or conifers)
--   **Tropical humid forests:** warm and wet rainforest-type habitats
-    -   **Lowland rainforest:** tall, wet evergreen forest with a thick canopy and open understory
-    -   **Semievergreen forest:** generally humid forest with a nearly complete canopy; only some trees lose their leaves
-    -   **Montane/subtropical evergreen forest:** warm, wet forest with a nearly complete canopy composed of evergreen or partially deciduous trees
--   **Dry deciduous forests:** warm forests characterized by trees that lose most of their leaves during dry periods
-    -   **Closed deciduous forest:** fire-intolerant, dry deciduous forest with a closed canopy; trees are lush in summer, but most lose their leaves in winter
-    -   **Open deciduous forest:** fire-intolerant deciduous forest with an open canopy and an understory of small-leaved shrubs, cacti, and/or euphorbias; trees can lose their leaves during dry periods
--   **Savannas and seasonally moist shrublands:** habitats with an open canopy and an abundance of grass and/or shrubs; strongly seasonal, typically with wet summers and dry winters, and heavily affected by fire
-    -   **Open broadleaf woodland:** fire-tolerant woodland characterized by tall, broadleaf trees and an open canopy; many deciduous trees may be present
-    -   **Thorn savanna:** open woodland with abundant grass cover and tall or short trees (often acacias), many of which have spines
-    -   **Broadleaf sclerophyllous savanna:** fire-tolerant low shrubland or forest that can be thickly vegetated and that has less grass than other savannas; plants have thick, leathery leaves and thick bark
-    -   **Mixed shrub savanna:** fire-tolerant thicket or dry forest with a low canopy; characterized by grass cover and a mix of coniferous, sclerophyllous, and broadleaf shrubs or trees
--   **Grasslands and steppes:** fire-dependent habitats dominated by grasses; may or may not contain shrubs and flowers and have few to no trees
-    -   **Temperate grassland:** fire-tolerant grassland with moderate or warm summers and cold winters; growth is restricted to the warmer spring and summer months; precipitation can include snow in winter and rain in summer
-    -   **Tropical grassland:** fire-tolerant grassland with hot summers and moderate winters; growth of grasses can occur throughout the year with sufficient rainfall
-    -   **Montane grassland:** fire-tolerant, highland grassland that often receives orographic rainfall (i.e., caused by proximity to a mountain range)
-    -   **Flooded grassland:** grassland that becomes a huge wetland during the wet season
--   **Mediterranean forests, woodlands, and shrublands:** habitats characterized by thick scrub and with dry, hot summers and wet, cold winters
-    -   **Maquis, chaparral, and matorral:** low shrubland that is either closed or open and is dominated by fire and grazing; the plants present are often similar to those in nearby forests
-    -   **Mediterranean heathland:** fire-dependent low heathland with nearly complete ground cover consisting of sclerophyllous bushes and forbs
--   **Sclerophyllous forests and woodlands:** forests and woodlands in which most canopy trees are eucalypts and/or have small, leathery leaves
-    -   **Wet sclerophyll forest:** forest with tall, straight-trunked trees whose canopy branches touch each other and a lush, wet understory; canopy trees are fire tolerant, but the understory is fire intolerant
-    -   **Dry sclerophyll forest:** fire-tolerant forest with tall, straight-trunked trees that are too widely spaced to form a closed canopy (although trees may sometimes touch each other) and an understory dominated by grass and shrubs not found in nearby rainforests
-    -   **Eucalypt woodland:** open woodland with a thin canopy; characterized by eucalypts with short, crooked trunks
-    -   **Australasian acacia woodlands:** open woodland or shrubland, often with a thick canopy; characterized by short acacias
--   **Tundras:** habitats characterized by very low vegetation dominated by mosses and lichens; at extreme latitudes or elevations where tree growth is prohibited due to temperature, snow cover, and/or exposure to wind
--   **Freshwater habitats:** habitats inundated with freshwater
-    -   **Swamp forest:** seasonally or permanently inundated forest
-    -   **Freshwater wetland:** seasonally or permanently flooded nonforested habitat
--   **Salt-dominated habitats:** habitats with high salt levels in the water or soil
-    -   **Saltpan:** habitat in which evaporation or volcanic activity has produced extremely high salt levels in the soil; mostly unvegetated, but algae grows quickly after floods
-    -   **Mangrove:** a specialized forest of mangroves in tidally flooded coastal areas
-    -   **Saltmarsh:** habitat characterized by salt-tolerant marsh vegetation and found in sheltered coastal areas that are periodically flooded with seawater
-    -   **Tidal mudflat:** a nutrient-rich area of mud that is frequently flooded with seawater; usually occurs in estuaries
-    -   **Rocky coastline and sandy beach:** nutrient-poor rocky or sandy beach, cliff, or other coastline habitat
-    -   **Pelagic waters:** marine habitat with deep water
-    -   **Offshore islands:** small islands that are well offshore and support low grass and/or shrubs
--   **Anthropogenic habitats:** habitats shaped primarily by human presence
-    -   **Grazing lands:** areas heavily grazed by domestic animals
-    -   **Cultivated lands:** areas in which humans produce crops
-    -   **Human habitation:** areas directly inhabited by humans
+    -   **Desert and semidesert shrubland:** zona árida abierta caracterizada por arbustos pequeños (normalmente con hojas pequeñas); puede contener cactus o euforbias.
+    -   **Desert steppe:** zona muy árida con hierba escasa y efímera
+    -   **Desert and semidesert thornscrub:** zona árida caracterizada por matorrales de espinos altos y poca hierba
+    -   **Arctic polar desert:** zona extremadamente fría y seca en la que prácticamente no crecen plantas.
+-   **Temperate deciduous forests:** bosques con árboles caducifolios de hoja ancha en su totalidad o una mezcla de árboles caducifolios y árboles de hoja perenne.
+    -   **Temperate deciduous forest:** bosque caducifolio latifoliado templado en el que la mayoría de los árboles pierden las hojas en invierno.
+    -   **Temperate moist mixed forest:** bosque templado con una mezcla de árboles caducifolios de hoja ancha y árboles de hoja perenne (árboles de hoja ancha y/o coníferas).
+-   **Tropical humid forests:** hábitats cálidos y húmedos de tipo pluvial
+    -   **Lowland rainforest:** bosque alto, húmedo y perennifolio con un dosel espeso y un sotobosque abierto.
+    -   **Semievergreen forest:** bosque generalmente húmedo con un dosel casi completo; sólo algunos árboles pierden las hojas.
+    -   **Montane/subtropical evergreen forest:** bosque cálido y húmedo con un dosel casi completo compuesto por árboles perennifolios o parcialmente caducifolios.
+-   **Dry deciduous forests:** bosques cálidos caracterizados por árboles que pierden la mayor parte de sus hojas durante los periodos secos.
+    -   **Closed deciduous forest:** bosque caducifolio seco, intolerante al fuego, con dosel cerrado; los árboles son frondosos en verano, pero la mayoría pierden sus hojas en invierno.
+    -   **Open deciduous forest:** bosque caducifolio intolerante al fuego con un dosel abierto y un sotobosque de arbustos de hoja pequeña, cactus y/o euforbias; los árboles pueden perder sus hojas durante los periodos secos.
+-   **Savannas and seasonally moist shrublands:** hábitats con dosel abierto y abundancia de hierbas y/o arbustos; fuertemente estacionales, normalmente con veranos húmedos e inviernos secos, y muy afectados por los incendios.
+    -   **Open broadleaf woodland:** bosque tolerante al fuego caracterizado por árboles latifoliados altos y un dosel abierto; puede haber muchos árboles caducifolios.
+    -   **Thorn savanna:** bosque abierto con abundante cubierta herbácea y árboles altos o bajos (a menudo acacias), muchos de los cuales tienen espinas.
+    -   **Broadleaf sclerophyllous savanna:** matorral o bosque bajo tolerante al fuego que puede tener una vegetación densa y menos hierba que otras sabanas; las plantas tienen hojas gruesas y coriáceas y corteza gruesa.
+    -   **Mixed shrub savanna:** matorral o bosque seco tolerante al fuego con un dosel bajo; caracterizado por una cubierta herbácea y una mezcla de arbustos o árboles de coníferas, esclerófilas y frondosas.
+
+<!-- -->
+
+-   **Grasslands and steppes:** hábitats dependientes del fuego dominados por gramíneas; pueden o no contener arbustos y flores y tener pocos o ningún árbol.
+    -   **Temperate grassland:** pastizal tolerante al fuego con veranos moderados o cálidos e inviernos fríos; el crecimiento se limita a los meses más cálidos de primavera y verano; las precipitaciones pueden incluir nieve en invierno y lluvia en verano.
+    -   **Tropical grassland:** pastizales resistentes al fuego con veranos calurosos e inviernos moderados; las gramíneas pueden crecer durante todo el año si llueve lo suficiente.
+    -   **Montane grassland:** pastizal de tierras altas, tolerante al fuego, que a menudo recibe precipitaciones orográficas (es decir, causadas por la proximidad a una cadena montañosa).
+    -   **Flooded grassland:** pradera que se convierte en un enorme humedal durante la estación húmeda.
+-   **Mediterranean forests, woodlands, and shrublands:** hábitats caracterizados por matorrales espesos y con veranos secos y calurosos e inviernos húmedos y fríos.
+    -   **Maquis, chaparral, and matorral:** matorral bajo cerrado o abierto dominado por el fuego y el pastoreo; las plantas presentes suelen ser similares a las de los bosques cercanos.
+    -   **Mediterranean heathland:** brezal bajo dependiente del fuego con una cubierta vegetal casi completa formada por arbustos esclerófilos y hierbas.
+
+<!-- -->
+
+-   **Sclerophyllous forests and woodlands:** bosques y arboledas en los que la mayoría de las copas son eucaliptos y/o tienen hojas pequeñas y coriáceas.
+
+    -   **Wet sclerophyll forest:** bosque con árboles altos de tronco recto cuyas ramas se tocan entre sí y un sotobosque exuberante y húmedo; las copas toleran el fuego, pero el sotobosque no lo tolera.
+    -   **Dry sclerophyll forest:** bosque resistente al fuego con árboles altos de tronco recto demasiado espaciados para formar un dosel cerrado (aunque a veces los árboles se tocan entre sí) y un sotobosque dominado por hierbas y arbustos que no se encuentran en los bosques húmedos cercanos.
+    -   **Eucalypt woodland:** bosque abierto con un dosel delgado; caracterizado por eucaliptos con troncos cortos y torcidos.
+    -   **Australasian acacia woodlands:** bosque abierto o matorral, a menudo con un dosel espeso; caracterizado por acacias cortas.
+
+-   **Tundras:** hábitats caracterizados por una vegetación muy baja dominada por musgos y líquenes; en latitudes o elevaciones extremas donde el crecimiento de los árboles está prohibido debido a la temperatura, la capa de nieve y/o la exposición al viento.
+
+<!-- -->
+
+-   **Freshwater habitats:** hábitats inundados de agua dulce
+
+    -   **Swamp forest:** bosque inundado estacional o permanentemente
+    -   **Freshwater wetland:** hábitat no arbolado inundado estacional o permanentemente
+
+-   **Salt-dominated habitats:** hábitats con altos niveles de sal en el agua o el suelo.
+
+    -   **Saltpan:** hábitat en el que la evaporación o la actividad volcánica han producido niveles extremadamente altos de sal en el suelo; en su mayor parte sin vegetación, pero las algas crecen rápidamente tras las inundaciones.
+    -   **Mangrove:** un bosque especializado de manglares en zonas costeras inundadas por las mareas
+    -   **Saltmarsh:** hábitat caracterizado por una vegetación de marisma tolerante a la sal que se encuentra en zonas costeras protegidas que se inundan periódicamente con agua de mar.
+    -   **Tidal mudflat:** zona de lodo rica en nutrientes que se inunda frecuentemente con agua de mar; suele darse en estuarios.
+    -   **Rocky coastline and sandy beach:** playa rocosa o de arena pobre en nutrientes, acantilado u otro hábitat costero.
+    -   **Pelagic waters:** hábitat marino de aguas profundas
+    -   **Offshore islands:** pequeñas islas muy alejadas de la costa que albergan hierba baja y/o arbustos.
+
+-   **Anthropogenic habitats:** hábitats formados principalmente por la presencia humana.
+
+    -   **Grazing lands:** zonas intensamente pastoreadas por animales domésticos
+
+    -   **Cultivated lands:** zonas en las que el hombre produce cultivos
+
+    -   **Human habitation:** zonas directamente habitadas por seres humanos
 
 ## [MOVEMENTS AND MIGRATION/MOVIMIENTOS Y MIGRACIÓN]{style="color:purple;"} {#sec-app3-movements}
 
