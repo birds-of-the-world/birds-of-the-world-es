@@ -18,7 +18,7 @@ Después de establecer un nombre de usuario, rellene nuestro Formulario de infor
 
 ## Paso 2: Acceder a la web de BOW {#sec-edit-two}
 
-La página de inicio de BOW es https://birdsoftheworld.org/bow/home. Utilice el navegador [Chrome](https://www.google.com/chrome/)para acceder al sitio y a sus herramientas de edición. 
+La página de inicio de BOW es https://birdsoftheworld.org/bow/home. Utilice el navegador [Chrome](https://www.google.com/chrome/) para acceder al sitio y a sus herramientas de edición. 
 
 Una vez en la página de inicio de BOW, deberá iniciar sesión con el nombre de usuario que proporcionó en el Formulario de información para colaboradores, ya que sólo esta cuenta tendrá los permisos necesarios para editar y revisar la ficha de la especie en la que está trabajando. Puede comprobar que ha iniciado sesión si ve un icono negro de una persona seguido de su nombre (nombre de usuario) en la parte superior derecha de la página. tenga en cuenta que puede que necesite ampliar el tamaño de la ventana de su navegador si está seguro de que ha iniciado sesión pero no ve el icono.
 
@@ -26,7 +26,7 @@ Una vez en la página de inicio de BOW, deberá iniciar sesión con el nombre de
 
 Una vez que haya iniciado sesión, introduzca el nombre de su especie en el cuadro de búsqueda situado en el centro a la izquierda de la página de inicio o en la parte superior izquierda de la página de una especie. Puede utilizar el nombre común (según la configuración de idioma de su ficha de usuario), el nombre científico o el código alfa de cuatro letras de la especie para buscarla.
 
-En la página de introducción (o si navega a cualquier otra página de la ficha), verá una barra negra que dice "Version: Live - X.Y" en la parte superior de la pantalla. Al hacer clic en este botón, aparecerá un menú desplegable con todas las versiones activas de la ficha ("Live" = lo que ve el público, y "Draft" = el borrador en el que estarás trabajando, que no está disponible públicamente). Debe seleccionar el borrador, que será la versión con el número más alto disponible: los números denotan la versión de la ficha, que está correlacionada con un DOI único y citable (véase [el Paso 5: Enlazar y añadir referencias](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1ci93xb)para una definición de "DOI").
+En la página de introducción (o si navega a cualquier otra página de la ficha), verá una barra negra que dice "Version: Live - X.Y" en la parte superior de la pantalla. Al hacer clic en este botón, aparecerá un menú desplegable con todas las versiones activas de la ficha ("Live" = lo que ve el público, y "Draft" = el borrador en el que estarás trabajando, que no está disponible públicamente). Debe seleccionar el borrador, que será la versión con el número más alto disponible: los números denotan la versión de la ficha, que está correlacionada con un DOI único y citable (véase [el Paso 5: Enlazar y añadir referencias](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.1ci93xb) para una definición de "DOI").
 
 Una vez que haya seleccionado la versión borrador de la ficha, verá una barra naranja con la etiqueta "REVISION" en la parte superior de cada página de la ficha. Puede hacer clic en el botón "Editar revisión" que aparece en la parte superior derecha de cada sección principal del texto. Este botón abrirá un editor en línea desde el que podrá editar el texto original y crear un borrador de ficha para su especie.
 
@@ -46,7 +46,7 @@ En la imagen, las funciones de los cinco primeros botones del menú del editor e
 
 Los dos **botones de flecha** le permiten deshacer o rehacer el cambio más reciente. El icono **de las tijeras** le permite cortar el texto resaltado, mientras que el icono de **las dos páginas** le permite copiar el texto resaltado y el icono **del portapapeles** le permite pegar texto.
 
-El menú desplegable "**Estilos**" le permite dar formato a diferentes niveles de encabezamientos. Los encabezamientos de las subsecciones de la ficha deben introducirse como "Encabezamiento 1" (no poner en negrita manualmente), y cualquier encabezamiento dentro de esas subsecciones debe introducirse como "Encabezamiento 2" (no poner en negrita manualmente). [En el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)encontrará una lista de páginas, secciones y subsecciones.
+El menú desplegable "**Estilos**" le permite dar formato a diferentes niveles de encabezamientos. Los encabezamientos de las subsecciones de la ficha deben introducirse como "Encabezamiento 1" (no poner en negrita manualmente), y cualquier encabezamiento dentro de esas subsecciones debe introducirse como "Encabezamiento 2" (no poner en negrita manualmente). [En el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj) encontrará una lista de páginas, secciones y subsecciones.
 
 ![](images/EditorToolbar2.jpg){fig-align="center"}
 
@@ -95,7 +95,7 @@ Por último, debe utilizar el **botón Nombre de la especie** cuando enlace con 
 
 -   Puede haber casos en los que NO desee que el nombre de una especie cambie con los cambios taxonómicos (por ejemplo, al hablar de la historia de un nombre o taxón o al hablar de una subespecie). En estos casos, el nombre de la especie no debe tener etiqueta (es decir, no debe tener etiqueta de especie).
 
-Los botones "**Media Link**" e "**Inline Media**" están destinados a los curadores de BOW, por lo que le rogamos que los ignore. Si desea incluir medios en su borrador, puede adjuntar un documento de Word al Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)), o puede incluir los números de activos de la Biblioteca Macaulay entre paréntesis en el propio texto del borrador. Consulte [el Apéndice 7](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.te6rn5ehqon2)para más detalles.
+Los botones "**Media Link**" e "**Inline Media**" están destinados a los curadores de BOW, por lo que le rogamos que los ignore. Si desea incluir medios en su borrador, puede adjuntar un documento de Word al Formulario de finalización del primer borrador de ficha BOW ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)), o puede incluir los números de activos de la Biblioteca Macaulay entre paréntesis en el propio texto del borrador. Consulte [el Apéndice 7](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#heading=h.te6rn5ehqon2) para más detalles.
 
 ![](images/ExampleOfTags_Cropped_SpeciesMedia.jpeg){fig-align="center"}
 
@@ -103,7 +103,7 @@ El último botón (una página con flechas dentro) le permite **ver el código H
 
 ## Paso 4: Revisar el borrador de ficha {#sec-edit-four}
 
-Su borrador de ficha contendrá los títulos y todo el texto que aparecía en la versión publicada más reciente de la ficha. Es posible que el contenido y la estructura no se ajusten a las normas actuales de las fichas BOW, por lo que debe comparar el borrador con el [Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)y el [Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.hjoo9cq14meu). 
+Su borrador de ficha contendrá los títulos y todo el texto que aparecía en la versión publicada más reciente de la ficha. Es posible que el contenido y la estructura no se ajusten a las normas actuales de las fichas BOW, por lo que debe comparar el borrador con el [Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj) y el [Apéndice 3](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.hjoo9cq14meu). 
 
 Al revisar un borrador de ficha, puede modificar el texto, y/o añadirle o quitarle texto, a medida que añade nuevo texto y referencias. El texto de las fichas apiladas verticalmente (por ejemplo, las fichas HBW) se habrá incorporado a BOW en su forma original (es decir, sin referencias y en un único bloque de texto que puede corresponder a varias secciones/subsecciones diferentes en la estructura de fichas ampliada de BOW). Debe leer este texto detenidamente y eliminar los enlaces inactivos. Siempre que sea posible, sustituya este texto por su propio resumen referenciado de la bibliografía primaria. No asuma que este texto se ha colocado en la sección más apropiada de la ficha: puede que partes de ese texto se correlacionen mejor con otras secciones o subsecciones de la ficha, por lo que deberá analizarlo adecuadamente.
 
@@ -125,7 +125,7 @@ Puede navegar entre las páginas en modo revisión utilizando el índice de pág
 
 ## Paso 5: Enlazar y añadir referencias {#sec-edit-five}
 
-Antes de trabajar con citas y referencias, recomendamos encarecidamente a los colaboradores que consulten una [ficha publicada recientemente](https://birdsoftheworld.org/bow/latest-updates)para ver cómo aparecen ahora las citas y referencias numeradas.
+Antes de trabajar con citas y referencias, recomendamos encarecidamente a los colaboradores que consulten una [ficha publicada recientemente](https://birdsoftheworld.org/bow/latest-updates) para ver cómo aparecen ahora las citas y referencias numeradas.
 
 Para añadir una referencia enlazada a su texto, coloque el cursor donde desea que aparezca la referencia, o resalte el texto que desea sustituir con una referencia enlazada, y haga clic en la opción azul "Referencias" que aparece en la parte superior derecha de la ventana del editor.
 
@@ -149,7 +149,7 @@ Si desea añadir una referencia que no aparece en la búsqueda, puede hacer clic
 
 En primer lugar, seleccione el tipo de publicación que desea introducir (artículo de revista, capítulo de libro, libro u otro). A continuación, rellene (o copie y pegue) los campos tal y como aparecen en el formulario "Crear nueva referencia".
 
-Para el campo "Referencia completa", introducirá la referencia en el campo de texto. La cita que introduzca en ese campo es la que aparecerá en la bibliografía. **No introduzca información DOI o URL en este campo** (véase más abajo). Siga el formato indicado en [el Apéndice 5](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1opuj5n)para añadir referencias.
+Para el campo "Referencia completa", introducirá la referencia en el campo de texto. La cita que introduzca en ese campo es la que aparecerá en la bibliografía. **No introduzca información DOI o URL en este campo** (véase más abajo). Siga el formato indicado en [el Apéndice 5](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.1opuj5n) para añadir referencias.
 
 Más abajo, el texto del campo "Prefijo del autor" determinará cómo deben aparecer los nombres de los autores en las citas en línea (por ejemplo, Smith, Smith y Jones, o Smith et al.). **No utilice "&" en este campo; escriba "and" en su lugar.**
 
@@ -179,8 +179,8 @@ Una vez finalizado el periodo de Revisión por el Editor, el personal de BOW le 
 
 Durante el período de revisión por el autor, todos los autores deben leer los comentarios del editor de BOW, realizar los cambios pertinentes, revisar la ficha en su totalidad y verificar que el formato y la ortografía de su nombre (por ejemplo, las iniciales que deben incluirse) aparecen correctamente en la cita. Si desea disponer de más tiempo para la revisión, avise al personal de BOW lo antes posible. Si el personal de BOW no puede comunicarse con usted, asumirá que no seguirá participando en el proceso de revisión y procederá a la publicación del borrador. Cualquier edición o comentario que envíe después de la publicación podrá seguir incorporándose a la ficha, aunque los cambios extensos pueden hacer necesaria una nueva versión.
 
-Una vez publicada su ficha, le animamos a que nos envíe cualquier pequeña modificación o corrección adicional por correo electrónico a Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu) ).
+Una vez publicada su ficha, le animamos a que nos envíe cualquier pequeña modificación o corrección adicional por correo electrónico a Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
-Por último, si tiene alguna pregunta sobre el formato o la mejor manera de proceder desde un punto de vista técnico, póngase en contacto con Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu) ) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu) ).
+Por último, si tiene alguna pregunta sobre el formato o la mejor manera de proceder desde un punto de vista técnico, póngase en contacto con Brooke Keeney ([bkk37\@cornell.edu](mailto:bkk37@cornell.edu)) o Maria Smith ([mgs248\@cornell.edu](mailto:mgs248@cornell.edu)).
 
 Gracias por todo su trabajo. Esperamos su revisión.
