@@ -1,5 +1,7 @@
 *Versión 15: Actualizada en mayo de 2025*
 
+*Also available in English [here](https://birds-of-the-world.github.io/birds-of-the-world/).*
+
 # Panorama general {.unnumbered}
 
 Gracias por ofrecerse como voluntaria/o para trabajar en una ficha de especies de Birds of the World (BOW). Nuestro objetivo es hacer de BOW una fuente de información esencial sobre la biología de todas las aves del mundo. Esta dinámica plataforma es posible gracias a la fusión de dos de las publicaciones del Cornell Lab, *Birds of North America* (BNA) y *Neotropical Birds* (NB), con contenidos del *Handbook of the Birds of the World* (HBW Alive) y *Bird Families of the World*, publicados originalmente por Lynx Edicions. BOW cuenta con el apoyo de datos en tiempo real de [eBird](https://ebird.org/home) y multimedia de la [Macaulay Library](https://www.macaulaylibrary.org/) (que ahora ha incorporado considerable material originalmente archivado en la Internet Bird Collection).
