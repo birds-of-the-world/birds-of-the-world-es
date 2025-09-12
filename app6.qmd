@@ -14,6 +14,8 @@ editor_options:
 
 -   **Alar tract // Tracto alar:** conjunto de plumas del ala, incluidas las rémiges y sus coberteras en las caras superiores e inferiores, pero no el tracto escapulohumeral, del que está separado por el apterio humeral.
 
+-   **Allopatric // Alopátrico:** Describe taxones que se encuentran en diferentes lugares y cuyas áreas de distribución no se superponen.
+
 -   **Alternate plumage // Plumaje alterno:** Nombre del segundo plumaje cuando hay dos plumajes por ciclo de plumaje. El primer plumaje (es decir, el plumaje básico) suele ser una muda más completa y suele dar lugar a un plumaje de color menos brillante/conspicuo que el plumaje alternativo. Puede ser numerado como primero, segundo, etc., para designar los cambios de color y de patrón de muda hasta alcanzar el estadio definitivo. Adquirido por una muda prealterna que generalmente reemplaza sólo las plumas del cuerpo, no las remiges ni las rectrices.
 
 -   **Altricial // Altricial:** Carácter de un ave joven que está indefensa cuando nace y requiere una crianza considerable antes de poder abandonar el nido. Al nacer, el polluelo está desnudo o tiene poco vello y los ojos cerrados.
@@ -48,7 +50,7 @@ editor_options:
 
 -   **Bristle // Cerda:** Pluma con un raquis rígido y cónico y púas sólo a lo largo de la porción proximal. Las "semicerdas" son intermedias entre las cerdas y las plumas de contorno, tienen un raquis conspicuo, barbas a lo largo de todo el raquis pero muy espaciadas cerca de la punta, y bárbulas muy pequeñas o ausentes en la mayoría de las barbas.
 
--    **Calls // Llamadas:** Manifestaciones vocales; sonidos estereotipados utilizados en la comunicación. Generalmente, las llamadas son cortas y simples, mientras que los cantos son largos y complejos, pero la distinción no es exacta. Además, las llamadas pueden producirse en cualquier momento, mientras que los cantos suelen emitirse principalmente en la época de cría. Una especie suele tener entre 5 y 20 llamadas.
+-   **Calls // Llamadas:** Manifestaciones vocales; sonidos estereotipados utilizados en la comunicación. Generalmente, las llamadas son cortas y simples, mientras que los cantos son largos y complejos, pero la distinción no es exacta. Además, las llamadas pueden producirse en cualquier momento, mientras que los cantos suelen emitirse principalmente en la época de cría. Una especie suele tener entre 5 y 20 llamadas.
 
 -   **Canopy // Dosel:** estrato superior del follaje en la vegetación forestal; formado por las copas de los árboles y subdividido en dos o tres niveles en las selvas tropicales.
 
@@ -252,6 +254,8 @@ editor_options:
 
 -   **Pamprodactyl // Pamprodáctilo:** Disposición de los dedos de los pies en la que los cuatro se encuentran delante, estando el hallux girado hacia delante, como en los vencejos.
 
+-   **Parapatric // Parapátrico:** Describe taxones cuyas áreas de distribución son adyacentes, pero no se superponen significativamente.
+
 -   **Pelagic // Pelágico:** Zona del océano profundo, más allá del talud continental.
 
 -   **Pennaceous // Penáceas:** Plumas en las que las barbas de cada aspa son paralelas y están entrelazadas entre sí mediante bárbulas en barbas adyacentes, es decir, las típicas plumas del cuerpo.
@@ -360,9 +364,13 @@ editor_options:
 
 -   **Supplemental Plumage // Plumaje suplementario:** Nombre de cualquier plumaje que aparece en un ciclo de plumaje además de los plumajes básico y alternativo (es decir, no es homólogo ni al plumaje básico ni al alternativo). Puede preceder o seguir al plumaje alternativo. Adquirido por una muda suplementaria.
 
+-   **Syllable // Sílaba:** Unidad repetida en una canción. Si utiliza este término, defínalo sin ambigüedades.
+
+-   **Sympatric // Simpátrico:** Describe taxones que se encuentran en la misma ubicación.
+
 -   **Syndactyl // Sindáctilo:** Disposición de los dedos en la que el tercero (medio) y el cuarto (externo) están parcialmente unidos con una sola suela ancha, como en el martín pescador.
 
--   **Syllable // Sílaba:** Unidad repetida en una canción. Si utiliza este término, defínalo sin ambigüedades.
+-   **Syntopic // Sintópico:** Describe taxones que se encuentran en el mismo hábitat al mismo tiempo; este término se utiliza a menudo para especies estrechamente relacionadas.
 
 -   **Taiga // Taiga:** Bosque septentrional, denso, predominantemente de coníferas, poco alterado o disectado y que a menudo contiene zonas pantanosas. Ocupa el amplio cinturón al sur de la tundra en latitudes medias altas.
 
