@@ -68,6 +68,11 @@ Los formatios de referencias usualmente siguen a los seguidos por *Ornithology*,
 
 ## Notas {#sec-app5-notes}
 
+-   Cuando cite un registro de espécimen, una lista de comprobación de eBird o un registro de xeno-canto, utilice el siguiente formato (tenga en cuenta los hipervínculos). Tenga en cuenta que estas no son referencias formales y, por lo tanto, no deben agregarse a la bibliografía:
+    -   Una hembra recogida el 9 de junio tenía la bursa de 4 × 2 mm y el cráneo osificado al 50% (Instituto de Biodiversidad de la Universidad de Kansas [KU 131737](http://portal.vertnet.org/o/ku/birds?id=429a80fd-5e77-4057-89fe-fe834d081699)).
+    -   En Halmahera, también emite más chirridos de zumbido hacia abajo, cada uno de unos 0,4-0,5 s, tono ca. 6,0-7,2 kHz (M. Anderson, xeno-canto: [XC497728](http://www.xeno-canto.org/497728)).
+    -   Hay dos registros extralimitales. El primero fue un avistamiento no documentado en Gili Trawangan (F. Dijkstra, eBird: [S68127960](https://ebird.org/checklist/S68127960?__hstc=65717809.0274d9e08ce2df9359e606762fab2b07.1652279465096.1659012084903.1659014944969.260&__hssc=65717809.34.1659014944969&__hsfp=868227580)).
+    -   Se ha observado a Patagioenas araucana bañándose en aguas poco profundas (D. Ghigliotto, iNaturalist: 149930529).
 -   Mayúsculas de los títulos en inglés:
     -   Para títulos de los artículos de revistas o reportes técnicos, colocar en mayúsculas solamente la primera palabra del título, la primera palabra después de dos puntos o un guión corto, de los nombres propios o los nombres comunes de aves (excepto palabras después de un guión largo) (incluyendo nombres no reconocidos por el eBird/Clements checklist).
     -   Notar que todas las partes de un nombre común debiese ser con mayúsculas, cuando se enlisten múltiples especies de aves (e.g., usar “Magnolia and Black-throated Blue Warblers” en vez de “Magnolia and Black-throated Blue warblers”).
