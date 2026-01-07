@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./edit.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-364982630eef5352dd1537128a8ed5cb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-70a47bd5681a7291082a5b9f83d58762.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -247,6 +248,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Una ficha puede incorporar texto de múltiples colaboradores a lo largo del tiempo. Los autores pueden ser eliminados de la lista de autores a petición suya o si los editores determinan que no queda suficiente contenido atribuido en la versión actual. No obstante, las versiones originales publicadas y su autoría se conservarán en el Historial de revisiones. Los colaboradores deben especificar en el Formulario de Información de autoras y autores de BOW (<a href="https://forms.gle/C3MySs5DtQZ1NR6b8">inglés</a>, <a href="https://forms.gle/EZes93EWtmtrvtXi7">español</a>) si desean que se les notifiquen los cambios de autoría.</p>
 <p>Cuando en las nuevas versiones se conserven datos u observaciones inéditos de autores anteriores, éstos deberán citarse adecuadamente haciendo referencia a la ficha anterior. Por ejemplo: “Anderson en Jones y Anderson (1998)”. Tales contribuciones se conservarán en el Historial de la ficha y pueden anotarse en la sección de Agradecimientos.</p>
 <p>Para mantener el estatus de autor, se anima a los autores a participar activamente en las actualizaciones de su trabajo a lo largo de varias versiones. Los colaboradores comprometidos y en regla pueden consultar con el personal de BOW el calendario y la aplicación de futuras actualizaciones de sus fichas.</p>
+<p>El contenido creado bajo contrato con HBW fue completado y remunerado de acuerdo con esos acuerdos originales. Dichas obligaciones contractuales se cumplieron con HBW y no se transfieren a BOW. Si bien BOW valora enormemente la experiencia de estos autores y acoge con interés su participación continua, BOW no está obligado a incluir a autores previamente contratados por HBW en las revisiones de contenido. Para participar en actualizaciones del proyecto, los antiguos autores de HBW deberán ser colaboradores activos, y cualquier nueva contribución a BOW por parte de autores anteriormente contratados por HBW será considerada voluntaria y estará sujeta a las políticas de colaboradores voluntarios.</p>
 </section>
 <section id="sec-app1-active" class="level2">
 <h2 class="anchored" data-anchor-id="sec-app1-active">3. Mantener el estatus de “autor activo”</h2>
@@ -358,13 +360,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
