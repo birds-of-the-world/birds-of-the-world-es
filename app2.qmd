@@ -258,7 +258,7 @@ Como se explica en la sección @sec-content-structure los colaboradores tienen c
     -   Conservation Measures and Habitat Management/Medidas de conservación y gestión de hábitats
     -   Effectiveness of Measures/Eficacia de las medidas
 
-## [RELATIONSHIP WITH HUMANS/RELACIONES CON EL SER HUMANO]{style="color:purple;"} {#sec-app2-humans}
+## [RELATIONSHIPS WITH PEOPLE/RELACIONES CON LA GENTE]{style="color:purple;"} {#sec-app2-humans}
 
 -   @sec-app3-humans-intro
 -   @sec-app3-humans-vernacular

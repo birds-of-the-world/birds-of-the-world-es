@@ -605,7 +605,7 @@ Divida la información de esta sección en Evaluación Global (es decir, por la 
 
 ### [Effects of Human Activity/Efectos de la actividad humana]{style="color:blue;"} {#sec-app3-conservation-effects}
 
-La mayoría de las subsecciones de esta sección (véase [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)) se explican por sí mismas. Si la presión de la caza humana tiene efectos sobre la población, hay que tratarlos en Caza, trampeo y capturas accesorias. Los aspectos económicos e impulsores de la caza humana, así como la caza a una escala lo suficientemente pequeña como para que no afecte a las poblaciones, deben tratarse en el apartado Importancia económica y utilitaria de la página Relación con los humanos. Las "colisiones" incluyen los choques contra faros y otros edificios altos, cables eléctricos, torres de televisión y ventanas, así como los atropellos por coches, aviones, barcos, etc. 
+La mayoría de las subsecciones de esta sección (véase [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)) se explican por sí mismas. Si la presión de la caza humana tiene efectos sobre la población, hay que tratarlos en Caza, trampeo y capturas accesorias. Los aspectos económicos e impulsores de la caza humana, así como la caza a una escala lo suficientemente pequeña como para que no afecte a las poblaciones, deben tratarse en el apartado Importancia económica y utilitaria de la página Relaciones con la gente. Las "colisiones" incluyen los choques contra faros y otros edificios altos, cables eléctricos, torres de televisión y ventanas, así como los atropellos por coches, aviones, barcos, etc. 
 
 Para cada subsección de la que se disponga de información, describa los lugares y épocas del año y la forma en que se produce la mortalidad, así como el número de individuos muertos, si se conoce. Si una subsección se ha tratado en otra sección, remita al lector allí y resuma brevemente, pero no repita, toda la información aquí.
 
@@ -613,11 +613,11 @@ Para cada subsección de la que se disponga de información, describa los lugare
 
 La mayoría de las subsecciones (véase [el Apéndice 2](https://docs.google.com/document/d/1Y06setGmeXlI9Kho0BFB73_tqh6QVMra/edit#bookmark=id.3as4poj)) de esta sección se explican por sí mismas. Para las zonas de conservación, enumere y comente las zonas protegidas utilizadas por la especie. Si hay demasiadas zonas para enumerarlas todas, céntrese en las más grandes, importantes o relevantes. También puede comentar las zonas habitadas por la especie que aún no han sido protegidas pero que se beneficiarían de la protección.
 
-## [RELATIONSHIP WITH HUMANS/RELACIONES CON EL SER HUMANO]{style="color:purple;"} {#sec-app3-humans}
+## [RELATIONSHIPS WITH PEOPLE/RELACIONES CON LA GENTE]{style="color:purple;"} {#sec-app3-humans}
 
-### [Relationship with Humans (introduction)/Relaciones con el ser humano (introducción)]{style="color:blue;"} {#sec-app3-humans-intro}
+### [Relationships with People (introduction)/Relaciones con la gente (introducción)]{style="color:blue;"} {#sec-app3-humans-intro}
 
-Resumen general de la relación de la especie con el ser humano y breve mención de cualquier punto destacable. Evite las citas en esta sección.
+Resumen general de las relaciones de la especie con la gente y breve mención de cualquier punto destacable. Evite las citas en esta sección.
 
 ### [Vernacular Names/Nombres vernaculares]{style="color:blue;"} {#sec-app3-humans-vernacular}
 
