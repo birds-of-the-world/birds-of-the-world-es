@@ -4,58 +4,59 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Listado de chequeo para enviar un borrador {#sec-checklist .unnumbered}
+# Guía de inicio rápido para contribuir en una ficha en BOW {#sec-checklist .unnumbered}
 
-Antes de enviar el Formulario de finalización del primer borrador de ficha BOW ([English](https://forms.gle/e6uTR5E8Z5aXXc9n6), [Español](https://forms.gle/4e3PifYqvKrbQ1tV8)), por favor asegurarse de lo siguiente:
+A continuación encontrará una descripción general importante del proceso de revisión de BOW. Los detalles sobre cada punto están disponibles en los distintos enlaces a las secciones correspondientes de las Directrices para contribuir en Birds of the World.
 
--   Si se está completando una revisión completa, intentar incluir información en todas las secciones de la ficha (véase [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html) para una lista de las secciones y [Appendix 3](https://birds-of-the-world.github.io/birds-of-the-world/app3.html) para una guía de cada sección).
+**Para agilizar el proceso de revisión editorial y de publicación, pedimos a todos los colaboradores de BOW que sigan estas pautas a fin de garantizar la coherencia entre las fichas de especies. Tenga en cuenta que los borradores de fichas que no sigan estas pautas podrían ser devueltos al autor o a los autores para trabajo adicional.**
 
--   Chequear las Referencias Adicionales, en la página de “References,” la cual podría tener artículos y otros que podrías haber omitido durante la búsqueda bibliográfica. Esto es especialmente para fichas del HBW, pues estas no incluían una revisión exhaustiva de la literatura.
+## General {#sec-checklist-general}
 
--   Citar todas las oraciones con un “reference tag” (véase @sec-edit-five), o añada una nota de si la fuente es información no publicada, una observación personal, una comunicación personal, o una observación de eBird o similar (véase @sec-content-grammar-references).
+-   Su revisión se basará en una ficha existente que **puede no seguir las convenciones actuales de estilo y formato de BOW**, por lo que asegúrese de seguir las instrucciones de estas pautas en lugar de imitar el estilo del texto original que figura en su borrador.
+-   Asegúrese de **configurar el idioma de BOW en inglés** en la esquina superior derecha antes de trabajar en su borrador. De momento no se debe agregar texto a los borradores en otros idiomas, aun si escriben la ficha en otro idioma (p.ej., español).
 
-    -   Excepción: Evitar usar referencias en la Introducción a menos que se esté incluyendo una cita textual o si no está incluido en otras secciones de la ficha.
+## Contenido {#sec-checklist-content}
 
-    -   Si no hay información disponible sobre el tópico, añadir “Information needed.”
+-   Una ficha de BOW se divide en [**páginas, secciones y subsecciones**](https://birds-of-the-world.github.io/birds-of-the-world-es/content.html#sec-content-structure). Las páginas y secciones se incluyen automáticamente en la estructura de la ficha. Deberá agregar las subsecciones a cada sección según corresponda. Puede editar la ficha una sección a la vez.
+-   **No asuma que la información que figura en la versión previa de la ficha se encuentra en la sección o subsección correcta.** La estructura de la ficha ha cambiado con el tiempo, y **la estructura actual se describe en el [**Apéndice 2**](https://birds-of-the-world.github.io/birds-of-the-world-es/app2.html)** (lista de secciones y subsecciones) **y el [**Apéndice 3**](https://birds-of-the-world.github.io/birds-of-the-world-es/app3.html)** (explicación de secciones y subsecciones).
+-   La gran mayoría de la información de una ficha, o la que deba agregarse en una revisión, puede ubicarse **en una subsección existente (véase el [**Apéndice** **2**](https://birds-of-the-world.github.io/birds-of-the-world-es/app2.html))**. Recuerde que también puede usar el cuadro de búsqueda para consultar [el Apéndice 3](https://birds-of-the-world.github.io/birds-of-the-world-es/app3.html) sobre un tema específico y ver en qué parte de la ficha debería abordarse.
+-   **Para una [**revisión completa**](https://birds-of-the-world.github.io/birds-of-the-world-es/background.html#sec-background-full), esperamos que los autores consideren si existe información disponible para todos los encabezados de sección y subsección.**
+-   Al agregar encabezados de subsección, utilice el [**estilo de texto Título 1**](https://birds-of-the-world.github.io/birds-of-the-world-es/edit.html#sec-edit-three).
+-   **Por favor, no repita en detalle la información en varios apartados de la ficha.** En cambio, describa la información en la sección más relevante de la ficha de BOW. En otras partes de la ficha, **simplemente [**remita al lector**](https://birds-of-the-world.github.io/birds-of-the-world-es/edit.html#sec-edit-three) a la página o sección con la cobertura detallada** del tema (p. ej., véase [Breeding: Eggs](https://birdsoftheworld.org/bow/species/eurgri1/cur/breeding#eggs)).
+-   Si una sección (es decir, una parte de la ficha con su propio botón “Edit Revision”) no aplica a su especie (p. ej., Migratory Behavior para una especie sedentaria), **simplemente déjela en blanco**. Las secciones sin texto **no** aparecerán en la ficha publicada.
+-   Si ha buscado exhaustivamente y no encuentra información sobre un tema específico que podría aplicar a su especie, la sección o subsección debe indicar **“Information is needed”** (p. ej., [aquí](https://birdsoftheworld.org/bow/species/bkfibi1/cur/breeding#eggs)). Si todas las subsecciones de una sección indican **“Information is needed”**, no es necesario listar cada encabezado de subsección; simplemente escriba **“Information is needed”** (p. ej., [aquí](https://birdsoftheworld.org/bow/species/bkfibi1/cur/breeding#hatch)).
+-   Las secciones introductorias de la mayoría de las páginas de una ficha se utilizan ahora para **resúmenes breves opcionales** de la información de cada página, similares a resúmenes, **sin citas bibliográficas**. Todo lo marcado con “(introduction)” en el [Apéndice 2](https://birds-of-the-world.github.io/birds-of-the-world-es/app2.html) corresponde a esta categoría. Si el borrador de su ficha contiene información **únicamente** en esta sección introductoria, es probable que haya sido trasladada desde uno de los proyectos fuente de BOW y **que deba trasladarse a las secciones correspondientes** más adelante en la página.
+-   Todo el texto debe ser su propia síntesis de la información que ha leído, con sus propias palabras. **El texto copiado de otra fuente (o tomado de otra fuente y apenas editado) constituye plagio y no está permitido según los [**estándares de contenido de BOW**](https://birds-of-the-world.github.io/birds-of-the-world-es/app1.html#sec-app1-content).** Tenga en cuenta que esto también aplica al trabajo propio si ha sido publicado previamente en otro lugar.
+-   **El uso de IA generativa para crear contenido no está permitido según los [**estándares de contenido de BOW**](https://birds-of-the-world.github.io/birds-of-the-world-es/app1.html#sec-app1-content).**
+-   Para garantizar la coherencia y la claridad, cada ficha de BOW **debe seguir la taxonomía de eBird/Clements**, tal como se indica en la ficha. Por ejemplo, la **ficha debe alinearse con las subespecies listadas en la página de Subespecies**. No obstante, puede discutir taxonomías alternativas o proporcionar una evaluación basada en la literatura sobre la validez de la estructura taxonómica actual. Si desea recomendar cambios de especies o subespecies en una actualización taxonómica futura, comuníquese con el equipo editorial para obtener más información.
+-   Al hablar de subespecies en cualquier sección, siga el orden en que están listadas en la sección de Subspecies.
 
-    -   Si estás preparando una revisión completa, pero no evaluarse una sección, por favor anotar “Esta sección no fue actualizada.”
+## Referencias {#sec-checklist-references}
 
--   Formatear todas las referencias nuevas añadidas al estilo de BOW (véase [Appendix 5](https://birds-of-the-world.github.io/birds-of-the-world/app5.html)). 
+-   Una característica fundamental de una ficha de BOW es la **cita de la [**literatura primaria**](https://birds-of-the-world.github.io/birds-of-the-world-es/content.html#sec-content-sources) para cada afirmación realizada en el texto**. Asegúrese de utilizar fuentes primarias siempre que sea posible. Si consulta un libro con su propia lista de referencias, consulte primero esas fuentes citadas y cite el libro en sí solo para información única que no pueda vincularse a una fuente primaria. Los sitios web y las entradas de blogs generalmente **no** son fuentes apropiadas para citar.
+-   Otros tipos de citas, como **observaciones personales, datos no publicados y listas de eBird**, pueden citarse cuando sea necesario. Por favor, formatee estas citas siguiendo las instrucciones que encontrará [aquí](https://birds-of-the-world.github.io/birds-of-the-world-es/content.html#sec-content-grammar-references).
+-   **Todas las citas deben estar vinculadas a la bibliografía maestra de BOW mediante "[**reference tags**](https://birds-of-the-world.github.io/birds-of-the-world-es/edit.html#sec-edit-five)”.** Comience por buscar la fuente correspondiente en la bibliografía. Si ya existe una entrada bibliográfica para dicha fuente, selecciónela aunque el formato sea incorrecto; el formato será corregido por un editor durante el proceso de revisión. Si la fuente aún no ha sido agregada a BOW, cree usted mismo una nueva entrada de referencia siguiendo el [estilo de BOW](https://birds-of-the-world.github.io/birds-of-the-world-es/app5.html). Agregue el DOI siempre que sea posible a las fuentes que usted mismo cree.
+-   Dentro de un paréntesis, **ordene las referencias cronológicamente** (y luego alfabéticamente si varias fuentes comparten el mismo año de publicación). Trate cada etiqueta de referencia amarilla como una palabra—**agregue un espacio** después de la coma que sigue a la etiqueta de referencia.
+-   Especialmente para una revisión completa, asegúrese de **consultar las Additional References** en la página de References de la ficha, por si hubiera fuentes que no incluyó en su búsqueda bibliográfica.
+-   Tenga en cuenta que **la [**Introduction**](https://birds-of-the-world.github.io/birds-of-the-world-es/app3.html#sec-app3-intro) generalmente no debe contener referencias**, ya que toda la información que aparece allí debe describirse con más detalle y citarse en otras partes de la ficha.
 
--   Escanee la Literatura Citada en la página de referencias para buscar referencias duplicadas (ordenar alfabéticamente es útil) y reemplace en el texto de la ficha para dejar solo una referencia (véase @sec-edit-five).
+## Estilo y formato {#sec-checklist-style}
 
--   Asegurarse de que los títulos no están con negritas (e.g., texto formateado como Heading 1 o Heading 2).
+-   **Por favor, escriba en oraciones completas**—no omita palabras para ahorrar espacio. (Tenga en cuenta que el texto original de su borrador puede necesitar ampliarse para ajustarse a esta convención.)
+-   Utilice la [**ortografía del inglés norteamericano**](https://birds-of-the-world.github.io/birds-of-the-world-es/app4.html#sec-app4-language).
+-   BOW utiliza lo que denominamos “species tags” (etiquetas de especie) cada vez que se menciona una especie de ave. Estas etiquetas permiten mostrar los nombres según la preferencia del usuario en eBird, garantizan que todos los autores utilicen la misma taxonomía y facilitan la automatización de los cambios durante las actualizaciones taxonómicas. **Por favor, [**inserte las etiquetas de especie**](https://birds-of-the-world.github.io/birds-of-the-world-es/app4.html#sec-app4-species) usando el botón Species Name de la barra de herramientas cada vez que se mencione un ave.** La configuración predeterminada es **solo nombre común**, pero utilice tanto el nombre común como el nombre científico **y** agregue un enlace HTML a la página de la especie correspondiente la primera vez que se mencione una especie distinta a la especie focal por sección de la ficha (o por página si la página es corta).
+-   En cuanto al estilo, **BOW se refiere a las aves en singular** (p. ej., “The Belted Kingfisher eats” en lugar de “Belted Kingfishers eat”, o “The male has a black cap” en lugar de “Males have black caps”).
+-   **Los nombres científicos** de subespecies o de especies que no sean aves deben escribirse en itálica usando el [**botón Sci Name**](https://birds-of-the-world.github.io/birds-of-the-world-es/app4.html#sec-app4-species) de la barra de herramientas. **Las descripciones de vocalizaciones** deben escribirse en itálica usando el [**botón Vocalization**](https://birds-of-the-world.github.io/birds-of-the-world-es/app4.html#sec-app4-vocalizations) de la barra de herramientas. Esto garantiza que no se traduzcan al publicarse la ficha.
+-   No use mayúscula en los nombres comunes de especies que no sean aves.
+-   La primera vez que se mencione una [ubicación geográfica](https://birds-of-the-world.github.io/birds-of-the-world-es/app4.html#sec-app4-geographic) por sección (o por página si la página es corta), siempre indique el país.
+-   Todo número que siga al símbolo ± debe especificarse como [**SD o SE**](https://birds-of-the-world.github.io/birds-of-the-world-es/app4.html#sec-app4-statistics) (p. ej., 121,4 mm ± 1,02 SE).
+-   [Las abreviaturas](https://birds-of-the-world.github.io/birds-of-the-world-es/app4.html#sec-app4-abbreviations), en general, **no** deben utilizarse, excepto las unidades del SI  (p. ej., use “observación personal” y no “obs. pers.”, y “noreste” y no “NE”).
 
--   Usar “species tags” para todas las referencias a nombres de aves (véase @sec-app4-species).
+## Una vez que haya terminado {#sec-checklist-finished}
 
-    -   Para la especie focal, usar el nombre común solamente (excepto cuando se use el nombre científico sea útil, como en la sección de “Systematics”).
+-   **Envíe el formulario de finalización del borrador** ([inglés](https://forms.gle/e6uTR5E8Z5aXXc9n6), [español](https://forms.gle/4e3PifYqvKrbQ1tV8)).
+-   El [período de revisión editorial](https://birds-of-the-world.github.io/birds-of-the-world-es/background.html#sec-background-timeline) **puede tomar varios meses** (o incluso más tiempo si el borrador se envía durante la actualización taxonómica anual, entre agosto y octubre). Gracias por su paciencia mientras el equipo editorial evalúa el borrador para verificar su conformidad con los estándares de contenido y formato de BOW.
+-   Es probable que un editor **le envíe algunas preguntas y comentarios sobre el borrador** para que los atienda antes de la publicación.
+-   **La autoría no puede actualizarse** en el borrador hasta las etapas finales del período de revisión editorial, cuando todas las contribuciones al borrador hayan sido finalizadas.
 
-    -   Para especies que no sean la especie focal, proveer el nombre común y científico y linkear a la ficha BOW de esa especie la primera vez que la especie sea mencionada en cada sección. Para menciones subsecuentes de la especie en la misma sección, utilizar solamente el nombre común. Para páginas cortas, proveer el nombre científico solo la primera vez en toda la página (más que en cada sección).
-
--   No usar una *s* o *‘s* después de un “species” para dar un nombre plural o posesivo, respectivamente. Nuestro proceso de traducción automática no puede lidiar con esto. En vez de ello, replantee la oración para usar el nombre singular.
-
--   Asegurarse que la especie focal es mencionada al inicio de cada página. Evitar iniciar una página o sección con “It,” pues debiese quedar claro que “it” se refiere a la especie focal.
-
--   Usar minúsculas en nombres comunes de especies no aviares (pero colocar los nombres propios en general con mayúsculas, e.g., Central American, European).
-
--   Asegurarse de que la primera sección de cada página (i.e., la sección que no tiene un título y que dice  “(introduction)” en el [Appendix 2](https://birds-of-the-world.github.io/birds-of-the-world/app2.html)) provee un resumen general de la información de la página, sin repetir los detalles específicos. Evitar las citas en la sección, a menos que se provea información que no esté en otras partes de la página (aunque estos casos debiesen ser excepcionales).
-
--   Para toda la información cuantitativa, especifique qué medidas son las que provee (e.g., mean, median, SD o SE) o el cómo la medida fue tomada (e.g., culmen expuesto). Cualquier número seguido de un símbolo “±” necesita ser especificado como SD o SE (e.g., 121.4 mm ± 1.02 SE). Si esta información no está reportada en la fuente original, indicar que no está especificada.
-
--   Verifica que cualquier figura, media o tablas fueron preparadas con los estándares de BOW (véase [Appendix 7](https://birds-of-the-world.github.io/birds-of-the-world/app7.html)). 
-
-    -   Si alguna parte del borrador fue publicada previamente en otro contexto, por favor asegurarse de tener permisos para republicarlos (e.g., figuras).
-
--   Chequear todos los enlaces y remover cualquiera que no esté funcionando actualmente.
-
--   Seguir convenciones del American English para deletrear (e.g., "gray" en vez de "grey") y puntuación (e.g., usar la “coma de Oxford”) (véase [Appendix 4](https://birds-of-the-world.github.io/birds-of-the-world/app4.html)).
-
--   Usar oraciones de un largo razonable, que permitan una lectura fácil.
-
--   Leer el borrador, chequeando gramática, y que todas las referencias estén correctas.
-
--   Finaliza el orden sugerido de la autoría (el cual será especificado en el Formulario).
-
--   Verifica que todos los autores y autoras hayan enviado de forma reciente (en los últimos dos años) el [acuerdo de contribución](https://drive.google.com/file/d/1Arz8mqAamqQFlIfV2zNJFQbbB5Y0D4Ug/view?usp=sharing) a Birds of the World.
-
--   Rellenar y enviar el Formulario de finalización del primer borrador de ficha BOW.
+**Gracias por su atención a estas importantes convenciones. Consulte la [**Guía rápida para el acceso a una ficha**](https://birds-of-the-world.github.io/birds-of-the-world-es/quickstart.html) en la página siguiente para comenzar a trabajar en el borrador de su ficha de especie.**

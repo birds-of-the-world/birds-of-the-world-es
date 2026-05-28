@@ -6,8 +6,8 @@ book:
   title: "Directrices para contribuir en <em>Birds of the World</em>"
   chapters:
     - index.qmd
-    - quickstart.qmd
     - checklist.qmd
+    - quickstart.qmd
     - background.qmd
     - content.qmd
     - edit.qmd

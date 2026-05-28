@@ -6,7 +6,7 @@ editor_options:
 
 # Apéndice 3: Descripción de las páginas, secciones y subsecciones de la ficha {#sec-app3 .unnumbered}
 
-En general, cuando no pueda encontrar información sobre un tema determinado, rellene esa sección con "Information needed" o "Information is needed" (no con "No hay información", "No hay datos" o "No se sabe nada"). Si no buscó bibliografía para una sección o secciones, puede anotar "This section was not evaluated". Para secciones o subsecciones en las que puede que nunca haya información relevante para una especie porque el comportamiento no se aplica (por ejemplo, Nidos no reproductores, Cría cooperativa o Parasitismo de cría por otras especies), utilice "Not reported".
+En general, cuando no pueda encontrar información sobre un tema determinado, rellene esa sección con "Information is needed" (no con "No hay información", "No hay datos" o "No se sabe nada"). Si no buscó bibliografía para una sección o secciones, puede anotar "This section was not evaluated". Para secciones o subsecciones en las que puede que nunca haya información relevante para una especie porque el comportamiento no se aplica (por ejemplo, Nidos no reproductores, Cría cooperativa o Parasitismo de cría por otras especies), utilice "Not reported".
 
 Por favor, evite utilizar las palabras "reciente" o "recientemente" en las fichas. Se trata de términos relativos, y algunas fichas se actualizan con más frecuencia que otras, lo que puede inducir a error en algunos casos. Siempre que sea posible, indique el año correspondiente (o un intervalo de años).
 

@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Guía de inicio rápido para la edición y revisión de BOW {.unnumbered}
+# Guía de inicio rápido para el acceso a una ficha {.unnumbered}
 
 Para editar o revisar una ficha, trabajará con un borrador de ficha no es visible para el público en general. Los pasos siguientes son una guía rápida para ayudarle a acceder y editar (si procede) el borrador de su ficha:
 
